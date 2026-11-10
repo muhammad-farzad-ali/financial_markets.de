@@ -1,0 +1,2279 @@
+series_a	series_b	corr	n
+DAX	MDAX	0.877129	252
+DAX	SDAX	0.768562	252
+DAX	SX5E	0.926679	252
+DAX	TECDAX	0.816297	251
+DAX	SECTOR:Communication Services	0.229601	252
+DAX	SECTOR:Consumer Discretionary	0.678525	252
+DAX	SECTOR:Consumer Staples	0.329279	252
+DAX	SECTOR:Financials	0.727847	252
+DAX	SECTOR:Health Care	0.540076	252
+DAX	SECTOR:Industrials	0.884674	252
+DAX	SECTOR:Information Technology	0.701240	252
+DAX	SECTOR:Materials	0.514998	252
+DAX	SECTOR:Real Estate	0.576255	252
+DAX	SECTOR:Utilities	0.333901	252
+DAX	IND:Aerospace & Defence	0.691531	252
+DAX	IND:Apparel	0.396582	252
+DAX	IND:Automotive	0.652315	252
+DAX	IND:Biotech	0.170519	252
+DAX	IND:Chemicals	0.236980	252
+DAX	IND:Construction Materials	0.550895	252
+DAX	IND:Consumer Goods	0.339143	252
+DAX	IND:Consumer goods	0.266342	252
+DAX	IND:Distribution	0.131569	252
+DAX	IND:E-Commerce	0.366080	252
+DAX	IND:Energy technology	0.561542	252
+DAX	IND:Financial Services	0.766353	252
+DAX	IND:Healthcare	0.281320	252
+DAX	IND:Industrials	0.778415	252
+DAX	IND:Insurance	0.197940	252
+DAX	IND:Logistics	0.632961	252
+DAX	IND:Mechanical Engineering	0.492566	252
+DAX	IND:Medical Equipment	0.500678	252
+DAX	IND:Pharmaceuticals	0.465300	252
+DAX	IND:Real Estate	0.576255	252
+DAX	IND:Technology	0.701240	252
+DAX	IND:Telecommunication	0.229601	252
+DAX	IND:Utilities	0.333901	252
+DAX	NACE:C	0.903189	252
+DAX	NACE:D	0.333901	252
+DAX	NACE:G	0.315206	252
+DAX	NACE:H	0.632961	252
+DAX	NACE:J	0.406269	252
+DAX	NACE:K	0.759726	252
+DAX	NACE:L	0.576255	252
+DAX	NACE:Q	0.281320	252
+DAX	NACE:14	0.396582	252
+DAX	NACE:20	0.329780	252
+DAX	NACE:21	0.465300	252
+DAX	NACE:23	0.550895	252
+DAX	NACE:25	0.381503	252
+DAX	NACE:26	0.709248	252
+DAX	NACE:28	0.770381	252
+DAX	NACE:29	0.660088	252
+DAX	NACE:30	0.708023	252
+DAX	NACE:32	0.170519	252
+DAX	NACE:35	0.333901	252
+DAX	NACE:46	0.131569	252
+DAX	NACE:47	0.323916	252
+DAX	NACE:53	0.632961	252
+DAX	NACE:58	0.359844	252
+DAX	NACE:61	0.229601	252
+DAX	NACE:63	0.247953	252
+DAX	NACE:64	0.786691	252
+DAX	NACE:65	0.434638	252
+DAX	NACE:66	0.061268	252
+DAX	NACE:68	0.576255	252
+DAX	NACE:86	0.281320	252
+MDAX	SDAX	0.852774	252
+MDAX	SX5E	0.830230	252
+MDAX	TECDAX	0.787434	251
+MDAX	SECTOR:Communication Services	0.138147	252
+MDAX	SECTOR:Consumer Discretionary	0.685073	252
+MDAX	SECTOR:Consumer Staples	0.301875	252
+MDAX	SECTOR:Financials	0.576638	252
+MDAX	SECTOR:Health Care	0.478465	252
+MDAX	SECTOR:Industrials	0.842367	252
+MDAX	SECTOR:Information Technology	0.620660	252
+MDAX	SECTOR:Materials	0.514506	252
+MDAX	SECTOR:Real Estate	0.558689	252
+MDAX	SECTOR:Utilities	0.258147	252
+MDAX	IND:Aerospace & Defence	0.662839	252
+MDAX	IND:Apparel	0.374862	252
+MDAX	IND:Automotive	0.672765	252
+MDAX	IND:Biotech	0.171636	252
+MDAX	IND:Chemicals	0.217908	252
+MDAX	IND:Construction Materials	0.571254	252
+MDAX	IND:Consumer Goods	0.322055	252
+MDAX	IND:Consumer goods	0.236905	252
+MDAX	IND:Distribution	0.156554	252
+MDAX	IND:E-Commerce	0.351389	252
+MDAX	IND:Energy technology	0.547398	252
+MDAX	IND:Financial Services	0.629512	252
+MDAX	IND:Healthcare	0.237752	252
+MDAX	IND:Industrials	0.675869	252
+MDAX	IND:Insurance	0.059345	252
+MDAX	IND:Logistics	0.608577	252
+MDAX	IND:Mechanical Engineering	0.472313	252
+MDAX	IND:Medical Equipment	0.432612	252
+MDAX	IND:Pharmaceuticals	0.414211	252
+MDAX	IND:Real Estate	0.558689	252
+MDAX	IND:Technology	0.620660	252
+MDAX	IND:Telecommunication	0.138147	252
+MDAX	IND:Utilities	0.258147	252
+MDAX	NACE:C	0.868778	252
+MDAX	NACE:D	0.258147	252
+MDAX	NACE:G	0.330158	252
+MDAX	NACE:H	0.608577	252
+MDAX	NACE:J	0.293275	252
+MDAX	NACE:K	0.638041	252
+MDAX	NACE:L	0.558689	252
+MDAX	NACE:Q	0.237752	252
+MDAX	NACE:14	0.374862	252
+MDAX	NACE:20	0.302694	252
+MDAX	NACE:21	0.414211	252
+MDAX	NACE:23	0.571254	252
+MDAX	NACE:25	0.349477	252
+MDAX	NACE:26	0.672502	252
+MDAX	NACE:28	0.716854	252
+MDAX	NACE:29	0.672146	252
+MDAX	NACE:30	0.692297	252
+MDAX	NACE:32	0.171636	252
+MDAX	NACE:35	0.258147	252
+MDAX	NACE:46	0.156554	252
+MDAX	NACE:47	0.326477	252
+MDAX	NACE:53	0.608577	252
+MDAX	NACE:58	0.246356	252
+MDAX	NACE:61	0.138147	252
+MDAX	NACE:63	0.218572	252
+MDAX	NACE:64	0.743807	252
+MDAX	NACE:65	0.271044	252
+MDAX	NACE:66	-0.018546	252
+MDAX	NACE:68	0.558689	252
+MDAX	NACE:86	0.237752	252
+SDAX	SX5E	0.725471	252
+SDAX	TECDAX	0.787860	251
+SDAX	SECTOR:Communication Services	0.045332	252
+SDAX	SECTOR:Consumer Discretionary	0.625641	252
+SDAX	SECTOR:Consumer Staples	0.287002	252
+SDAX	SECTOR:Financials	0.414962	252
+SDAX	SECTOR:Health Care	0.381520	252
+SDAX	SECTOR:Industrials	0.713819	252
+SDAX	SECTOR:Information Technology	0.663623	252
+SDAX	SECTOR:Materials	0.444849	252
+SDAX	SECTOR:Real Estate	0.428423	252
+SDAX	SECTOR:Utilities	0.216242	252
+SDAX	IND:Aerospace & Defence	0.512227	252
+SDAX	IND:Apparel	0.336989	252
+SDAX	IND:Automotive	0.601309	252
+SDAX	IND:Biotech	0.118568	252
+SDAX	IND:Chemicals	0.193463	252
+SDAX	IND:Construction Materials	0.488309	252
+SDAX	IND:Consumer Goods	0.278138	252
+SDAX	IND:Consumer goods	0.243546	252
+SDAX	IND:Distribution	0.167786	252
+SDAX	IND:E-Commerce	0.353593	252
+SDAX	IND:Energy technology	0.484654	252
+SDAX	IND:Financial Services	0.475850	252
+SDAX	IND:Healthcare	0.205186	252
+SDAX	IND:Industrials	0.622603	252
+SDAX	IND:Insurance	-0.056820	252
+SDAX	IND:Logistics	0.529038	252
+SDAX	IND:Mechanical Engineering	0.412746	252
+SDAX	IND:Medical Equipment	0.386463	252
+SDAX	IND:Pharmaceuticals	0.311418	252
+SDAX	IND:Real Estate	0.428423	252
+SDAX	IND:Technology	0.663623	252
+SDAX	IND:Telecommunication	0.045332	252
+SDAX	IND:Utilities	0.216242	252
+SDAX	NACE:C	0.754065	252
+SDAX	NACE:D	0.216242	252
+SDAX	NACE:G	0.320670	252
+SDAX	NACE:H	0.529038	252
+SDAX	NACE:J	0.298700	252
+SDAX	NACE:K	0.488003	252
+SDAX	NACE:L	0.428423	252
+SDAX	NACE:Q	0.205186	252
+SDAX	NACE:14	0.336989	252
+SDAX	NACE:20	0.280212	252
+SDAX	NACE:21	0.311418	252
+SDAX	NACE:23	0.488309	252
+SDAX	NACE:25	0.271744	252
+SDAX	NACE:26	0.665898	252
+SDAX	NACE:28	0.642641	252
+SDAX	NACE:29	0.594155	252
+SDAX	NACE:30	0.533578	252
+SDAX	NACE:32	0.118568	252
+SDAX	NACE:35	0.216242	252
+SDAX	NACE:46	0.167786	252
+SDAX	NACE:47	0.306349	252
+SDAX	NACE:53	0.529038	252
+SDAX	NACE:58	0.297453	252
+SDAX	NACE:61	0.045332	252
+SDAX	NACE:63	0.247636	252
+SDAX	NACE:64	0.627763	252
+SDAX	NACE:65	0.136337	252
+SDAX	NACE:66	-0.053789	252
+SDAX	NACE:68	0.428423	252
+SDAX	NACE:86	0.205186	252
+SX5E	TECDAX	0.716989	251
+SX5E	SECTOR:Communication Services	0.164737	252
+SX5E	SECTOR:Consumer Discretionary	0.600688	252
+SX5E	SECTOR:Consumer Staples	0.328938	252
+SX5E	SECTOR:Financials	0.677057	252
+SX5E	SECTOR:Health Care	0.470767	252
+SX5E	SECTOR:Industrials	0.863369	252
+SX5E	SECTOR:Information Technology	0.630804	252
+SX5E	SECTOR:Materials	0.485212	252
+SX5E	SECTOR:Real Estate	0.512051	252
+SX5E	SECTOR:Utilities	0.339499	252
+SX5E	IND:Aerospace & Defence	0.639857	252
+SX5E	IND:Apparel	0.360387	252
+SX5E	IND:Automotive	0.605805	252
+SX5E	IND:Biotech	0.158547	252
+SX5E	IND:Chemicals	0.206983	252
+SX5E	IND:Construction Materials	0.537087	252
+SX5E	IND:Consumer Goods	0.341250	252
+SX5E	IND:Consumer goods	0.264461	252
+SX5E	IND:Distribution	0.082715	252
+SX5E	IND:E-Commerce	0.254617	252
+SX5E	IND:Energy technology	0.614154	252
+SX5E	IND:Financial Services	0.733119	252
+SX5E	IND:Healthcare	0.231285	252
+SX5E	IND:Industrials	0.777696	252
+SX5E	IND:Insurance	0.095915	252
+SX5E	IND:Logistics	0.647176	252
+SX5E	IND:Mechanical Engineering	0.463625	252
+SX5E	IND:Medical Equipment	0.406987	252
+SX5E	IND:Pharmaceuticals	0.422895	252
+SX5E	IND:Real Estate	0.512051	252
+SX5E	IND:Technology	0.630804	252
+SX5E	IND:Telecommunication	0.164737	252
+SX5E	IND:Utilities	0.339499	252
+SX5E	NACE:C	0.869350	252
+SX5E	NACE:D	0.339499	252
+SX5E	NACE:G	0.235110	252
+SX5E	NACE:H	0.647176	252
+SX5E	NACE:J	0.229040	252
+SX5E	NACE:K	0.701684	252
+SX5E	NACE:L	0.512051	252
+SX5E	NACE:Q	0.231285	252
+SX5E	NACE:14	0.360387	252
+SX5E	NACE:20	0.313014	252
+SX5E	NACE:21	0.422895	252
+SX5E	NACE:23	0.537087	252
+SX5E	NACE:25	0.289031	252
+SX5E	NACE:26	0.719204	252
+SX5E	NACE:28	0.794583	252
+SX5E	NACE:29	0.617650	252
+SX5E	NACE:30	0.709020	252
+SX5E	NACE:32	0.158547	252
+SX5E	NACE:35	0.339499	252
+SX5E	NACE:46	0.082715	252
+SX5E	NACE:47	0.252141	252
+SX5E	NACE:53	0.647176	252
+SX5E	NACE:58	0.178662	252
+SX5E	NACE:61	0.164737	252
+SX5E	NACE:63	0.138929	252
+SX5E	NACE:64	0.800391	252
+SX5E	NACE:65	0.354684	252
+SX5E	NACE:66	-0.088512	252
+SX5E	NACE:68	0.512051	252
+SX5E	NACE:86	0.231285	252
+TECDAX	SECTOR:Communication Services	0.275995	251
+TECDAX	SECTOR:Consumer Discretionary	0.571361	251
+TECDAX	SECTOR:Consumer Staples	0.201007	251
+TECDAX	SECTOR:Financials	0.427245	251
+TECDAX	SECTOR:Health Care	0.417970	251
+TECDAX	SECTOR:Industrials	0.661226	251
+TECDAX	SECTOR:Information Technology	0.871161	251
+TECDAX	SECTOR:Materials	0.343417	251
+TECDAX	SECTOR:Real Estate	0.431139	251
+TECDAX	SECTOR:Utilities	0.148910	251
+TECDAX	IND:Aerospace & Defence	0.522233	251
+TECDAX	IND:Apparel	0.353494	251
+TECDAX	IND:Automotive	0.512880	251
+TECDAX	IND:Biotech	0.277864	251
+TECDAX	IND:Chemicals	0.146220	251
+TECDAX	IND:Construction Materials	0.382491	251
+TECDAX	IND:Consumer Goods	0.215804	251
+TECDAX	IND:Consumer goods	0.156841	251
+TECDAX	IND:Distribution	0.092240	251
+TECDAX	IND:E-Commerce	0.378637	251
+TECDAX	IND:Energy technology	0.427677	251
+TECDAX	IND:Financial Services	0.467041	251
+TECDAX	IND:Healthcare	0.143954	251
+TECDAX	IND:Industrials	0.577879	251
+TECDAX	IND:Insurance	0.040778	251
+TECDAX	IND:Logistics	0.473824	251
+TECDAX	IND:Mechanical Engineering	0.341814	251
+TECDAX	IND:Medical Equipment	0.480007	251
+TECDAX	IND:Pharmaceuticals	0.300026	251
+TECDAX	IND:Real Estate	0.431139	251
+TECDAX	IND:Technology	0.871161	251
+TECDAX	IND:Telecommunication	0.275995	251
+TECDAX	IND:Utilities	0.148910	251
+TECDAX	NACE:C	0.721021	251
+TECDAX	NACE:D	0.148910	251
+TECDAX	NACE:G	0.279075	251
+TECDAX	NACE:H	0.473824	251
+TECDAX	NACE:J	0.519905	251
+TECDAX	NACE:K	0.473523	251
+TECDAX	NACE:L	0.431139	251
+TECDAX	NACE:Q	0.143954	251
+TECDAX	NACE:14	0.353494	251
+TECDAX	NACE:20	0.201877	251
+TECDAX	NACE:21	0.300026	251
+TECDAX	NACE:23	0.382491	251
+TECDAX	NACE:25	0.300519	251
+TECDAX	NACE:26	0.793542	251
+TECDAX	NACE:28	0.572140	251
+TECDAX	NACE:29	0.513439	251
+TECDAX	NACE:30	0.524231	251
+TECDAX	NACE:32	0.277864	251
+TECDAX	NACE:35	0.148910	251
+TECDAX	NACE:46	0.092240	251
+TECDAX	NACE:47	0.303354	251
+TECDAX	NACE:53	0.473824	251
+TECDAX	NACE:58	0.490682	251
+TECDAX	NACE:61	0.275995	251
+TECDAX	NACE:63	0.296169	251
+TECDAX	NACE:64	0.548414	251
+TECDAX	NACE:65	0.179259	251
+TECDAX	NACE:66	0.048755	251
+TECDAX	NACE:68	0.431139	251
+TECDAX	NACE:86	0.143954	251
+SECTOR:Communication Services	SECTOR:Consumer Discretionary	0.306691	252
+SECTOR:Communication Services	SECTOR:Consumer Staples	0.310038	252
+SECTOR:Communication Services	SECTOR:Financials	0.299706	252
+SECTOR:Communication Services	SECTOR:Health Care	0.199029	252
+SECTOR:Communication Services	SECTOR:Industrials	0.083742	252
+SECTOR:Communication Services	SECTOR:Information Technology	0.018105	252
+SECTOR:Communication Services	SECTOR:Materials	0.251129	252
+SECTOR:Communication Services	SECTOR:Real Estate	0.251218	252
+SECTOR:Communication Services	SECTOR:Utilities	0.016586	252
+SECTOR:Communication Services	IND:Aerospace & Defence	0.100350	252
+SECTOR:Communication Services	IND:Apparel	0.249755	252
+SECTOR:Communication Services	IND:Automotive	0.277359	252
+SECTOR:Communication Services	IND:Biotech	-0.038779	252
+SECTOR:Communication Services	IND:Chemicals	0.275482	252
+SECTOR:Communication Services	IND:Construction Materials	0.091408	252
+SECTOR:Communication Services	IND:Consumer Goods	0.371197	252
+SECTOR:Communication Services	IND:Consumer goods	0.216911	252
+SECTOR:Communication Services	IND:Distribution	0.277177	252
+SECTOR:Communication Services	IND:E-Commerce	0.166700	252
+SECTOR:Communication Services	IND:Energy technology	-0.127970	252
+SECTOR:Communication Services	IND:Financial Services	0.264903	252
+SECTOR:Communication Services	IND:Healthcare	0.189971	252
+SECTOR:Communication Services	IND:Industrials	-0.086433	252
+SECTOR:Communication Services	IND:Insurance	0.302263	252
+SECTOR:Communication Services	IND:Logistics	0.134861	252
+SECTOR:Communication Services	IND:Mechanical Engineering	0.146000	252
+SECTOR:Communication Services	IND:Medical Equipment	0.260602	252
+SECTOR:Communication Services	IND:Pharmaceuticals	0.129641	252
+SECTOR:Communication Services	IND:Real Estate	0.251218	252
+SECTOR:Communication Services	IND:Technology	0.018105	252
+SECTOR:Communication Services	IND:Telecommunication	1.000000	252
+SECTOR:Communication Services	IND:Utilities	0.016586	252
+SECTOR:Communication Services	NACE:C	0.216944	252
+SECTOR:Communication Services	NACE:D	0.016586	252
+SECTOR:Communication Services	NACE:G	0.255108	252
+SECTOR:Communication Services	NACE:H	0.134861	252
+SECTOR:Communication Services	NACE:J	0.515381	252
+SECTOR:Communication Services	NACE:K	0.316016	252
+SECTOR:Communication Services	NACE:L	0.251218	252
+SECTOR:Communication Services	NACE:Q	0.189971	252
+SECTOR:Communication Services	NACE:14	0.249755	252
+SECTOR:Communication Services	NACE:20	0.339408	252
+SECTOR:Communication Services	NACE:21	0.129641	252
+SECTOR:Communication Services	NACE:23	0.091408	252
+SECTOR:Communication Services	NACE:25	0.015876	252
+SECTOR:Communication Services	NACE:26	0.039987	252
+SECTOR:Communication Services	NACE:28	-0.073367	252
+SECTOR:Communication Services	NACE:29	0.279079	252
+SECTOR:Communication Services	NACE:30	0.136018	252
+SECTOR:Communication Services	NACE:32	-0.038779	252
+SECTOR:Communication Services	NACE:35	0.016586	252
+SECTOR:Communication Services	NACE:46	0.277177	252
+SECTOR:Communication Services	NACE:47	0.145560	252
+SECTOR:Communication Services	NACE:53	0.134861	252
+SECTOR:Communication Services	NACE:58	0.121665	252
+SECTOR:Communication Services	NACE:61	1.000000	252
+SECTOR:Communication Services	NACE:63	0.115331	252
+SECTOR:Communication Services	NACE:64	0.183202	252
+SECTOR:Communication Services	NACE:65	0.324899	252
+SECTOR:Communication Services	NACE:66	0.189150	252
+SECTOR:Communication Services	NACE:68	0.251218	252
+SECTOR:Communication Services	NACE:86	0.189971	252
+SECTOR:Consumer Discretionary	SECTOR:Consumer Staples	0.452959	252
+SECTOR:Consumer Discretionary	SECTOR:Financials	0.540346	252
+SECTOR:Consumer Discretionary	SECTOR:Health Care	0.481623	252
+SECTOR:Consumer Discretionary	SECTOR:Industrials	0.520140	252
+SECTOR:Consumer Discretionary	SECTOR:Information Technology	0.377979	252
+SECTOR:Consumer Discretionary	SECTOR:Materials	0.598067	252
+SECTOR:Consumer Discretionary	SECTOR:Real Estate	0.505741	252
+SECTOR:Consumer Discretionary	SECTOR:Utilities	0.114466	252
+SECTOR:Consumer Discretionary	IND:Aerospace & Defence	0.386711	252
+SECTOR:Consumer Discretionary	IND:Apparel	0.609337	252
+SECTOR:Consumer Discretionary	IND:Automotive	0.915097	252
+SECTOR:Consumer Discretionary	IND:Biotech	0.194460	252
+SECTOR:Consumer Discretionary	IND:Chemicals	0.440201	252
+SECTOR:Consumer Discretionary	IND:Construction Materials	0.456906	252
+SECTOR:Consumer Discretionary	IND:Consumer Goods	0.464506	252
+SECTOR:Consumer Discretionary	IND:Consumer goods	0.367702	252
+SECTOR:Consumer Discretionary	IND:Distribution	0.319252	252
+SECTOR:Consumer Discretionary	IND:E-Commerce	0.631146	252
+SECTOR:Consumer Discretionary	IND:Energy technology	0.108241	252
+SECTOR:Consumer Discretionary	IND:Financial Services	0.559453	252
+SECTOR:Consumer Discretionary	IND:Healthcare	0.271345	252
+SECTOR:Consumer Discretionary	IND:Industrials	0.423834	252
+SECTOR:Consumer Discretionary	IND:Insurance	0.188261	252
+SECTOR:Consumer Discretionary	IND:Logistics	0.581641	252
+SECTOR:Consumer Discretionary	IND:Mechanical Engineering	0.392282	252
+SECTOR:Consumer Discretionary	IND:Medical Equipment	0.526201	252
+SECTOR:Consumer Discretionary	IND:Pharmaceuticals	0.343178	252
+SECTOR:Consumer Discretionary	IND:Real Estate	0.505741	252
+SECTOR:Consumer Discretionary	IND:Technology	0.377979	252
+SECTOR:Consumer Discretionary	IND:Telecommunication	0.306691	252
+SECTOR:Consumer Discretionary	IND:Utilities	0.114466	252
+SECTOR:Consumer Discretionary	NACE:C	0.788669	252
+SECTOR:Consumer Discretionary	NACE:D	0.114466	252
+SECTOR:Consumer Discretionary	NACE:G	0.595675	252
+SECTOR:Consumer Discretionary	NACE:H	0.581641	252
+SECTOR:Consumer Discretionary	NACE:J	0.484868	252
+SECTOR:Consumer Discretionary	NACE:K	0.661713	252
+SECTOR:Consumer Discretionary	NACE:L	0.505741	252
+SECTOR:Consumer Discretionary	NACE:Q	0.271345	252
+SECTOR:Consumer Discretionary	NACE:14	0.609337	252
+SECTOR:Consumer Discretionary	NACE:20	0.516695	252
+SECTOR:Consumer Discretionary	NACE:21	0.343178	252
+SECTOR:Consumer Discretionary	NACE:23	0.456906	252
+SECTOR:Consumer Discretionary	NACE:25	0.113252	252
+SECTOR:Consumer Discretionary	NACE:26	0.409839	252
+SECTOR:Consumer Discretionary	NACE:28	0.331566	252
+SECTOR:Consumer Discretionary	NACE:29	0.904197	252
+SECTOR:Consumer Discretionary	NACE:30	0.480279	252
+SECTOR:Consumer Discretionary	NACE:32	0.194460	252
+SECTOR:Consumer Discretionary	NACE:35	0.114466	252
+SECTOR:Consumer Discretionary	NACE:46	0.319252	252
+SECTOR:Consumer Discretionary	NACE:47	0.563901	252
+SECTOR:Consumer Discretionary	NACE:53	0.581641	252
+SECTOR:Consumer Discretionary	NACE:58	0.302728	252
+SECTOR:Consumer Discretionary	NACE:61	0.306691	252
+SECTOR:Consumer Discretionary	NACE:63	0.420685	252
+SECTOR:Consumer Discretionary	NACE:64	0.672005	252
+SECTOR:Consumer Discretionary	NACE:65	0.363420	252
+SECTOR:Consumer Discretionary	NACE:66	0.132434	252
+SECTOR:Consumer Discretionary	NACE:68	0.505741	252
+SECTOR:Consumer Discretionary	NACE:86	0.271345	252
+SECTOR:Consumer Staples	SECTOR:Financials	0.367627	252
+SECTOR:Consumer Staples	SECTOR:Health Care	0.460965	252
+SECTOR:Consumer Staples	SECTOR:Industrials	0.278790	252
+SECTOR:Consumer Staples	SECTOR:Information Technology	0.036448	252
+SECTOR:Consumer Staples	SECTOR:Materials	0.460080	252
+SECTOR:Consumer Staples	SECTOR:Real Estate	0.367475	252
+SECTOR:Consumer Staples	SECTOR:Utilities	-0.008391	252
+SECTOR:Consumer Staples	IND:Aerospace & Defence	0.182158	252
+SECTOR:Consumer Staples	IND:Apparel	0.422102	252
+SECTOR:Consumer Staples	IND:Automotive	0.394559	252
+SECTOR:Consumer Staples	IND:Biotech	0.166096	252
+SECTOR:Consumer Staples	IND:Chemicals	0.494928	252
+SECTOR:Consumer Staples	IND:Construction Materials	0.178287	252
+SECTOR:Consumer Staples	IND:Consumer Goods	0.837816	252
+SECTOR:Consumer Staples	IND:Consumer goods	0.934313	252
+SECTOR:Consumer Staples	IND:Distribution	0.324675	252
+SECTOR:Consumer Staples	IND:E-Commerce	0.251400	252
+SECTOR:Consumer Staples	IND:Energy technology	-0.052226	252
+SECTOR:Consumer Staples	IND:Financial Services	0.341399	252
+SECTOR:Consumer Staples	IND:Healthcare	0.364583	252
+SECTOR:Consumer Staples	IND:Industrials	0.180383	252
+SECTOR:Consumer Staples	IND:Insurance	0.299029	252
+SECTOR:Consumer Staples	IND:Logistics	0.351462	252
+SECTOR:Consumer Staples	IND:Mechanical Engineering	0.395109	252
+SECTOR:Consumer Staples	IND:Medical Equipment	0.409825	252
+SECTOR:Consumer Staples	IND:Pharmaceuticals	0.295888	252
+SECTOR:Consumer Staples	IND:Real Estate	0.367475	252
+SECTOR:Consumer Staples	IND:Technology	0.036448	252
+SECTOR:Consumer Staples	IND:Telecommunication	0.310038	252
+SECTOR:Consumer Staples	IND:Utilities	-0.008391	252
+SECTOR:Consumer Staples	NACE:C	0.511538	252
+SECTOR:Consumer Staples	NACE:D	-0.008391	252
+SECTOR:Consumer Staples	NACE:G	0.345249	252
+SECTOR:Consumer Staples	NACE:H	0.351462	252
+SECTOR:Consumer Staples	NACE:J	0.271097	252
+SECTOR:Consumer Staples	NACE:K	0.392613	252
+SECTOR:Consumer Staples	NACE:L	0.367475	252
+SECTOR:Consumer Staples	NACE:Q	0.364583	252
+SECTOR:Consumer Staples	NACE:14	0.422102	252
+SECTOR:Consumer Staples	NACE:20	0.877444	252
+SECTOR:Consumer Staples	NACE:21	0.295888	252
+SECTOR:Consumer Staples	NACE:23	0.178287	252
+SECTOR:Consumer Staples	NACE:25	0.014008	252
+SECTOR:Consumer Staples	NACE:26	0.109855	252
+SECTOR:Consumer Staples	NACE:28	0.140546	252
+SECTOR:Consumer Staples	NACE:29	0.401565	252
+SECTOR:Consumer Staples	NACE:30	0.259384	252
+SECTOR:Consumer Staples	NACE:32	0.166096	252
+SECTOR:Consumer Staples	NACE:35	-0.008391	252
+SECTOR:Consumer Staples	NACE:46	0.324675	252
+SECTOR:Consumer Staples	NACE:47	0.231448	252
+SECTOR:Consumer Staples	NACE:53	0.351462	252
+SECTOR:Consumer Staples	NACE:58	0.134733	252
+SECTOR:Consumer Staples	NACE:61	0.310038	252
+SECTOR:Consumer Staples	NACE:63	0.159036	252
+SECTOR:Consumer Staples	NACE:64	0.286784	252
+SECTOR:Consumer Staples	NACE:65	0.384281	252
+SECTOR:Consumer Staples	NACE:66	0.077701	252
+SECTOR:Consumer Staples	NACE:68	0.367475	252
+SECTOR:Consumer Staples	NACE:86	0.364583	252
+SECTOR:Financials	SECTOR:Health Care	0.520866	252
+SECTOR:Financials	SECTOR:Industrials	0.541340	252
+SECTOR:Financials	SECTOR:Information Technology	0.274026	252
+SECTOR:Financials	SECTOR:Materials	0.449816	252
+SECTOR:Financials	SECTOR:Real Estate	0.475545	252
+SECTOR:Financials	SECTOR:Utilities	0.247276	252
+SECTOR:Financials	IND:Aerospace & Defence	0.462632	252
+SECTOR:Financials	IND:Apparel	0.364095	252
+SECTOR:Financials	IND:Automotive	0.492771	252
+SECTOR:Financials	IND:Biotech	0.114389	252
+SECTOR:Financials	IND:Chemicals	0.265309	252
+SECTOR:Financials	IND:Construction Materials	0.416536	252
+SECTOR:Financials	IND:Consumer Goods	0.344960	252
+SECTOR:Financials	IND:Consumer goods	0.319350	252
+SECTOR:Financials	IND:Distribution	0.132821	252
+SECTOR:Financials	IND:E-Commerce	0.325861	252
+SECTOR:Financials	IND:Energy technology	0.197333	252
+SECTOR:Financials	IND:Financial Services	0.982354	252
+SECTOR:Financials	IND:Healthcare	0.334983	252
+SECTOR:Financials	IND:Industrials	0.452908	252
+SECTOR:Financials	IND:Insurance	0.579398	252
+SECTOR:Financials	IND:Logistics	0.447708	252
+SECTOR:Financials	IND:Mechanical Engineering	0.387741	252
+SECTOR:Financials	IND:Medical Equipment	0.491290	252
+SECTOR:Financials	IND:Pharmaceuticals	0.423452	252
+SECTOR:Financials	IND:Real Estate	0.475545	252
+SECTOR:Financials	IND:Technology	0.274026	252
+SECTOR:Financials	IND:Telecommunication	0.299706	252
+SECTOR:Financials	IND:Utilities	0.247276	252
+SECTOR:Financials	NACE:C	0.629735	252
+SECTOR:Financials	NACE:D	0.247276	252
+SECTOR:Financials	NACE:G	0.301642	252
+SECTOR:Financials	NACE:H	0.447708	252
+SECTOR:Financials	NACE:J	0.351591	252
+SECTOR:Financials	NACE:K	0.976731	252
+SECTOR:Financials	NACE:L	0.475545	252
+SECTOR:Financials	NACE:Q	0.334983	252
+SECTOR:Financials	NACE:14	0.364095	252
+SECTOR:Financials	NACE:20	0.368590	252
+SECTOR:Financials	NACE:21	0.423452	252
+SECTOR:Financials	NACE:23	0.416536	252
+SECTOR:Financials	NACE:25	0.262416	252
+SECTOR:Financials	NACE:26	0.318069	252
+SECTOR:Financials	NACE:28	0.395805	252
+SECTOR:Financials	NACE:29	0.495786	252
+SECTOR:Financials	NACE:30	0.467605	252
+SECTOR:Financials	NACE:32	0.114389	252
+SECTOR:Financials	NACE:35	0.247276	252
+SECTOR:Financials	NACE:46	0.132821	252
+SECTOR:Financials	NACE:47	0.305254	252
+SECTOR:Financials	NACE:53	0.447708	252
+SECTOR:Financials	NACE:58	0.252574	252
+SECTOR:Financials	NACE:61	0.299706	252
+SECTOR:Financials	NACE:63	0.199577	252
+SECTOR:Financials	NACE:64	0.773966	252
+SECTOR:Financials	NACE:65	0.799329	252
+SECTOR:Financials	NACE:66	0.341830	252
+SECTOR:Financials	NACE:68	0.475545	252
+SECTOR:Financials	NACE:86	0.334983	252
+SECTOR:Health Care	SECTOR:Industrials	0.415000	252
+SECTOR:Health Care	SECTOR:Information Technology	0.201417	252
+SECTOR:Health Care	SECTOR:Materials	0.454834	252
+SECTOR:Health Care	SECTOR:Real Estate	0.484103	252
+SECTOR:Health Care	SECTOR:Utilities	0.139477	252
+SECTOR:Health Care	IND:Aerospace & Defence	0.348255	252
+SECTOR:Health Care	IND:Apparel	0.357215	252
+SECTOR:Health Care	IND:Automotive	0.433312	252
+SECTOR:Health Care	IND:Biotech	0.513200	252
+SECTOR:Health Care	IND:Chemicals	0.317631	252
+SECTOR:Health Care	IND:Construction Materials	0.366480	252
+SECTOR:Health Care	IND:Consumer Goods	0.404889	252
+SECTOR:Health Care	IND:Consumer goods	0.418486	252
+SECTOR:Health Care	IND:Distribution	0.190890	252
+SECTOR:Health Care	IND:E-Commerce	0.286015	252
+SECTOR:Health Care	IND:Energy technology	0.057573	252
+SECTOR:Health Care	IND:Financial Services	0.511847	252
+SECTOR:Health Care	IND:Healthcare	0.653287	252
+SECTOR:Health Care	IND:Industrials	0.296693	252
+SECTOR:Health Care	IND:Insurance	0.301038	252
+SECTOR:Health Care	IND:Logistics	0.476896	252
+SECTOR:Health Care	IND:Mechanical Engineering	0.353149	252
+SECTOR:Health Care	IND:Medical Equipment	0.598836	252
+SECTOR:Health Care	IND:Pharmaceuticals	0.782179	252
+SECTOR:Health Care	IND:Real Estate	0.484103	252
+SECTOR:Health Care	IND:Technology	0.201417	252
+SECTOR:Health Care	IND:Telecommunication	0.199029	252
+SECTOR:Health Care	IND:Utilities	0.139477	252
+SECTOR:Health Care	NACE:C	0.643402	252
+SECTOR:Health Care	NACE:D	0.139477	252
+SECTOR:Health Care	NACE:G	0.318183	252
+SECTOR:Health Care	NACE:H	0.476896	252
+SECTOR:Health Care	NACE:J	0.298228	252
+SECTOR:Health Care	NACE:K	0.540395	252
+SECTOR:Health Care	NACE:L	0.484103	252
+SECTOR:Health Care	NACE:Q	0.653287	252
+SECTOR:Health Care	NACE:14	0.357215	252
+SECTOR:Health Care	NACE:20	0.453870	252
+SECTOR:Health Care	NACE:21	0.782179	252
+SECTOR:Health Care	NACE:23	0.366480	252
+SECTOR:Health Care	NACE:25	0.121561	252
+SECTOR:Health Care	NACE:26	0.271611	252
+SECTOR:Health Care	NACE:28	0.241417	252
+SECTOR:Health Care	NACE:29	0.436062	252
+SECTOR:Health Care	NACE:30	0.416025	252
+SECTOR:Health Care	NACE:32	0.513200	252
+SECTOR:Health Care	NACE:35	0.139477	252
+SECTOR:Health Care	NACE:46	0.190890	252
+SECTOR:Health Care	NACE:47	0.287303	252
+SECTOR:Health Care	NACE:53	0.476896	252
+SECTOR:Health Care	NACE:58	0.268414	252
+SECTOR:Health Care	NACE:61	0.199029	252
+SECTOR:Health Care	NACE:63	0.150979	252
+SECTOR:Health Care	NACE:64	0.460269	252
+SECTOR:Health Care	NACE:65	0.394931	252
+SECTOR:Health Care	NACE:66	0.187137	252
+SECTOR:Health Care	NACE:68	0.484103	252
+SECTOR:Health Care	NACE:86	0.653287	252
+SECTOR:Industrials	SECTOR:Information Technology	0.538504	252
+SECTOR:Industrials	SECTOR:Materials	0.415607	252
+SECTOR:Industrials	SECTOR:Real Estate	0.479848	252
+SECTOR:Industrials	SECTOR:Utilities	0.332799	252
+SECTOR:Industrials	IND:Aerospace & Defence	0.835825	252
+SECTOR:Industrials	IND:Apparel	0.281009	252
+SECTOR:Industrials	IND:Automotive	0.540446	252
+SECTOR:Industrials	IND:Biotech	0.133705	252
+SECTOR:Industrials	IND:Chemicals	0.134367	252
+SECTOR:Industrials	IND:Construction Materials	0.507607	252
+SECTOR:Industrials	IND:Consumer Goods	0.287036	252
+SECTOR:Industrials	IND:Consumer goods	0.225572	252
+SECTOR:Industrials	IND:Distribution	0.129450	252
+SECTOR:Industrials	IND:E-Commerce	0.201347	252
+SECTOR:Industrials	IND:Energy technology	0.678633	252
+SECTOR:Industrials	IND:Financial Services	0.594098	252
+SECTOR:Industrials	IND:Healthcare	0.211057	252
+SECTOR:Industrials	IND:Industrials	0.759195	252
+SECTOR:Industrials	IND:Insurance	0.042113	252
+SECTOR:Industrials	IND:Logistics	0.615350	252
+SECTOR:Industrials	IND:Mechanical Engineering	0.556231	252
+SECTOR:Industrials	IND:Medical Equipment	0.372307	252
+SECTOR:Industrials	IND:Pharmaceuticals	0.365080	252
+SECTOR:Industrials	IND:Real Estate	0.479848	252
+SECTOR:Industrials	IND:Technology	0.538504	252
+SECTOR:Industrials	IND:Telecommunication	0.083742	252
+SECTOR:Industrials	IND:Utilities	0.332799	252
+SECTOR:Industrials	NACE:C	0.861777	252
+SECTOR:Industrials	NACE:D	0.332799	252
+SECTOR:Industrials	NACE:G	0.221397	252
+SECTOR:Industrials	NACE:H	0.615350	252
+SECTOR:Industrials	NACE:J	0.145950	252
+SECTOR:Industrials	NACE:K	0.568416	252
+SECTOR:Industrials	NACE:L	0.479848	252
+SECTOR:Industrials	NACE:Q	0.211057	252
+SECTOR:Industrials	NACE:14	0.281009	252
+SECTOR:Industrials	NACE:20	0.242628	252
+SECTOR:Industrials	NACE:21	0.365080	252
+SECTOR:Industrials	NACE:23	0.507607	252
+SECTOR:Industrials	NACE:25	0.537075	252
+SECTOR:Industrials	NACE:26	0.649887	252
+SECTOR:Industrials	NACE:28	0.850657	252
+SECTOR:Industrials	NACE:29	0.552828	252
+SECTOR:Industrials	NACE:30	0.791739	252
+SECTOR:Industrials	NACE:32	0.133705	252
+SECTOR:Industrials	NACE:35	0.332799	252
+SECTOR:Industrials	NACE:46	0.129450	252
+SECTOR:Industrials	NACE:47	0.202216	252
+SECTOR:Industrials	NACE:53	0.615350	252
+SECTOR:Industrials	NACE:58	0.114045	252
+SECTOR:Industrials	NACE:61	0.083742	252
+SECTOR:Industrials	NACE:63	0.106332	252
+SECTOR:Industrials	NACE:64	0.674974	252
+SECTOR:Industrials	NACE:65	0.257455	252
+SECTOR:Industrials	NACE:66	-0.094575	252
+SECTOR:Industrials	NACE:68	0.479848	252
+SECTOR:Industrials	NACE:86	0.211057	252
+SECTOR:Information Technology	SECTOR:Materials	0.213612	252
+SECTOR:Information Technology	SECTOR:Real Estate	0.324335	252
+SECTOR:Information Technology	SECTOR:Utilities	0.073420	252
+SECTOR:Information Technology	IND:Aerospace & Defence	0.381755	252
+SECTOR:Information Technology	IND:Apparel	0.220021	252
+SECTOR:Information Technology	IND:Automotive	0.333360	252
+SECTOR:Information Technology	IND:Biotech	0.122930	252
+SECTOR:Information Technology	IND:Chemicals	0.042834	252
+SECTOR:Information Technology	IND:Construction Materials	0.289963	252
+SECTOR:Information Technology	IND:Consumer Goods	0.078449	252
+SECTOR:Information Technology	IND:Consumer goods	0.002772	252
+SECTOR:Information Technology	IND:Distribution	0.001871	252
+SECTOR:Information Technology	IND:E-Commerce	0.272669	252
+SECTOR:Information Technology	IND:Energy technology	0.441540	252
+SECTOR:Information Technology	IND:Financial Services	0.331251	252
+SECTOR:Information Technology	IND:Healthcare	0.029857	252
+SECTOR:Information Technology	IND:Industrials	0.555194	252
+SECTOR:Information Technology	IND:Insurance	-0.111673	252
+SECTOR:Information Technology	IND:Logistics	0.364038	252
+SECTOR:Information Technology	IND:Mechanical Engineering	0.224716	252
+SECTOR:Information Technology	IND:Medical Equipment	0.214028	252
+SECTOR:Information Technology	IND:Pharmaceuticals	0.188076	252
+SECTOR:Information Technology	IND:Real Estate	0.324335	252
+SECTOR:Information Technology	IND:Technology	1.000000	252
+SECTOR:Information Technology	IND:Telecommunication	0.018105	252
+SECTOR:Information Technology	IND:Utilities	0.073420	252
+SECTOR:Information Technology	NACE:C	0.546459	252
+SECTOR:Information Technology	NACE:D	0.073420	252
+SECTOR:Information Technology	NACE:G	0.167178	252
+SECTOR:Information Technology	NACE:H	0.364038	252
+SECTOR:Information Technology	NACE:J	0.396951	252
+SECTOR:Information Technology	NACE:K	0.300649	252
+SECTOR:Information Technology	NACE:L	0.324335	252
+SECTOR:Information Technology	NACE:Q	0.029857	252
+SECTOR:Information Technology	NACE:14	0.220021	252
+SECTOR:Information Technology	NACE:20	0.045669	252
+SECTOR:Information Technology	NACE:21	0.188076	252
+SECTOR:Information Technology	NACE:23	0.289963	252
+SECTOR:Information Technology	NACE:25	0.187348	252
+SECTOR:Information Technology	NACE:26	0.808470	252
+SECTOR:Information Technology	NACE:28	0.541562	252
+SECTOR:Information Technology	NACE:29	0.337924	252
+SECTOR:Information Technology	NACE:30	0.410459	252
+SECTOR:Information Technology	NACE:32	0.122930	252
+SECTOR:Information Technology	NACE:35	0.073420	252
+SECTOR:Information Technology	NACE:46	0.001871	252
+SECTOR:Information Technology	NACE:47	0.218185	252
+SECTOR:Information Technology	NACE:53	0.364038	252
+SECTOR:Information Technology	NACE:58	0.521089	252
+SECTOR:Information Technology	NACE:61	0.018105	252
+SECTOR:Information Technology	NACE:63	0.213504	252
+SECTOR:Information Technology	NACE:64	0.436340	252
+SECTOR:Information Technology	NACE:65	0.020690	252
+SECTOR:Information Technology	NACE:66	-0.058534	252
+SECTOR:Information Technology	NACE:68	0.324335	252
+SECTOR:Information Technology	NACE:86	0.029857	252
+SECTOR:Materials	SECTOR:Real Estate	0.452195	252
+SECTOR:Materials	SECTOR:Utilities	0.114074	252
+SECTOR:Materials	IND:Aerospace & Defence	0.240958	252
+SECTOR:Materials	IND:Apparel	0.391073	252
+SECTOR:Materials	IND:Automotive	0.532795	252
+SECTOR:Materials	IND:Biotech	0.153790	252
+SECTOR:Materials	IND:Chemicals	0.777861	252
+SECTOR:Materials	IND:Construction Materials	0.717624	252
+SECTOR:Materials	IND:Consumer Goods	0.468286	252
+SECTOR:Materials	IND:Consumer goods	0.375783	252
+SECTOR:Materials	IND:Distribution	0.434017	252
+SECTOR:Materials	IND:E-Commerce	0.395861	252
+SECTOR:Materials	IND:Energy technology	0.067739	252
+SECTOR:Materials	IND:Financial Services	0.468355	252
+SECTOR:Materials	IND:Healthcare	0.287495	252
+SECTOR:Materials	IND:Industrials	0.342793	252
+SECTOR:Materials	IND:Insurance	0.145244	252
+SECTOR:Materials	IND:Logistics	0.477762	252
+SECTOR:Materials	IND:Mechanical Engineering	0.374955	252
+SECTOR:Materials	IND:Medical Equipment	0.383533	252
+SECTOR:Materials	IND:Pharmaceuticals	0.362279	252
+SECTOR:Materials	IND:Real Estate	0.452195	252
+SECTOR:Materials	IND:Technology	0.213612	252
+SECTOR:Materials	IND:Telecommunication	0.251129	252
+SECTOR:Materials	IND:Utilities	0.114074	252
+SECTOR:Materials	NACE:C	0.656512	252
+SECTOR:Materials	NACE:D	0.114074	252
+SECTOR:Materials	NACE:G	0.489563	252
+SECTOR:Materials	NACE:H	0.477762	252
+SECTOR:Materials	NACE:J	0.289725	252
+SECTOR:Materials	NACE:K	0.489351	252
+SECTOR:Materials	NACE:L	0.452195	252
+SECTOR:Materials	NACE:Q	0.287495	252
+SECTOR:Materials	NACE:14	0.391073	252
+SECTOR:Materials	NACE:20	0.707397	252
+SECTOR:Materials	NACE:21	0.362279	252
+SECTOR:Materials	NACE:23	0.717624	252
+SECTOR:Materials	NACE:25	0.016620	252
+SECTOR:Materials	NACE:26	0.303801	252
+SECTOR:Materials	NACE:28	0.271091	252
+SECTOR:Materials	NACE:29	0.541701	252
+SECTOR:Materials	NACE:30	0.344723	252
+SECTOR:Materials	NACE:32	0.153790	252
+SECTOR:Materials	NACE:35	0.114074	252
+SECTOR:Materials	NACE:46	0.434017	252
+SECTOR:Materials	NACE:47	0.346207	252
+SECTOR:Materials	NACE:53	0.477762	252
+SECTOR:Materials	NACE:58	0.114840	252
+SECTOR:Materials	NACE:61	0.251129	252
+SECTOR:Materials	NACE:63	0.273196	252
+SECTOR:Materials	NACE:64	0.499401	252
+SECTOR:Materials	NACE:65	0.276388	252
+SECTOR:Materials	NACE:66	0.072401	252
+SECTOR:Materials	NACE:68	0.452195	252
+SECTOR:Materials	NACE:86	0.287495	252
+SECTOR:Real Estate	SECTOR:Utilities	0.163609	252
+SECTOR:Real Estate	IND:Aerospace & Defence	0.355493	252
+SECTOR:Real Estate	IND:Apparel	0.313984	252
+SECTOR:Real Estate	IND:Automotive	0.477592	252
+SECTOR:Real Estate	IND:Biotech	0.181865	252
+SECTOR:Real Estate	IND:Chemicals	0.310062	252
+SECTOR:Real Estate	IND:Construction Materials	0.370699	252
+SECTOR:Real Estate	IND:Consumer Goods	0.384036	252
+SECTOR:Real Estate	IND:Consumer goods	0.293612	252
+SECTOR:Real Estate	IND:Distribution	0.165351	252
+SECTOR:Real Estate	IND:E-Commerce	0.282394	252
+SECTOR:Real Estate	IND:Energy technology	0.221777	252
+SECTOR:Real Estate	IND:Financial Services	0.476925	252
+SECTOR:Real Estate	IND:Healthcare	0.318914	252
+SECTOR:Real Estate	IND:Industrials	0.367115	252
+SECTOR:Real Estate	IND:Insurance	0.232948	252
+SECTOR:Real Estate	IND:Logistics	0.415112	252
+SECTOR:Real Estate	IND:Mechanical Engineering	0.419357	252
+SECTOR:Real Estate	IND:Medical Equipment	0.340067	252
+SECTOR:Real Estate	IND:Pharmaceuticals	0.393103	252
+SECTOR:Real Estate	IND:Real Estate	1.000000	252
+SECTOR:Real Estate	IND:Technology	0.324335	252
+SECTOR:Real Estate	IND:Telecommunication	0.251218	252
+SECTOR:Real Estate	IND:Utilities	0.163609	252
+SECTOR:Real Estate	NACE:C	0.600998	252
+SECTOR:Real Estate	NACE:D	0.163609	252
+SECTOR:Real Estate	NACE:G	0.314827	252
+SECTOR:Real Estate	NACE:H	0.415112	252
+SECTOR:Real Estate	NACE:J	0.271111	252
+SECTOR:Real Estate	NACE:K	0.501717	252
+SECTOR:Real Estate	NACE:L	1.000000	252
+SECTOR:Real Estate	NACE:Q	0.318914	252
+SECTOR:Real Estate	NACE:14	0.313984	252
+SECTOR:Real Estate	NACE:20	0.393203	252
+SECTOR:Real Estate	NACE:21	0.393103	252
+SECTOR:Real Estate	NACE:23	0.370699	252
+SECTOR:Real Estate	NACE:25	0.146434	252
+SECTOR:Real Estate	NACE:26	0.346883	252
+SECTOR:Real Estate	NACE:28	0.385679	252
+SECTOR:Real Estate	NACE:29	0.486698	252
+SECTOR:Real Estate	NACE:30	0.405839	252
+SECTOR:Real Estate	NACE:32	0.181865	252
+SECTOR:Real Estate	NACE:35	0.163609	252
+SECTOR:Real Estate	NACE:46	0.165351	252
+SECTOR:Real Estate	NACE:47	0.300343	252
+SECTOR:Real Estate	NACE:53	0.415112	252
+SECTOR:Real Estate	NACE:58	0.201873	252
+SECTOR:Real Estate	NACE:61	0.251218	252
+SECTOR:Real Estate	NACE:63	0.128242	252
+SECTOR:Real Estate	NACE:64	0.455468	252
+SECTOR:Real Estate	NACE:65	0.361750	252
+SECTOR:Real Estate	NACE:66	0.089228	252
+SECTOR:Real Estate	NACE:68	1.000000	252
+SECTOR:Real Estate	NACE:86	0.318914	252
+SECTOR:Utilities	IND:Aerospace & Defence	0.213723	252
+SECTOR:Utilities	IND:Apparel	-0.067661	252
+SECTOR:Utilities	IND:Automotive	0.155574	252
+SECTOR:Utilities	IND:Biotech	-0.011666	252
+SECTOR:Utilities	IND:Chemicals	0.062721	252
+SECTOR:Utilities	IND:Construction Materials	0.110689	252
+SECTOR:Utilities	IND:Consumer Goods	0.009010	252
+SECTOR:Utilities	IND:Consumer goods	-0.018313	252
+SECTOR:Utilities	IND:Distribution	0.076088	252
+SECTOR:Utilities	IND:E-Commerce	0.031766	252
+SECTOR:Utilities	IND:Energy technology	0.330204	252
+SECTOR:Utilities	IND:Financial Services	0.239129	252
+SECTOR:Utilities	IND:Healthcare	0.024918	252
+SECTOR:Utilities	IND:Industrials	0.241971	252
+SECTOR:Utilities	IND:Insurance	0.159762	252
+SECTOR:Utilities	IND:Logistics	0.238836	252
+SECTOR:Utilities	IND:Mechanical Engineering	0.130996	252
+SECTOR:Utilities	IND:Medical Equipment	0.008483	252
+SECTOR:Utilities	IND:Pharmaceuticals	0.237211	252
+SECTOR:Utilities	IND:Real Estate	0.163609	252
+SECTOR:Utilities	IND:Technology	0.073420	252
+SECTOR:Utilities	IND:Telecommunication	0.016586	252
+SECTOR:Utilities	IND:Utilities	1.000000	252
+SECTOR:Utilities	NACE:C	0.256574	252
+SECTOR:Utilities	NACE:D	1.000000	252
+SECTOR:Utilities	NACE:G	0.144371	252
+SECTOR:Utilities	NACE:H	0.238836	252
+SECTOR:Utilities	NACE:J	-0.148518	252
+SECTOR:Utilities	NACE:K	0.240712	252
+SECTOR:Utilities	NACE:L	0.163609	252
+SECTOR:Utilities	NACE:Q	0.024918	252
+SECTOR:Utilities	NACE:14	-0.067661	252
+SECTOR:Utilities	NACE:20	0.029554	252
+SECTOR:Utilities	NACE:21	0.237211	252
+SECTOR:Utilities	NACE:23	0.110689	252
+SECTOR:Utilities	NACE:25	0.224602	252
+SECTOR:Utilities	NACE:26	0.205954	252
+SECTOR:Utilities	NACE:28	0.328372	252
+SECTOR:Utilities	NACE:29	0.163075	252
+SECTOR:Utilities	NACE:30	0.128906	252
+SECTOR:Utilities	NACE:32	-0.011666	252
+SECTOR:Utilities	NACE:35	1.000000	252
+SECTOR:Utilities	NACE:46	0.076088	252
+SECTOR:Utilities	NACE:47	0.137550	252
+SECTOR:Utilities	NACE:53	0.238836	252
+SECTOR:Utilities	NACE:58	-0.182150	252
+SECTOR:Utilities	NACE:61	0.016586	252
+SECTOR:Utilities	NACE:63	-0.115150	252
+SECTOR:Utilities	NACE:64	0.213767	252
+SECTOR:Utilities	NACE:65	0.216454	252
+SECTOR:Utilities	NACE:66	-0.037991	252
+SECTOR:Utilities	NACE:68	0.163609	252
+SECTOR:Utilities	NACE:86	0.024918	252
+IND:Aerospace & Defence	IND:Apparel	0.257985	252
+IND:Aerospace & Defence	IND:Automotive	0.357426	252
+IND:Aerospace & Defence	IND:Biotech	0.146151	252
+IND:Aerospace & Defence	IND:Chemicals	-0.012345	252
+IND:Aerospace & Defence	IND:Construction Materials	0.394310	252
+IND:Aerospace & Defence	IND:Consumer Goods	0.180500	252
+IND:Aerospace & Defence	IND:Consumer goods	0.151987	252
+IND:Aerospace & Defence	IND:Distribution	-0.090528	252
+IND:Aerospace & Defence	IND:E-Commerce	0.223794	252
+IND:Aerospace & Defence	IND:Energy technology	0.379184	252
+IND:Aerospace & Defence	IND:Financial Services	0.503946	252
+IND:Aerospace & Defence	IND:Healthcare	0.182524	252
+IND:Aerospace & Defence	IND:Industrials	0.472200	252
+IND:Aerospace & Defence	IND:Insurance	0.052436	252
+IND:Aerospace & Defence	IND:Logistics	0.354353	252
+IND:Aerospace & Defence	IND:Mechanical Engineering	0.389570	252
+IND:Aerospace & Defence	IND:Medical Equipment	0.329385	252
+IND:Aerospace & Defence	IND:Pharmaceuticals	0.276469	252
+IND:Aerospace & Defence	IND:Real Estate	0.355493	252
+IND:Aerospace & Defence	IND:Technology	0.381755	252
+IND:Aerospace & Defence	IND:Telecommunication	0.100350	252
+IND:Aerospace & Defence	IND:Utilities	0.213723	252
+IND:Aerospace & Defence	NACE:C	0.676115	252
+IND:Aerospace & Defence	NACE:D	0.213723	252
+IND:Aerospace & Defence	NACE:G	0.090619	252
+IND:Aerospace & Defence	NACE:H	0.354353	252
+IND:Aerospace & Defence	NACE:J	0.211956	252
+IND:Aerospace & Defence	NACE:K	0.466154	252
+IND:Aerospace & Defence	NACE:L	0.355493	252
+IND:Aerospace & Defence	NACE:Q	0.182524	252
+IND:Aerospace & Defence	NACE:14	0.257985	252
+IND:Aerospace & Defence	NACE:20	0.103250	252
+IND:Aerospace & Defence	NACE:21	0.276469	252
+IND:Aerospace & Defence	NACE:23	0.394310	252
+IND:Aerospace & Defence	NACE:25	0.767802	252
+IND:Aerospace & Defence	NACE:26	0.429434	252
+IND:Aerospace & Defence	NACE:28	0.514312	252
+IND:Aerospace & Defence	NACE:29	0.368173	252
+IND:Aerospace & Defence	NACE:30	0.841718	252
+IND:Aerospace & Defence	NACE:32	0.146151	252
+IND:Aerospace & Defence	NACE:35	0.213723	252
+IND:Aerospace & Defence	NACE:46	-0.090528	252
+IND:Aerospace & Defence	NACE:47	0.180799	252
+IND:Aerospace & Defence	NACE:53	0.354353	252
+IND:Aerospace & Defence	NACE:58	0.165126	252
+IND:Aerospace & Defence	NACE:61	0.100350	252
+IND:Aerospace & Defence	NACE:63	0.173084	252
+IND:Aerospace & Defence	NACE:64	0.521023	252
+IND:Aerospace & Defence	NACE:65	0.224339	252
+IND:Aerospace & Defence	NACE:66	0.003097	252
+IND:Aerospace & Defence	NACE:68	0.355493	252
+IND:Aerospace & Defence	NACE:86	0.182524	252
+IND:Apparel	IND:Automotive	0.385934	252
+IND:Apparel	IND:Biotech	0.175718	252
+IND:Apparel	IND:Chemicals	0.291547	252
+IND:Apparel	IND:Construction Materials	0.294665	252
+IND:Apparel	IND:Consumer Goods	0.446384	252
+IND:Apparel	IND:Consumer goods	0.333825	252
+IND:Apparel	IND:Distribution	0.192002	252
+IND:Apparel	IND:E-Commerce	0.431372	252
+IND:Apparel	IND:Energy technology	-0.046247	252
+IND:Apparel	IND:Financial Services	0.368633	252
+IND:Apparel	IND:Healthcare	0.242528	252
+IND:Apparel	IND:Industrials	0.196970	252
+IND:Apparel	IND:Insurance	0.163184	252
+IND:Apparel	IND:Logistics	0.317061	252
+IND:Apparel	IND:Mechanical Engineering	0.282420	252
+IND:Apparel	IND:Medical Equipment	0.333372	252
+IND:Apparel	IND:Pharmaceuticals	0.228021	252
+IND:Apparel	IND:Real Estate	0.313984	252
+IND:Apparel	IND:Technology	0.220021	252
+IND:Apparel	IND:Telecommunication	0.249755	252
+IND:Apparel	IND:Utilities	-0.067661	252
+IND:Apparel	NACE:C	0.493591	252
+IND:Apparel	NACE:D	-0.067661	252
+IND:Apparel	NACE:G	0.387045	252
+IND:Apparel	NACE:H	0.317061	252
+IND:Apparel	NACE:J	0.372487	252
+IND:Apparel	NACE:K	0.396829	252
+IND:Apparel	NACE:L	0.313984	252
+IND:Apparel	NACE:Q	0.242528	252
+IND:Apparel	NACE:14	1.000000	252
+IND:Apparel	NACE:20	0.415989	252
+IND:Apparel	NACE:21	0.228021	252
+IND:Apparel	NACE:23	0.294665	252
+IND:Apparel	NACE:25	0.024878	252
+IND:Apparel	NACE:26	0.203701	252
+IND:Apparel	NACE:28	0.121361	252
+IND:Apparel	NACE:29	0.384403	252
+IND:Apparel	NACE:30	0.363111	252
+IND:Apparel	NACE:32	0.175718	252
+IND:Apparel	NACE:35	-0.067661	252
+IND:Apparel	NACE:46	0.192002	252
+IND:Apparel	NACE:47	0.376942	252
+IND:Apparel	NACE:53	0.317061	252
+IND:Apparel	NACE:58	0.243413	252
+IND:Apparel	NACE:61	0.249755	252
+IND:Apparel	NACE:63	0.298103	252
+IND:Apparel	NACE:64	0.368210	252
+IND:Apparel	NACE:65	0.260136	252
+IND:Apparel	NACE:66	0.102264	252
+IND:Apparel	NACE:68	0.313984	252
+IND:Apparel	NACE:86	0.242528	252
+IND:Automotive	IND:Biotech	0.155521	252
+IND:Automotive	IND:Chemicals	0.378011	252
+IND:Automotive	IND:Construction Materials	0.422718	252
+IND:Automotive	IND:Consumer Goods	0.423255	252
+IND:Automotive	IND:Consumer goods	0.308126	252
+IND:Automotive	IND:Distribution	0.337228	252
+IND:Automotive	IND:E-Commerce	0.301684	252
+IND:Automotive	IND:Energy technology	0.207278	252
+IND:Automotive	IND:Financial Services	0.519949	252
+IND:Automotive	IND:Healthcare	0.215378	252
+IND:Automotive	IND:Industrials	0.443466	252
+IND:Automotive	IND:Insurance	0.129183	252
+IND:Automotive	IND:Logistics	0.585810	252
+IND:Automotive	IND:Mechanical Engineering	0.370148	252
+IND:Automotive	IND:Medical Equipment	0.465373	252
+IND:Automotive	IND:Pharmaceuticals	0.345179	252
+IND:Automotive	IND:Real Estate	0.477592	252
+IND:Automotive	IND:Technology	0.333360	252
+IND:Automotive	IND:Telecommunication	0.277359	252
+IND:Automotive	IND:Utilities	0.155574	252
+IND:Automotive	NACE:C	0.786760	252
+IND:Automotive	NACE:D	0.155574	252
+IND:Automotive	NACE:G	0.400500	252
+IND:Automotive	NACE:H	0.585810	252
+IND:Automotive	NACE:J	0.278559	252
+IND:Automotive	NACE:K	0.631589	252
+IND:Automotive	NACE:L	0.477592	252
+IND:Automotive	NACE:Q	0.215378	252
+IND:Automotive	NACE:14	0.385934	252
+IND:Automotive	NACE:20	0.447078	252
+IND:Automotive	NACE:21	0.345179	252
+IND:Automotive	NACE:23	0.422718	252
+IND:Automotive	NACE:25	0.101305	252
+IND:Automotive	NACE:26	0.432432	252
+IND:Automotive	NACE:28	0.393635	252
+IND:Automotive	NACE:29	0.992603	252
+IND:Automotive	NACE:30	0.446750	252
+IND:Automotive	NACE:32	0.155521	252
+IND:Automotive	NACE:35	0.155574	252
+IND:Automotive	NACE:46	0.337228	252
+IND:Automotive	NACE:47	0.295405	252
+IND:Automotive	NACE:53	0.585810	252
+IND:Automotive	NACE:58	0.163073	252
+IND:Automotive	NACE:61	0.277359	252
+IND:Automotive	NACE:63	0.168787	252
+IND:Automotive	NACE:64	0.690217	252
+IND:Automotive	NACE:65	0.314563	252
+IND:Automotive	NACE:66	0.033605	252
+IND:Automotive	NACE:68	0.477592	252
+IND:Automotive	NACE:86	0.215378	252
+IND:Biotech	IND:Chemicals	0.109743	252
+IND:Biotech	IND:Construction Materials	0.121317	252
+IND:Biotech	IND:Consumer Goods	0.122206	252
+IND:Biotech	IND:Consumer goods	0.166253	252
+IND:Biotech	IND:Distribution	-0.018186	252
+IND:Biotech	IND:E-Commerce	0.142458	252
+IND:Biotech	IND:Energy technology	-0.008210	252
+IND:Biotech	IND:Financial Services	0.103008	252
+IND:Biotech	IND:Healthcare	0.066221	252
+IND:Biotech	IND:Industrials	0.093578	252
+IND:Biotech	IND:Insurance	0.107076	252
+IND:Biotech	IND:Logistics	0.163034	252
+IND:Biotech	IND:Mechanical Engineering	0.137489	252
+IND:Biotech	IND:Medical Equipment	0.285622	252
+IND:Biotech	IND:Pharmaceuticals	0.211922	252
+IND:Biotech	IND:Real Estate	0.181865	252
+IND:Biotech	IND:Technology	0.122930	252
+IND:Biotech	IND:Telecommunication	-0.038779	252
+IND:Biotech	IND:Utilities	-0.011666	252
+IND:Biotech	NACE:C	0.298247	252
+IND:Biotech	NACE:D	-0.011666	252
+IND:Biotech	NACE:G	0.090168	252
+IND:Biotech	NACE:H	0.163034	252
+IND:Biotech	NACE:J	0.118012	252
+IND:Biotech	NACE:K	0.134493	252
+IND:Biotech	NACE:L	0.181865	252
+IND:Biotech	NACE:Q	0.066221	252
+IND:Biotech	NACE:14	0.175718	252
+IND:Biotech	NACE:20	0.160941	252
+IND:Biotech	NACE:21	0.211922	252
+IND:Biotech	NACE:23	0.121317	252
+IND:Biotech	NACE:25	0.031311	252
+IND:Biotech	NACE:26	0.134376	252
+IND:Biotech	NACE:28	0.066884	252
+IND:Biotech	NACE:29	0.151762	252
+IND:Biotech	NACE:30	0.191198	252
+IND:Biotech	NACE:32	1.000000	252
+IND:Biotech	NACE:35	-0.011666	252
+IND:Biotech	NACE:46	-0.018186	252
+IND:Biotech	NACE:47	0.130790	252
+IND:Biotech	NACE:53	0.163034	252
+IND:Biotech	NACE:58	0.163578	252
+IND:Biotech	NACE:61	-0.038779	252
+IND:Biotech	NACE:63	0.090571	252
+IND:Biotech	NACE:64	0.101992	252
+IND:Biotech	NACE:65	0.090615	252
+IND:Biotech	NACE:66	0.106599	252
+IND:Biotech	NACE:68	0.181865	252
+IND:Biotech	NACE:86	0.066221	252
+IND:Chemicals	IND:Construction Materials	0.120550	252
+IND:Chemicals	IND:Consumer Goods	0.463039	252
+IND:Chemicals	IND:Consumer goods	0.430830	252
+IND:Chemicals	IND:Distribution	0.603058	252
+IND:Chemicals	IND:E-Commerce	0.321511	252
+IND:Chemicals	IND:Energy technology	-0.168129	252
+IND:Chemicals	IND:Financial Services	0.234499	252
+IND:Chemicals	IND:Healthcare	0.205545	252
+IND:Chemicals	IND:Industrials	0.073493	252
+IND:Chemicals	IND:Insurance	0.267583	252
+IND:Chemicals	IND:Logistics	0.284643	252
+IND:Chemicals	IND:Mechanical Engineering	0.236421	252
+IND:Chemicals	IND:Medical Equipment	0.322220	252
+IND:Chemicals	IND:Pharmaceuticals	0.225918	252
+IND:Chemicals	IND:Real Estate	0.310062	252
+IND:Chemicals	IND:Technology	0.042834	252
+IND:Chemicals	IND:Telecommunication	0.275482	252
+IND:Chemicals	IND:Utilities	0.062721	252
+IND:Chemicals	NACE:C	0.387698	252
+IND:Chemicals	NACE:D	0.062721	252
+IND:Chemicals	NACE:G	0.556325	252
+IND:Chemicals	NACE:H	0.284643	252
+IND:Chemicals	NACE:J	0.238164	252
+IND:Chemicals	NACE:K	0.298923	252
+IND:Chemicals	NACE:L	0.310062	252
+IND:Chemicals	NACE:Q	0.205545	252
+IND:Chemicals	NACE:14	0.291547	252
+IND:Chemicals	NACE:20	0.851081	252
+IND:Chemicals	NACE:21	0.225918	252
+IND:Chemicals	NACE:23	0.120550	252
+IND:Chemicals	NACE:25	-0.098078	252
+IND:Chemicals	NACE:26	0.114826	252
+IND:Chemicals	NACE:28	-0.012452	252
+IND:Chemicals	NACE:29	0.384764	252
+IND:Chemicals	NACE:30	0.064273	252
+IND:Chemicals	NACE:32	0.109743	252
+IND:Chemicals	NACE:35	0.062721	252
+IND:Chemicals	NACE:46	0.603058	252
+IND:Chemicals	NACE:47	0.318380	252
+IND:Chemicals	NACE:53	0.284643	252
+IND:Chemicals	NACE:58	0.086493	252
+IND:Chemicals	NACE:61	0.275482	252
+IND:Chemicals	NACE:63	0.175433	252
+IND:Chemicals	NACE:64	0.187077	252
+IND:Chemicals	NACE:65	0.294135	252
+IND:Chemicals	NACE:66	0.161899	252
+IND:Chemicals	NACE:68	0.310062	252
+IND:Chemicals	NACE:86	0.205545	252
+IND:Construction Materials	IND:Consumer Goods	0.226588	252
+IND:Construction Materials	IND:Consumer goods	0.116161	252
+IND:Construction Materials	IND:Distribution	0.017287	252
+IND:Construction Materials	IND:E-Commerce	0.269024	252
+IND:Construction Materials	IND:Energy technology	0.293325	252
+IND:Construction Materials	IND:Financial Services	0.479965	252
+IND:Construction Materials	IND:Healthcare	0.226356	252
+IND:Construction Materials	IND:Industrials	0.460047	252
+IND:Construction Materials	IND:Insurance	-0.067100	252
+IND:Construction Materials	IND:Logistics	0.439256	252
+IND:Construction Materials	IND:Mechanical Engineering	0.330295	252
+IND:Construction Materials	IND:Medical Equipment	0.248765	252
+IND:Construction Materials	IND:Pharmaceuticals	0.321911	252
+IND:Construction Materials	IND:Real Estate	0.370699	252
+IND:Construction Materials	IND:Technology	0.289963	252
+IND:Construction Materials	IND:Telecommunication	0.091408	252
+IND:Construction Materials	IND:Utilities	0.110689	252
+IND:Construction Materials	NACE:C	0.607411	252
+IND:Construction Materials	NACE:D	0.110689	252
+IND:Construction Materials	NACE:G	0.156819	252
+IND:Construction Materials	NACE:H	0.439256	252
+IND:Construction Materials	NACE:J	0.193730	252
+IND:Construction Materials	NACE:K	0.441736	252
+IND:Construction Materials	NACE:L	0.370699	252
+IND:Construction Materials	NACE:Q	0.226356	252
+IND:Construction Materials	NACE:14	0.294665	252
+IND:Construction Materials	NACE:20	0.174273	252
+IND:Construction Materials	NACE:21	0.321911	252
+IND:Construction Materials	NACE:23	1.000000	252
+IND:Construction Materials	NACE:25	0.134944	252
+IND:Construction Materials	NACE:26	0.352649	252
+IND:Construction Materials	NACE:28	0.442028	252
+IND:Construction Materials	NACE:29	0.429303	252
+IND:Construction Materials	NACE:30	0.473313	252
+IND:Construction Materials	NACE:32	0.121317	252
+IND:Construction Materials	NACE:35	0.110689	252
+IND:Construction Materials	NACE:46	0.017287	252
+IND:Construction Materials	NACE:47	0.194057	252
+IND:Construction Materials	NACE:53	0.439256	252
+IND:Construction Materials	NACE:58	0.085555	252
+IND:Construction Materials	NACE:61	0.091408	252
+IND:Construction Materials	NACE:63	0.237138	252
+IND:Construction Materials	NACE:64	0.581559	252
+IND:Construction Materials	NACE:65	0.110636	252
+IND:Construction Materials	NACE:66	-0.065048	252
+IND:Construction Materials	NACE:68	0.370699	252
+IND:Construction Materials	NACE:86	0.226356	252
+IND:Consumer Goods	IND:Consumer goods	0.588175	252
+IND:Consumer Goods	IND:Distribution	0.317162	252
+IND:Consumer Goods	IND:E-Commerce	0.208048	252
+IND:Consumer Goods	IND:Energy technology	-0.011073	252
+IND:Consumer Goods	IND:Financial Services	0.329708	252
+IND:Consumer Goods	IND:Healthcare	0.343508	252
+IND:Consumer Goods	IND:Industrials	0.146331	252
+IND:Consumer Goods	IND:Insurance	0.239811	252
+IND:Consumer Goods	IND:Logistics	0.368248	252
+IND:Consumer Goods	IND:Mechanical Engineering	0.408340	252
+IND:Consumer Goods	IND:Medical Equipment	0.316709	252
+IND:Consumer Goods	IND:Pharmaceuticals	0.272422	252
+IND:Consumer Goods	IND:Real Estate	0.384036	252
+IND:Consumer Goods	IND:Technology	0.078449	252
+IND:Consumer Goods	IND:Telecommunication	0.371197	252
+IND:Consumer Goods	IND:Utilities	0.009010	252
+IND:Consumer Goods	NACE:C	0.501827	252
+IND:Consumer Goods	NACE:D	0.009010	252
+IND:Consumer Goods	NACE:G	0.333450	252
+IND:Consumer Goods	NACE:H	0.368248	252
+IND:Consumer Goods	NACE:J	0.268390	252
+IND:Consumer Goods	NACE:K	0.372926	252
+IND:Consumer Goods	NACE:L	0.384036	252
+IND:Consumer Goods	NACE:Q	0.343508	252
+IND:Consumer Goods	NACE:14	0.446384	252
+IND:Consumer Goods	NACE:20	0.761844	252
+IND:Consumer Goods	NACE:21	0.272422	252
+IND:Consumer Goods	NACE:23	0.226588	252
+IND:Consumer Goods	NACE:25	-0.015999	252
+IND:Consumer Goods	NACE:26	0.114624	252
+IND:Consumer Goods	NACE:28	0.155827	252
+IND:Consumer Goods	NACE:29	0.434928	252
+IND:Consumer Goods	NACE:30	0.282203	252
+IND:Consumer Goods	NACE:32	0.122206	252
+IND:Consumer Goods	NACE:35	0.009010	252
+IND:Consumer Goods	NACE:46	0.317162	252
+IND:Consumer Goods	NACE:47	0.221091	252
+IND:Consumer Goods	NACE:53	0.368248	252
+IND:Consumer Goods	NACE:58	0.140159	252
+IND:Consumer Goods	NACE:61	0.371197	252
+IND:Consumer Goods	NACE:63	0.094706	252
+IND:Consumer Goods	NACE:64	0.308189	252
+IND:Consumer Goods	NACE:65	0.322881	252
+IND:Consumer Goods	NACE:66	0.047442	252
+IND:Consumer Goods	NACE:68	0.384036	252
+IND:Consumer Goods	NACE:86	0.343508	252
+IND:Consumer goods	IND:Distribution	0.273874	252
+IND:Consumer goods	IND:E-Commerce	0.236571	252
+IND:Consumer goods	IND:Energy technology	-0.070134	252
+IND:Consumer goods	IND:Financial Services	0.290456	252
+IND:Consumer goods	IND:Healthcare	0.315788	252
+IND:Consumer goods	IND:Industrials	0.171665	252
+IND:Consumer goods	IND:Insurance	0.286386	252
+IND:Consumer goods	IND:Logistics	0.280200	252
+IND:Consumer goods	IND:Mechanical Engineering	0.318679	252
+IND:Consumer goods	IND:Medical Equipment	0.400304	252
+IND:Consumer goods	IND:Pharmaceuticals	0.260441	252
+IND:Consumer goods	IND:Real Estate	0.293612	252
+IND:Consumer goods	IND:Technology	0.002772	252
+IND:Consumer goods	IND:Telecommunication	0.216911	252
+IND:Consumer goods	IND:Utilities	-0.018313	252
+IND:Consumer goods	NACE:C	0.430110	252
+IND:Consumer goods	NACE:D	-0.018313	252
+IND:Consumer goods	NACE:G	0.293716	252
+IND:Consumer goods	NACE:H	0.280200	252
+IND:Consumer goods	NACE:J	0.226350	252
+IND:Consumer goods	NACE:K	0.338103	252
+IND:Consumer goods	NACE:L	0.293612	252
+IND:Consumer goods	NACE:Q	0.315788	252
+IND:Consumer goods	NACE:14	0.333825	252
+IND:Consumer goods	NACE:20	0.802370	252
+IND:Consumer goods	NACE:21	0.260441	252
+IND:Consumer goods	NACE:23	0.116161	252
+IND:Consumer goods	NACE:25	0.031196	252
+IND:Consumer goods	NACE:26	0.087893	252
+IND:Consumer goods	NACE:28	0.106454	252
+IND:Consumer goods	NACE:29	0.310882	252
+IND:Consumer goods	NACE:30	0.199982	252
+IND:Consumer goods	NACE:32	0.166253	252
+IND:Consumer goods	NACE:35	-0.018313	252
+IND:Consumer goods	NACE:46	0.273874	252
+IND:Consumer goods	NACE:47	0.198499	252
+IND:Consumer goods	NACE:53	0.280200	252
+IND:Consumer goods	NACE:58	0.108074	252
+IND:Consumer goods	NACE:61	0.216911	252
+IND:Consumer goods	NACE:63	0.173751	252
+IND:Consumer goods	NACE:64	0.223604	252
+IND:Consumer goods	NACE:65	0.358434	252
+IND:Consumer goods	NACE:66	0.084125	252
+IND:Consumer goods	NACE:68	0.293612	252
+IND:Consumer goods	NACE:86	0.315788	252
+IND:Distribution	IND:E-Commerce	0.100381	252
+IND:Distribution	IND:Energy technology	-0.146902	252
+IND:Distribution	IND:Financial Services	0.107737	252
+IND:Distribution	IND:Healthcare	0.152770	252
+IND:Distribution	IND:Industrials	-0.009509	252
+IND:Distribution	IND:Insurance	0.176051	252
+IND:Distribution	IND:Logistics	0.222368	252
+IND:Distribution	IND:Mechanical Engineering	0.140268	252
+IND:Distribution	IND:Medical Equipment	0.174998	252
+IND:Distribution	IND:Pharmaceuticals	0.167148	252
+IND:Distribution	IND:Real Estate	0.165351	252
+IND:Distribution	IND:Technology	0.001871	252
+IND:Distribution	IND:Telecommunication	0.277177	252
+IND:Distribution	IND:Utilities	0.076088	252
+IND:Distribution	NACE:C	0.224663	252
+IND:Distribution	NACE:D	0.076088	252
+IND:Distribution	NACE:G	0.663491	252
+IND:Distribution	NACE:H	0.222368	252
+IND:Distribution	NACE:J	0.121455	252
+IND:Distribution	NACE:K	0.182056	252
+IND:Distribution	NACE:L	0.165351	252
+IND:Distribution	NACE:Q	0.152770	252
+IND:Distribution	NACE:14	0.192002	252
+IND:Distribution	NACE:20	0.529085	252
+IND:Distribution	NACE:21	0.167148	252
+IND:Distribution	NACE:23	0.017287	252
+IND:Distribution	NACE:25	-0.089249	252
+IND:Distribution	NACE:26	0.024873	252
+IND:Distribution	NACE:28	-0.056604	252
+IND:Distribution	NACE:29	0.335980	252
+IND:Distribution	NACE:30	-0.059562	252
+IND:Distribution	NACE:32	-0.018186	252
+IND:Distribution	NACE:35	0.076088	252
+IND:Distribution	NACE:46	1.000000	252
+IND:Distribution	NACE:47	0.187919	252
+IND:Distribution	NACE:53	0.222368	252
+IND:Distribution	NACE:58	0.068277	252
+IND:Distribution	NACE:61	0.277177	252
+IND:Distribution	NACE:63	-0.055759	252
+IND:Distribution	NACE:64	0.108777	252
+IND:Distribution	NACE:65	0.194005	252
+IND:Distribution	NACE:66	0.082537	252
+IND:Distribution	NACE:68	0.165351	252
+IND:Distribution	NACE:86	0.152770	252
+IND:E-Commerce	IND:Energy technology	-0.116437	252
+IND:E-Commerce	IND:Financial Services	0.319764	252
+IND:E-Commerce	IND:Healthcare	0.203954	252
+IND:E-Commerce	IND:Industrials	0.174540	252
+IND:E-Commerce	IND:Insurance	0.190314	252
+IND:E-Commerce	IND:Logistics	0.265757	252
+IND:E-Commerce	IND:Mechanical Engineering	0.198480	252
+IND:E-Commerce	IND:Medical Equipment	0.361874	252
+IND:E-Commerce	IND:Pharmaceuticals	0.135471	252
+IND:E-Commerce	IND:Real Estate	0.282394	252
+IND:E-Commerce	IND:Technology	0.272669	252
+IND:E-Commerce	IND:Telecommunication	0.166700	252
+IND:E-Commerce	IND:Utilities	0.031766	252
+IND:E-Commerce	NACE:C	0.342753	252
+IND:E-Commerce	NACE:D	0.031766	252
+IND:E-Commerce	NACE:G	0.691559	252
+IND:E-Commerce	NACE:H	0.265757	252
+IND:E-Commerce	NACE:J	0.639389	252
+IND:E-Commerce	NACE:K	0.361879	252
+IND:E-Commerce	NACE:L	0.282394	252
+IND:E-Commerce	NACE:Q	0.203954	252
+IND:E-Commerce	NACE:14	0.431372	252
+IND:E-Commerce	NACE:20	0.329387	252
+IND:E-Commerce	NACE:21	0.135471	252
+IND:E-Commerce	NACE:23	0.269024	252
+IND:E-Commerce	NACE:25	0.100893	252
+IND:E-Commerce	NACE:26	0.153340	252
+IND:E-Commerce	NACE:28	0.048227	252
+IND:E-Commerce	NACE:29	0.286151	252
+IND:E-Commerce	NACE:30	0.248151	252
+IND:E-Commerce	NACE:32	0.142458	252
+IND:E-Commerce	NACE:35	0.031766	252
+IND:E-Commerce	NACE:46	0.100381	252
+IND:E-Commerce	NACE:47	0.839280	252
+IND:E-Commerce	NACE:53	0.265757	252
+IND:E-Commerce	NACE:58	0.417933	252
+IND:E-Commerce	NACE:61	0.166700	252
+IND:E-Commerce	NACE:63	0.734193	252
+IND:E-Commerce	NACE:64	0.275556	252
+IND:E-Commerce	NACE:65	0.249158	252
+IND:E-Commerce	NACE:66	0.270929	252
+IND:E-Commerce	NACE:68	0.282394	252
+IND:E-Commerce	NACE:86	0.203954	252
+IND:Energy technology	IND:Financial Services	0.250175	252
+IND:Energy technology	IND:Healthcare	-0.018652	252
+IND:Energy technology	IND:Industrials	0.573868	252
+IND:Energy technology	IND:Insurance	-0.131114	252
+IND:Energy technology	IND:Logistics	0.290617	252
+IND:Energy technology	IND:Mechanical Engineering	0.215523	252
+IND:Energy technology	IND:Medical Equipment	-0.007594	252
+IND:Energy technology	IND:Pharmaceuticals	0.126841	252
+IND:Energy technology	IND:Real Estate	0.221777	252
+IND:Energy technology	IND:Technology	0.441540	252
+IND:Energy technology	IND:Telecommunication	-0.127970	252
+IND:Energy technology	IND:Utilities	0.330204	252
+IND:Energy technology	NACE:C	0.469078	252
+IND:Energy technology	NACE:D	0.330204	252
+IND:Energy technology	NACE:G	-0.127268	252
+IND:Energy technology	NACE:H	0.290617	252
+IND:Energy technology	NACE:J	-0.186284	252
+IND:Energy technology	NACE:K	0.207889	252
+IND:Energy technology	NACE:L	0.221777	252
+IND:Energy technology	NACE:Q	-0.018652	252
+IND:Energy technology	NACE:14	-0.046247	252
+IND:Energy technology	NACE:20	-0.124369	252
+IND:Energy technology	NACE:21	0.126841	252
+IND:Energy technology	NACE:23	0.293325	252
+IND:Energy technology	NACE:25	0.198848	252
+IND:Energy technology	NACE:26	0.567738	252
+IND:Energy technology	NACE:28	0.885956	252
+IND:Energy technology	NACE:29	0.212959	252
+IND:Energy technology	NACE:30	0.396940	252
+IND:Energy technology	NACE:32	-0.008210	252
+IND:Energy technology	NACE:35	0.330204	252
+IND:Energy technology	NACE:46	-0.146902	252
+IND:Energy technology	NACE:47	-0.066726	252
+IND:Energy technology	NACE:53	0.290617	252
+IND:Energy technology	NACE:58	-0.140249	252
+IND:Energy technology	NACE:61	-0.127970	252
+IND:Energy technology	NACE:63	-0.124195	252
+IND:Energy technology	NACE:64	0.392499	252
+IND:Energy technology	NACE:65	-0.004452	252
+IND:Energy technology	NACE:66	-0.306552	252
+IND:Energy technology	NACE:68	0.221777	252
+IND:Energy technology	NACE:86	-0.018652	252
+IND:Financial Services	IND:Healthcare	0.332854	252
+IND:Financial Services	IND:Industrials	0.519424	252
+IND:Financial Services	IND:Insurance	0.416735	252
+IND:Financial Services	IND:Logistics	0.485757	252
+IND:Financial Services	IND:Mechanical Engineering	0.383706	252
+IND:Financial Services	IND:Medical Equipment	0.476976	252
+IND:Financial Services	IND:Pharmaceuticals	0.420820	252
+IND:Financial Services	IND:Real Estate	0.476925	252
+IND:Financial Services	IND:Technology	0.331251	252
+IND:Financial Services	IND:Telecommunication	0.264903	252
+IND:Financial Services	IND:Utilities	0.239129	252
+IND:Financial Services	NACE:C	0.668864	252
+IND:Financial Services	NACE:D	0.239129	252
+IND:Financial Services	NACE:G	0.274277	252
+IND:Financial Services	NACE:H	0.485757	252
+IND:Financial Services	NACE:J	0.340925	252
+IND:Financial Services	NACE:K	0.967253	252
+IND:Financial Services	NACE:L	0.476925	252
+IND:Financial Services	NACE:Q	0.332854	252
+IND:Financial Services	NACE:14	0.368633	252
+IND:Financial Services	NACE:20	0.335734	252
+IND:Financial Services	NACE:21	0.420820	252
+IND:Financial Services	NACE:23	0.479965	252
+IND:Financial Services	NACE:25	0.274345	252
+IND:Financial Services	NACE:26	0.377453	252
+IND:Financial Services	NACE:28	0.452621	252
+IND:Financial Services	NACE:29	0.521883	252
+IND:Financial Services	NACE:30	0.519059	252
+IND:Financial Services	NACE:32	0.103008	252
+IND:Financial Services	NACE:35	0.239129	252
+IND:Financial Services	NACE:46	0.107737	252
+IND:Financial Services	NACE:47	0.286465	252
+IND:Financial Services	NACE:53	0.485757	252
+IND:Financial Services	NACE:58	0.247565	252
+IND:Financial Services	NACE:61	0.264903	252
+IND:Financial Services	NACE:63	0.212174	252
+IND:Financial Services	NACE:64	0.847774	252
+IND:Financial Services	NACE:65	0.687632	252
+IND:Financial Services	NACE:66	0.297143	252
+IND:Financial Services	NACE:68	0.476925	252
+IND:Financial Services	NACE:86	0.332854	252
+IND:Healthcare	IND:Industrials	0.123134	252
+IND:Healthcare	IND:Insurance	0.177605	252
+IND:Healthcare	IND:Logistics	0.245287	252
+IND:Healthcare	IND:Mechanical Engineering	0.236879	252
+IND:Healthcare	IND:Medical Equipment	0.313261	252
+IND:Healthcare	IND:Pharmaceuticals	0.244993	252
+IND:Healthcare	IND:Real Estate	0.318914	252
+IND:Healthcare	IND:Technology	0.029857	252
+IND:Healthcare	IND:Telecommunication	0.189971	252
+IND:Healthcare	IND:Utilities	0.024918	252
+IND:Healthcare	NACE:C	0.293214	252
+IND:Healthcare	NACE:D	0.024918	252
+IND:Healthcare	NACE:G	0.260583	252
+IND:Healthcare	NACE:H	0.245287	252
+IND:Healthcare	NACE:J	0.221541	252
+IND:Healthcare	NACE:K	0.329482	252
+IND:Healthcare	NACE:L	0.318914	252
+IND:Healthcare	NACE:Q	1.000000	252
+IND:Healthcare	NACE:14	0.242528	252
+IND:Healthcare	NACE:20	0.333759	252
+IND:Healthcare	NACE:21	0.244993	252
+IND:Healthcare	NACE:23	0.226356	252
+IND:Healthcare	NACE:25	0.009922	252
+IND:Healthcare	NACE:26	0.015265	252
+IND:Healthcare	NACE:28	0.097757	252
+IND:Healthcare	NACE:29	0.223127	252
+IND:Healthcare	NACE:30	0.263372	252
+IND:Healthcare	NACE:32	0.066221	252
+IND:Healthcare	NACE:35	0.024918	252
+IND:Healthcare	NACE:46	0.152770	252
+IND:Healthcare	NACE:47	0.237728	252
+IND:Healthcare	NACE:53	0.245287	252
+IND:Healthcare	NACE:58	0.207484	252
+IND:Healthcare	NACE:61	0.189971	252
+IND:Healthcare	NACE:63	0.066633	252
+IND:Healthcare	NACE:64	0.267306	252
+IND:Healthcare	NACE:65	0.243208	252
+IND:Healthcare	NACE:66	0.153908	252
+IND:Healthcare	NACE:68	0.318914	252
+IND:Healthcare	NACE:86	1.000000	252
+IND:Industrials	IND:Insurance	-0.062276	252
+IND:Industrials	IND:Logistics	0.520906	252
+IND:Industrials	IND:Mechanical Engineering	0.375264	252
+IND:Industrials	IND:Medical Equipment	0.361747	252
+IND:Industrials	IND:Pharmaceuticals	0.244973	252
+IND:Industrials	IND:Real Estate	0.367115	252
+IND:Industrials	IND:Technology	0.555194	252
+IND:Industrials	IND:Telecommunication	-0.086433	252
+IND:Industrials	IND:Utilities	0.241971	252
+IND:Industrials	NACE:C	0.690368	252
+IND:Industrials	NACE:D	0.241971	252
+IND:Industrials	NACE:G	0.116124	252
+IND:Industrials	NACE:H	0.520906	252
+IND:Industrials	NACE:J	0.081369	252
+IND:Industrials	NACE:K	0.473636	252
+IND:Industrials	NACE:L	0.367115	252
+IND:Industrials	NACE:Q	0.123134	252
+IND:Industrials	NACE:14	0.196970	252
+IND:Industrials	NACE:20	0.149563	252
+IND:Industrials	NACE:21	0.244973	252
+IND:Industrials	NACE:23	0.460047	252
+IND:Industrials	NACE:25	0.193972	252
+IND:Industrials	NACE:26	0.664226	252
+IND:Industrials	NACE:28	0.833168	252
+IND:Industrials	NACE:29	0.454117	252
+IND:Industrials	NACE:30	0.539528	252
+IND:Industrials	NACE:32	0.093578	252
+IND:Industrials	NACE:35	0.241971	252
+IND:Industrials	NACE:46	-0.009509	252
+IND:Industrials	NACE:47	0.158938	252
+IND:Industrials	NACE:53	0.520906	252
+IND:Industrials	NACE:58	0.113259	252
+IND:Industrials	NACE:61	-0.086433	252
+IND:Industrials	NACE:63	0.112599	252
+IND:Industrials	NACE:64	0.613005	252
+IND:Industrials	NACE:65	0.145161	252
+IND:Industrials	NACE:66	-0.093873	252
+IND:Industrials	NACE:68	0.367115	252
+IND:Industrials	NACE:86	0.123134	252
+IND:Insurance	IND:Logistics	0.059165	252
+IND:Insurance	IND:Mechanical Engineering	0.212422	252
+IND:Insurance	IND:Medical Equipment	0.309249	252
+IND:Insurance	IND:Pharmaceuticals	0.224254	252
+IND:Insurance	IND:Real Estate	0.232948	252
+IND:Insurance	IND:Technology	-0.111673	252
+IND:Insurance	IND:Telecommunication	0.302263	252
+IND:Insurance	IND:Utilities	0.159762	252
+IND:Insurance	NACE:C	0.145927	252
+IND:Insurance	NACE:D	0.159762	252
+IND:Insurance	NACE:G	0.270826	252
+IND:Insurance	NACE:H	0.059165	252
+IND:Insurance	NACE:J	0.223152	252
+IND:Insurance	NACE:K	0.532113	252
+IND:Insurance	NACE:L	0.232948	252
+IND:Insurance	NACE:Q	0.177605	252
+IND:Insurance	NACE:14	0.163184	252
+IND:Insurance	NACE:20	0.328396	252
+IND:Insurance	NACE:21	0.224254	252
+IND:Insurance	NACE:23	-0.067100	252
+IND:Insurance	NACE:25	0.079882	252
+IND:Insurance	NACE:26	-0.098950	252
+IND:Insurance	NACE:28	-0.048699	252
+IND:Insurance	NACE:29	0.135409	252
+IND:Insurance	NACE:30	0.010747	252
+IND:Insurance	NACE:32	0.107076	252
+IND:Insurance	NACE:35	0.159762	252
+IND:Insurance	NACE:46	0.176051	252
+IND:Insurance	NACE:47	0.235270	252
+IND:Insurance	NACE:53	0.059165	252
+IND:Insurance	NACE:58	0.148743	252
+IND:Insurance	NACE:61	0.302263	252
+IND:Insurance	NACE:63	0.045393	252
+IND:Insurance	NACE:64	0.067277	252
+IND:Insurance	NACE:65	0.888412	252
+IND:Insurance	NACE:66	0.366507	252
+IND:Insurance	NACE:68	0.232948	252
+IND:Insurance	NACE:86	0.177605	252
+IND:Logistics	IND:Mechanical Engineering	0.314708	252
+IND:Logistics	IND:Medical Equipment	0.381957	252
+IND:Logistics	IND:Pharmaceuticals	0.430797	252
+IND:Logistics	IND:Real Estate	0.415112	252
+IND:Logistics	IND:Technology	0.364038	252
+IND:Logistics	IND:Telecommunication	0.134861	252
+IND:Logistics	IND:Utilities	0.238836	252
+IND:Logistics	NACE:C	0.682093	252
+IND:Logistics	NACE:D	0.238836	252
+IND:Logistics	NACE:G	0.297360	252
+IND:Logistics	NACE:H	1.000000	252
+IND:Logistics	NACE:J	0.182397	252
+IND:Logistics	NACE:K	0.490419	252
+IND:Logistics	NACE:L	0.415112	252
+IND:Logistics	NACE:Q	0.245287	252
+IND:Logistics	NACE:14	0.317061	252
+IND:Logistics	NACE:20	0.369495	252
+IND:Logistics	NACE:21	0.430797	252
+IND:Logistics	NACE:23	0.439256	252
+IND:Logistics	NACE:25	0.138435	252
+IND:Logistics	NACE:26	0.485125	252
+IND:Logistics	NACE:28	0.459882	252
+IND:Logistics	NACE:29	0.601319	252
+IND:Logistics	NACE:30	0.410884	252
+IND:Logistics	NACE:32	0.163034	252
+IND:Logistics	NACE:35	0.238836	252
+IND:Logistics	NACE:46	0.222368	252
+IND:Logistics	NACE:47	0.238465	252
+IND:Logistics	NACE:53	1.000000	252
+IND:Logistics	NACE:58	0.085488	252
+IND:Logistics	NACE:61	0.134861	252
+IND:Logistics	NACE:63	0.175861	252
+IND:Logistics	NACE:64	0.558045	252
+IND:Logistics	NACE:65	0.247610	252
+IND:Logistics	NACE:66	-0.056591	252
+IND:Logistics	NACE:68	0.415112	252
+IND:Logistics	NACE:86	0.245287	252
+IND:Mechanical Engineering	IND:Medical Equipment	0.292404	252
+IND:Mechanical Engineering	IND:Pharmaceuticals	0.262817	252
+IND:Mechanical Engineering	IND:Real Estate	0.419357	252
+IND:Mechanical Engineering	IND:Technology	0.224716	252
+IND:Mechanical Engineering	IND:Telecommunication	0.146000	252
+IND:Mechanical Engineering	IND:Utilities	0.130996	252
+IND:Mechanical Engineering	NACE:C	0.556020	252
+IND:Mechanical Engineering	NACE:D	0.130996	252
+IND:Mechanical Engineering	NACE:G	0.224874	252
+IND:Mechanical Engineering	NACE:H	0.314708	252
+IND:Mechanical Engineering	NACE:J	0.201556	252
+IND:Mechanical Engineering	NACE:K	0.408363	252
+IND:Mechanical Engineering	NACE:L	0.419357	252
+IND:Mechanical Engineering	NACE:Q	0.236879	252
+IND:Mechanical Engineering	NACE:14	0.282420	252
+IND:Mechanical Engineering	NACE:20	0.369248	252
+IND:Mechanical Engineering	NACE:21	0.262817	252
+IND:Mechanical Engineering	NACE:23	0.330295	252
+IND:Mechanical Engineering	NACE:25	0.162479	252
+IND:Mechanical Engineering	NACE:26	0.241641	252
+IND:Mechanical Engineering	NACE:28	0.535681	252
+IND:Mechanical Engineering	NACE:29	0.374839	252
+IND:Mechanical Engineering	NACE:30	0.443051	252
+IND:Mechanical Engineering	NACE:32	0.137489	252
+IND:Mechanical Engineering	NACE:35	0.130996	252
+IND:Mechanical Engineering	NACE:46	0.140268	252
+IND:Mechanical Engineering	NACE:47	0.199390	252
+IND:Mechanical Engineering	NACE:53	0.314708	252
+IND:Mechanical Engineering	NACE:58	0.171043	252
+IND:Mechanical Engineering	NACE:61	0.146000	252
+IND:Mechanical Engineering	NACE:63	0.104752	252
+IND:Mechanical Engineering	NACE:64	0.362878	252
+IND:Mechanical Engineering	NACE:65	0.294656	252
+IND:Mechanical Engineering	NACE:66	0.098780	252
+IND:Mechanical Engineering	NACE:68	0.419357	252
+IND:Mechanical Engineering	NACE:86	0.236879	252
+IND:Medical Equipment	IND:Pharmaceuticals	0.280974	252
+IND:Medical Equipment	IND:Real Estate	0.340067	252
+IND:Medical Equipment	IND:Technology	0.214028	252
+IND:Medical Equipment	IND:Telecommunication	0.260602	252
+IND:Medical Equipment	IND:Utilities	0.008483	252
+IND:Medical Equipment	NACE:C	0.538542	252
+IND:Medical Equipment	NACE:D	0.008483	252
+IND:Medical Equipment	NACE:G	0.313735	252
+IND:Medical Equipment	NACE:H	0.381957	252
+IND:Medical Equipment	NACE:J	0.437985	252
+IND:Medical Equipment	NACE:K	0.528735	252
+IND:Medical Equipment	NACE:L	0.340067	252
+IND:Medical Equipment	NACE:Q	0.313261	252
+IND:Medical Equipment	NACE:14	0.333372	252
+IND:Medical Equipment	NACE:20	0.425503	252
+IND:Medical Equipment	NACE:21	0.280974	252
+IND:Medical Equipment	NACE:23	0.248765	252
+IND:Medical Equipment	NACE:25	0.209093	252
+IND:Medical Equipment	NACE:26	0.376042	252
+IND:Medical Equipment	NACE:28	0.211202	252
+IND:Medical Equipment	NACE:29	0.459888	252
+IND:Medical Equipment	NACE:30	0.314168	252
+IND:Medical Equipment	NACE:32	0.285622	252
+IND:Medical Equipment	NACE:35	0.008483	252
+IND:Medical Equipment	NACE:46	0.174998	252
+IND:Medical Equipment	NACE:47	0.292319	252
+IND:Medical Equipment	NACE:53	0.381957	252
+IND:Medical Equipment	NACE:58	0.368231	252
+IND:Medical Equipment	NACE:61	0.260602	252
+IND:Medical Equipment	NACE:63	0.279915	252
+IND:Medical Equipment	NACE:64	0.415993	252
+IND:Medical Equipment	NACE:65	0.390890	252
+IND:Medical Equipment	NACE:66	0.289676	252
+IND:Medical Equipment	NACE:68	0.340067	252
+IND:Medical Equipment	NACE:86	0.313261	252
+IND:Pharmaceuticals	IND:Real Estate	0.393103	252
+IND:Pharmaceuticals	IND:Technology	0.188076	252
+IND:Pharmaceuticals	IND:Telecommunication	0.129641	252
+IND:Pharmaceuticals	IND:Utilities	0.237211	252
+IND:Pharmaceuticals	NACE:C	0.557817	252
+IND:Pharmaceuticals	NACE:D	0.237211	252
+IND:Pharmaceuticals	NACE:G	0.198323	252
+IND:Pharmaceuticals	NACE:H	0.430797	252
+IND:Pharmaceuticals	NACE:J	0.126639	252
+IND:Pharmaceuticals	NACE:K	0.436925	252
+IND:Pharmaceuticals	NACE:L	0.393103	252
+IND:Pharmaceuticals	NACE:Q	0.244993	252
+IND:Pharmaceuticals	NACE:14	0.228021	252
+IND:Pharmaceuticals	NACE:20	0.303497	252
+IND:Pharmaceuticals	NACE:21	1.000000	252
+IND:Pharmaceuticals	NACE:23	0.321911	252
+IND:Pharmaceuticals	NACE:25	0.111145	252
+IND:Pharmaceuticals	NACE:26	0.255019	252
+IND:Pharmaceuticals	NACE:28	0.240087	252
+IND:Pharmaceuticals	NACE:29	0.348446	252
+IND:Pharmaceuticals	NACE:30	0.317931	252
+IND:Pharmaceuticals	NACE:32	0.211922	252
+IND:Pharmaceuticals	NACE:35	0.237211	252
+IND:Pharmaceuticals	NACE:46	0.167148	252
+IND:Pharmaceuticals	NACE:47	0.146174	252
+IND:Pharmaceuticals	NACE:53	0.430797	252
+IND:Pharmaceuticals	NACE:58	0.086443	252
+IND:Pharmaceuticals	NACE:61	0.129641	252
+IND:Pharmaceuticals	NACE:63	0.058908	252
+IND:Pharmaceuticals	NACE:64	0.403408	252
+IND:Pharmaceuticals	NACE:65	0.319863	252
+IND:Pharmaceuticals	NACE:66	0.043819	252
+IND:Pharmaceuticals	NACE:68	0.393103	252
+IND:Pharmaceuticals	NACE:86	0.244993	252
+IND:Real Estate	IND:Technology	0.324335	252
+IND:Real Estate	IND:Telecommunication	0.251218	252
+IND:Real Estate	IND:Utilities	0.163609	252
+IND:Real Estate	NACE:C	0.600998	252
+IND:Real Estate	NACE:D	0.163609	252
+IND:Real Estate	NACE:G	0.314827	252
+IND:Real Estate	NACE:H	0.415112	252
+IND:Real Estate	NACE:J	0.271111	252
+IND:Real Estate	NACE:K	0.501717	252
+IND:Real Estate	NACE:L	1.000000	252
+IND:Real Estate	NACE:Q	0.318914	252
+IND:Real Estate	NACE:14	0.313984	252
+IND:Real Estate	NACE:20	0.393203	252
+IND:Real Estate	NACE:21	0.393103	252
+IND:Real Estate	NACE:23	0.370699	252
+IND:Real Estate	NACE:25	0.146434	252
+IND:Real Estate	NACE:26	0.346883	252
+IND:Real Estate	NACE:28	0.385679	252
+IND:Real Estate	NACE:29	0.486698	252
+IND:Real Estate	NACE:30	0.405839	252
+IND:Real Estate	NACE:32	0.181865	252
+IND:Real Estate	NACE:35	0.163609	252
+IND:Real Estate	NACE:46	0.165351	252
+IND:Real Estate	NACE:47	0.300343	252
+IND:Real Estate	NACE:53	0.415112	252
+IND:Real Estate	NACE:58	0.201873	252
+IND:Real Estate	NACE:61	0.251218	252
+IND:Real Estate	NACE:63	0.128242	252
+IND:Real Estate	NACE:64	0.455468	252
+IND:Real Estate	NACE:65	0.361750	252
+IND:Real Estate	NACE:66	0.089228	252
+IND:Real Estate	NACE:68	1.000000	252
+IND:Real Estate	NACE:86	0.318914	252
+IND:Technology	IND:Telecommunication	0.018105	252
+IND:Technology	IND:Utilities	0.073420	252
+IND:Technology	NACE:C	0.546459	252
+IND:Technology	NACE:D	0.073420	252
+IND:Technology	NACE:G	0.167178	252
+IND:Technology	NACE:H	0.364038	252
+IND:Technology	NACE:J	0.396951	252
+IND:Technology	NACE:K	0.300649	252
+IND:Technology	NACE:L	0.324335	252
+IND:Technology	NACE:Q	0.029857	252
+IND:Technology	NACE:14	0.220021	252
+IND:Technology	NACE:20	0.045669	252
+IND:Technology	NACE:21	0.188076	252
+IND:Technology	NACE:23	0.289963	252
+IND:Technology	NACE:25	0.187348	252
+IND:Technology	NACE:26	0.808470	252
+IND:Technology	NACE:28	0.541562	252
+IND:Technology	NACE:29	0.337924	252
+IND:Technology	NACE:30	0.410459	252
+IND:Technology	NACE:32	0.122930	252
+IND:Technology	NACE:35	0.073420	252
+IND:Technology	NACE:46	0.001871	252
+IND:Technology	NACE:47	0.218185	252
+IND:Technology	NACE:53	0.364038	252
+IND:Technology	NACE:58	0.521089	252
+IND:Technology	NACE:61	0.018105	252
+IND:Technology	NACE:63	0.213504	252
+IND:Technology	NACE:64	0.436340	252
+IND:Technology	NACE:65	0.020690	252
+IND:Technology	NACE:66	-0.058534	252
+IND:Technology	NACE:68	0.324335	252
+IND:Technology	NACE:86	0.029857	252
+IND:Telecommunication	IND:Utilities	0.016586	252
+IND:Telecommunication	NACE:C	0.216944	252
+IND:Telecommunication	NACE:D	0.016586	252
+IND:Telecommunication	NACE:G	0.255108	252
+IND:Telecommunication	NACE:H	0.134861	252
+IND:Telecommunication	NACE:J	0.515381	252
+IND:Telecommunication	NACE:K	0.316016	252
+IND:Telecommunication	NACE:L	0.251218	252
+IND:Telecommunication	NACE:Q	0.189971	252
+IND:Telecommunication	NACE:14	0.249755	252
+IND:Telecommunication	NACE:20	0.339408	252
+IND:Telecommunication	NACE:21	0.129641	252
+IND:Telecommunication	NACE:23	0.091408	252
+IND:Telecommunication	NACE:25	0.015876	252
+IND:Telecommunication	NACE:26	0.039987	252
+IND:Telecommunication	NACE:28	-0.073367	252
+IND:Telecommunication	NACE:29	0.279079	252
+IND:Telecommunication	NACE:30	0.136018	252
+IND:Telecommunication	NACE:32	-0.038779	252
+IND:Telecommunication	NACE:35	0.016586	252
+IND:Telecommunication	NACE:46	0.277177	252
+IND:Telecommunication	NACE:47	0.145560	252
+IND:Telecommunication	NACE:53	0.134861	252
+IND:Telecommunication	NACE:58	0.121665	252
+IND:Telecommunication	NACE:61	1.000000	252
+IND:Telecommunication	NACE:63	0.115331	252
+IND:Telecommunication	NACE:64	0.183202	252
+IND:Telecommunication	NACE:65	0.324899	252
+IND:Telecommunication	NACE:66	0.189150	252
+IND:Telecommunication	NACE:68	0.251218	252
+IND:Telecommunication	NACE:86	0.189971	252
+IND:Utilities	NACE:C	0.256574	252
+IND:Utilities	NACE:D	1.000000	252
+IND:Utilities	NACE:G	0.144371	252
+IND:Utilities	NACE:H	0.238836	252
+IND:Utilities	NACE:J	-0.148518	252
+IND:Utilities	NACE:K	0.240712	252
+IND:Utilities	NACE:L	0.163609	252
+IND:Utilities	NACE:Q	0.024918	252
+IND:Utilities	NACE:14	-0.067661	252
+IND:Utilities	NACE:20	0.029554	252
+IND:Utilities	NACE:21	0.237211	252
+IND:Utilities	NACE:23	0.110689	252
+IND:Utilities	NACE:25	0.224602	252
+IND:Utilities	NACE:26	0.205954	252
+IND:Utilities	NACE:28	0.328372	252
+IND:Utilities	NACE:29	0.163075	252
+IND:Utilities	NACE:30	0.128906	252
+IND:Utilities	NACE:32	-0.011666	252
+IND:Utilities	NACE:35	1.000000	252
+IND:Utilities	NACE:46	0.076088	252
+IND:Utilities	NACE:47	0.137550	252
+IND:Utilities	NACE:53	0.238836	252
+IND:Utilities	NACE:58	-0.182150	252
+IND:Utilities	NACE:61	0.016586	252
+IND:Utilities	NACE:63	-0.115150	252
+IND:Utilities	NACE:64	0.213767	252
+IND:Utilities	NACE:65	0.216454	252
+IND:Utilities	NACE:66	-0.037991	252
+IND:Utilities	NACE:68	0.163609	252
+IND:Utilities	NACE:86	0.024918	252
+NACE:C	NACE:D	0.256574	252
+NACE:C	NACE:G	0.366048	252
+NACE:C	NACE:H	0.682093	252
+NACE:C	NACE:J	0.277323	252
+NACE:C	NACE:K	0.694504	252
+NACE:C	NACE:L	0.600998	252
+NACE:C	NACE:Q	0.293214	252
+NACE:C	NACE:14	0.493591	252
+NACE:C	NACE:20	0.523107	252
+NACE:C	NACE:21	0.557817	252
+NACE:C	NACE:23	0.607411	252
+NACE:C	NACE:25	0.325357	252
+NACE:C	NACE:26	0.682446	252
+NACE:C	NACE:28	0.696562	252
+NACE:C	NACE:29	0.797500	252
+NACE:C	NACE:30	0.732387	252
+NACE:C	NACE:32	0.298247	252
+NACE:C	NACE:35	0.256574	252
+NACE:C	NACE:46	0.224663	252
+NACE:C	NACE:47	0.327068	252
+NACE:C	NACE:53	0.682093	252
+NACE:C	NACE:58	0.175545	252
+NACE:C	NACE:61	0.216944	252
+NACE:C	NACE:63	0.202443	252
+NACE:C	NACE:64	0.760851	252
+NACE:C	NACE:65	0.366290	252
+NACE:C	NACE:66	-0.015524	252
+NACE:C	NACE:68	0.600998	252
+NACE:C	NACE:86	0.293214	252
+NACE:D	NACE:G	0.144371	252
+NACE:D	NACE:H	0.238836	252
+NACE:D	NACE:J	-0.148518	252
+NACE:D	NACE:K	0.240712	252
+NACE:D	NACE:L	0.163609	252
+NACE:D	NACE:Q	0.024918	252
+NACE:D	NACE:14	-0.067661	252
+NACE:D	NACE:20	0.029554	252
+NACE:D	NACE:21	0.237211	252
+NACE:D	NACE:23	0.110689	252
+NACE:D	NACE:25	0.224602	252
+NACE:D	NACE:26	0.205954	252
+NACE:D	NACE:28	0.328372	252
+NACE:D	NACE:29	0.163075	252
+NACE:D	NACE:30	0.128906	252
+NACE:D	NACE:32	-0.011666	252
+NACE:D	NACE:35	1.000000	252
+NACE:D	NACE:46	0.076088	252
+NACE:D	NACE:47	0.137550	252
+NACE:D	NACE:53	0.238836	252
+NACE:D	NACE:58	-0.182150	252
+NACE:D	NACE:61	0.016586	252
+NACE:D	NACE:63	-0.115150	252
+NACE:D	NACE:64	0.213767	252
+NACE:D	NACE:65	0.216454	252
+NACE:D	NACE:66	-0.037991	252
+NACE:D	NACE:68	0.163609	252
+NACE:D	NACE:86	0.024918	252
+NACE:G	NACE:H	0.297360	252
+NACE:G	NACE:J	0.301316	252
+NACE:G	NACE:K	0.352704	252
+NACE:G	NACE:L	0.314827	252
+NACE:G	NACE:Q	0.260583	252
+NACE:G	NACE:14	0.387045	252
+NACE:G	NACE:20	0.515718	252
+NACE:G	NACE:21	0.198323	252
+NACE:G	NACE:23	0.156819	252
+NACE:G	NACE:25	-0.001087	252
+NACE:G	NACE:26	0.149778	252
+NACE:G	NACE:28	0.025890	252
+NACE:G	NACE:29	0.390743	252
+NACE:G	NACE:30	0.135825	252
+NACE:G	NACE:32	0.090168	252
+NACE:G	NACE:35	0.144371	252
+NACE:G	NACE:46	0.663491	252
+NACE:G	NACE:47	0.859538	252
+NACE:G	NACE:53	0.297360	252
+NACE:G	NACE:58	0.227541	252
+NACE:G	NACE:61	0.255108	252
+NACE:G	NACE:63	0.159181	252
+NACE:G	NACE:64	0.240397	252
+NACE:G	NACE:65	0.315270	252
+NACE:G	NACE:66	0.196065	252
+NACE:G	NACE:68	0.314827	252
+NACE:G	NACE:86	0.260583	252
+NACE:H	NACE:J	0.182397	252
+NACE:H	NACE:K	0.490419	252
+NACE:H	NACE:L	0.415112	252
+NACE:H	NACE:Q	0.245287	252
+NACE:H	NACE:14	0.317061	252
+NACE:H	NACE:20	0.369495	252
+NACE:H	NACE:21	0.430797	252
+NACE:H	NACE:23	0.439256	252
+NACE:H	NACE:25	0.138435	252
+NACE:H	NACE:26	0.485125	252
+NACE:H	NACE:28	0.459882	252
+NACE:H	NACE:29	0.601319	252
+NACE:H	NACE:30	0.410884	252
+NACE:H	NACE:32	0.163034	252
+NACE:H	NACE:35	0.238836	252
+NACE:H	NACE:46	0.222368	252
+NACE:H	NACE:47	0.238465	252
+NACE:H	NACE:53	1.000000	252
+NACE:H	NACE:58	0.085488	252
+NACE:H	NACE:61	0.134861	252
+NACE:H	NACE:63	0.175861	252
+NACE:H	NACE:64	0.558045	252
+NACE:H	NACE:65	0.247610	252
+NACE:H	NACE:66	-0.056591	252
+NACE:H	NACE:68	0.415112	252
+NACE:H	NACE:86	0.245287	252
+NACE:J	NACE:K	0.375639	252
+NACE:J	NACE:L	0.271111	252
+NACE:J	NACE:Q	0.221541	252
+NACE:J	NACE:14	0.372487	252
+NACE:J	NACE:20	0.295278	252
+NACE:J	NACE:21	0.126639	252
+NACE:J	NACE:23	0.193730	252
+NACE:J	NACE:25	0.133803	252
+NACE:J	NACE:26	0.054522	252
+NACE:J	NACE:28	-0.029489	252
+NACE:J	NACE:29	0.267589	252
+NACE:J	NACE:30	0.202793	252
+NACE:J	NACE:32	0.118012	252
+NACE:J	NACE:35	-0.148518	252
+NACE:J	NACE:46	0.121455	252
+NACE:J	NACE:47	0.312591	252
+NACE:J	NACE:53	0.182397	252
+NACE:J	NACE:58	0.805463	252
+NACE:J	NACE:61	0.515381	252
+NACE:J	NACE:63	0.749197	252
+NACE:J	NACE:64	0.264368	252
+NACE:J	NACE:65	0.257421	252
+NACE:J	NACE:66	0.357583	252
+NACE:J	NACE:68	0.271111	252
+NACE:J	NACE:86	0.221541	252
+NACE:K	NACE:L	0.501717	252
+NACE:K	NACE:Q	0.329482	252
+NACE:K	NACE:14	0.396829	252
+NACE:K	NACE:20	0.402243	252
+NACE:K	NACE:21	0.436925	252
+NACE:K	NACE:23	0.441736	252
+NACE:K	NACE:25	0.247101	252
+NACE:K	NACE:26	0.352803	252
+NACE:K	NACE:28	0.415594	252
+NACE:K	NACE:29	0.617364	252
+NACE:K	NACE:30	0.485754	252
+NACE:K	NACE:32	0.134493	252
+NACE:K	NACE:35	0.240712	252
+NACE:K	NACE:46	0.182056	252
+NACE:K	NACE:47	0.338656	252
+NACE:K	NACE:53	0.490419	252
+NACE:K	NACE:58	0.265467	252
+NACE:K	NACE:61	0.316016	252
+NACE:K	NACE:63	0.222062	252
+NACE:K	NACE:64	0.841218	252
+NACE:K	NACE:65	0.760177	252
+NACE:K	NACE:66	0.315647	252
+NACE:K	NACE:68	0.501717	252
+NACE:K	NACE:86	0.329482	252
+NACE:L	NACE:Q	0.318914	252
+NACE:L	NACE:14	0.313984	252
+NACE:L	NACE:20	0.393203	252
+NACE:L	NACE:21	0.393103	252
+NACE:L	NACE:23	0.370699	252
+NACE:L	NACE:25	0.146434	252
+NACE:L	NACE:26	0.346883	252
+NACE:L	NACE:28	0.385679	252
+NACE:L	NACE:29	0.486698	252
+NACE:L	NACE:30	0.405839	252
+NACE:L	NACE:32	0.181865	252
+NACE:L	NACE:35	0.163609	252
+NACE:L	NACE:46	0.165351	252
+NACE:L	NACE:47	0.300343	252
+NACE:L	NACE:53	0.415112	252
+NACE:L	NACE:58	0.201873	252
+NACE:L	NACE:61	0.251218	252
+NACE:L	NACE:63	0.128242	252
+NACE:L	NACE:64	0.455468	252
+NACE:L	NACE:65	0.361750	252
+NACE:L	NACE:66	0.089228	252
+NACE:L	NACE:68	1.000000	252
+NACE:L	NACE:86	0.318914	252
+NACE:Q	NACE:14	0.242528	252
+NACE:Q	NACE:20	0.333759	252
+NACE:Q	NACE:21	0.244993	252
+NACE:Q	NACE:23	0.226356	252
+NACE:Q	NACE:25	0.009922	252
+NACE:Q	NACE:26	0.015265	252
+NACE:Q	NACE:28	0.097757	252
+NACE:Q	NACE:29	0.223127	252
+NACE:Q	NACE:30	0.263372	252
+NACE:Q	NACE:32	0.066221	252
+NACE:Q	NACE:35	0.024918	252
+NACE:Q	NACE:46	0.152770	252
+NACE:Q	NACE:47	0.237728	252
+NACE:Q	NACE:53	0.245287	252
+NACE:Q	NACE:58	0.207484	252
+NACE:Q	NACE:61	0.189971	252
+NACE:Q	NACE:63	0.066633	252
+NACE:Q	NACE:64	0.267306	252
+NACE:Q	NACE:65	0.243208	252
+NACE:Q	NACE:66	0.153908	252
+NACE:Q	NACE:68	0.318914	252
+NACE:Q	NACE:86	1.000000	252
+NACE:14	NACE:20	0.415989	252
+NACE:14	NACE:21	0.228021	252
+NACE:14	NACE:23	0.294665	252
+NACE:14	NACE:25	0.024878	252
+NACE:14	NACE:26	0.203701	252
+NACE:14	NACE:28	0.121361	252
+NACE:14	NACE:29	0.384403	252
+NACE:14	NACE:30	0.363111	252
+NACE:14	NACE:32	0.175718	252
+NACE:14	NACE:35	-0.067661	252
+NACE:14	NACE:46	0.192002	252
+NACE:14	NACE:47	0.376942	252
+NACE:14	NACE:53	0.317061	252
+NACE:14	NACE:58	0.243413	252
+NACE:14	NACE:61	0.249755	252
+NACE:14	NACE:63	0.298103	252
+NACE:14	NACE:64	0.368210	252
+NACE:14	NACE:65	0.260136	252
+NACE:14	NACE:66	0.102264	252
+NACE:14	NACE:68	0.313984	252
+NACE:14	NACE:86	0.242528	252
+NACE:20	NACE:21	0.303497	252
+NACE:20	NACE:23	0.174273	252
+NACE:20	NACE:25	-0.045678	252
+NACE:20	NACE:26	0.129765	252
+NACE:20	NACE:28	0.078048	252
+NACE:20	NACE:29	0.455038	252
+NACE:20	NACE:30	0.192208	252
+NACE:20	NACE:32	0.160941	252
+NACE:20	NACE:35	0.029554	252
+NACE:20	NACE:46	0.529085	252
+NACE:20	NACE:47	0.315603	252
+NACE:20	NACE:53	0.369495	252
+NACE:20	NACE:58	0.129157	252
+NACE:20	NACE:61	0.339408	252
+NACE:20	NACE:63	0.192939	252
+NACE:20	NACE:64	0.276555	252
+NACE:20	NACE:65	0.394565	252
+NACE:20	NACE:66	0.136322	252
+NACE:20	NACE:68	0.393203	252
+NACE:20	NACE:86	0.333759	252
+NACE:21	NACE:23	0.321911	252
+NACE:21	NACE:25	0.111145	252
+NACE:21	NACE:26	0.255019	252
+NACE:21	NACE:28	0.240087	252
+NACE:21	NACE:29	0.348446	252
+NACE:21	NACE:30	0.317931	252
+NACE:21	NACE:32	0.211922	252
+NACE:21	NACE:35	0.237211	252
+NACE:21	NACE:46	0.167148	252
+NACE:21	NACE:47	0.146174	252
+NACE:21	NACE:53	0.430797	252
+NACE:21	NACE:58	0.086443	252
+NACE:21	NACE:61	0.129641	252
+NACE:21	NACE:63	0.058908	252
+NACE:21	NACE:64	0.403408	252
+NACE:21	NACE:65	0.319863	252
+NACE:21	NACE:66	0.043819	252
+NACE:21	NACE:68	0.393103	252
+NACE:21	NACE:86	0.244993	252
+NACE:23	NACE:25	0.134944	252
+NACE:23	NACE:26	0.352649	252
+NACE:23	NACE:28	0.442028	252
+NACE:23	NACE:29	0.429303	252
+NACE:23	NACE:30	0.473313	252
+NACE:23	NACE:32	0.121317	252
+NACE:23	NACE:35	0.110689	252
+NACE:23	NACE:46	0.017287	252
+NACE:23	NACE:47	0.194057	252
+NACE:23	NACE:53	0.439256	252
+NACE:23	NACE:58	0.085555	252
+NACE:23	NACE:61	0.091408	252
+NACE:23	NACE:63	0.237138	252
+NACE:23	NACE:64	0.581559	252
+NACE:23	NACE:65	0.110636	252
+NACE:23	NACE:66	-0.065048	252
+NACE:23	NACE:68	0.370699	252
+NACE:23	NACE:86	0.226356	252
+NACE:25	NACE:26	0.188897	252
+NACE:25	NACE:28	0.238104	252
+NACE:25	NACE:29	0.105903	252
+NACE:25	NACE:30	0.300355	252
+NACE:25	NACE:32	0.031311	252
+NACE:25	NACE:35	0.224602	252
+NACE:25	NACE:46	-0.089249	252
+NACE:25	NACE:47	0.059538	252
+NACE:25	NACE:53	0.138435	252
+NACE:25	NACE:58	0.140910	252
+NACE:25	NACE:61	0.015876	252
+NACE:25	NACE:63	0.105467	252
+NACE:25	NACE:64	0.235088	252
+NACE:25	NACE:65	0.151815	252
+NACE:25	NACE:66	0.066931	252
+NACE:25	NACE:68	0.146434	252
+NACE:25	NACE:86	0.009922	252
+NACE:26	NACE:28	0.664866	252
+NACE:26	NACE:29	0.442149	252
+NACE:26	NACE:30	0.480136	252
+NACE:26	NACE:32	0.134376	252
+NACE:26	NACE:35	0.205954	252
+NACE:26	NACE:46	0.024873	252
+NACE:26	NACE:47	0.179632	252
+NACE:26	NACE:53	0.485125	252
+NACE:26	NACE:58	0.028771	252
+NACE:26	NACE:61	0.039987	252
+NACE:26	NACE:63	0.048974	252
+NACE:26	NACE:64	0.507866	252
+NACE:26	NACE:65	0.071763	252
+NACE:26	NACE:66	-0.161866	252
+NACE:26	NACE:68	0.346883	252
+NACE:26	NACE:86	0.015265	252
+NACE:28	NACE:29	0.402426	252
+NACE:28	NACE:30	0.565032	252
+NACE:28	NACE:32	0.066884	252
+NACE:28	NACE:35	0.328372	252
+NACE:28	NACE:46	-0.056604	252
+NACE:28	NACE:47	0.072652	252
+NACE:28	NACE:53	0.459882	252
+NACE:28	NACE:58	0.002922	252
+NACE:28	NACE:61	-0.073367	252
+NACE:28	NACE:63	-0.004772	252
+NACE:28	NACE:64	0.569957	252
+NACE:28	NACE:65	0.129903	252
+NACE:28	NACE:66	-0.197078	252
+NACE:28	NACE:68	0.385679	252
+NACE:28	NACE:86	0.097757	252
+NACE:29	NACE:30	0.458874	252
+NACE:29	NACE:32	0.151762	252
+NACE:29	NACE:35	0.163075	252
+NACE:29	NACE:46	0.335980	252
+NACE:29	NACE:47	0.283449	252
+NACE:29	NACE:53	0.601319	252
+NACE:29	NACE:58	0.152797	252
+NACE:29	NACE:61	0.279079	252
+NACE:29	NACE:63	0.156035	252
+NACE:29	NACE:64	0.666091	252
+NACE:29	NACE:65	0.322487	252
+NACE:29	NACE:66	0.028086	252
+NACE:29	NACE:68	0.486698	252
+NACE:29	NACE:86	0.223127	252
+NACE:30	NACE:32	0.191198	252
+NACE:30	NACE:35	0.128906	252
+NACE:30	NACE:46	-0.059562	252
+NACE:30	NACE:47	0.218991	252
+NACE:30	NACE:53	0.410884	252
+NACE:30	NACE:58	0.127084	252
+NACE:30	NACE:61	0.136018	252
+NACE:30	NACE:63	0.168801	252
+NACE:30	NACE:64	0.577563	252
+NACE:30	NACE:65	0.206049	252
+NACE:30	NACE:66	-0.051793	252
+NACE:30	NACE:68	0.405839	252
+NACE:30	NACE:86	0.263372	252
+NACE:32	NACE:35	-0.011666	252
+NACE:32	NACE:46	-0.018186	252
+NACE:32	NACE:47	0.130790	252
+NACE:32	NACE:53	0.163034	252
+NACE:32	NACE:58	0.163578	252
+NACE:32	NACE:61	-0.038779	252
+NACE:32	NACE:63	0.090571	252
+NACE:32	NACE:64	0.101992	252
+NACE:32	NACE:65	0.090615	252
+NACE:32	NACE:66	0.106599	252
+NACE:32	NACE:68	0.181865	252
+NACE:32	NACE:86	0.066221	252
+NACE:35	NACE:46	0.076088	252
+NACE:35	NACE:47	0.137550	252
+NACE:35	NACE:53	0.238836	252
+NACE:35	NACE:58	-0.182150	252
+NACE:35	NACE:61	0.016586	252
+NACE:35	NACE:63	-0.115150	252
+NACE:35	NACE:64	0.213767	252
+NACE:35	NACE:65	0.216454	252
+NACE:35	NACE:66	-0.037991	252
+NACE:35	NACE:68	0.163609	252
+NACE:35	NACE:86	0.024918	252
+NACE:46	NACE:47	0.187919	252
+NACE:46	NACE:53	0.222368	252
+NACE:46	NACE:58	0.068277	252
+NACE:46	NACE:61	0.277177	252
+NACE:46	NACE:63	-0.055759	252
+NACE:46	NACE:64	0.108777	252
+NACE:46	NACE:65	0.194005	252
+NACE:46	NACE:66	0.082537	252
+NACE:46	NACE:68	0.165351	252
+NACE:46	NACE:86	0.152770	252
+NACE:47	NACE:53	0.238465	252
+NACE:47	NACE:58	0.252067	252
+NACE:47	NACE:61	0.145560	252
+NACE:47	NACE:63	0.247054	252
+NACE:47	NACE:64	0.241279	252
+NACE:47	NACE:65	0.281352	252
+NACE:47	NACE:66	0.201007	252
+NACE:47	NACE:68	0.300343	252
+NACE:47	NACE:86	0.237728	252
+NACE:53	NACE:58	0.085488	252
+NACE:53	NACE:61	0.134861	252
+NACE:53	NACE:63	0.175861	252
+NACE:53	NACE:64	0.558045	252
+NACE:53	NACE:65	0.247610	252
+NACE:53	NACE:66	-0.056591	252
+NACE:53	NACE:68	0.415112	252
+NACE:53	NACE:86	0.245287	252
+NACE:58	NACE:61	0.121665	252
+NACE:58	NACE:63	0.430090	252
+NACE:58	NACE:64	0.186648	252
+NACE:58	NACE:65	0.154840	252
+NACE:58	NACE:66	0.314542	252
+NACE:58	NACE:68	0.201873	252
+NACE:58	NACE:86	0.207484	252
+NACE:61	NACE:63	0.115331	252
+NACE:61	NACE:64	0.183202	252
+NACE:61	NACE:65	0.324899	252
+NACE:61	NACE:66	0.189150	252
+NACE:61	NACE:68	0.251218	252
+NACE:61	NACE:86	0.189971	252
+NACE:63	NACE:64	0.189811	252
+NACE:63	NACE:65	0.092722	252
+NACE:63	NACE:66	0.231854	252
+NACE:63	NACE:68	0.128242	252
+NACE:63	NACE:86	0.066633	252
+NACE:64	NACE:65	0.337942	252
+NACE:64	NACE:66	-0.046274	252
+NACE:64	NACE:68	0.455468	252
+NACE:64	NACE:86	0.267306	252
+NACE:65	NACE:66	0.310342	252
+NACE:65	NACE:68	0.361750	252
+NACE:65	NACE:86	0.243208	252
+NACE:66	NACE:68	0.089228	252
+NACE:66	NACE:86	0.153908	252
+NACE:68	NACE:86	0.318914	252

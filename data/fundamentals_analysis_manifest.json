@@ -1,0 +1,1483 @@
+{
+  "generated_at": "2026-11-10T00:19:56Z",
+  "model_version": "1.0",
+  "risk_free_rate": 0.032674,
+  "equity_risk_premium": 0.055,
+  "scenario_years": 5,
+  "n_companies": 159,
+  "n_scenarios": 624,
+  "score_weights": {
+    "survival_non_financial": {
+      "altman_z2": 25,
+      "ohlson": 20,
+      "interest_coverage": 15,
+      "debt_ebitda": 15,
+      "current_ratio": 8,
+      "cash_st_debt": 5,
+      "fcf_margin": 7,
+      "credit_score": 5
+    },
+    "growth_non_financial": {
+      "revenue_cagr": 20,
+      "roic_wacc_spread": 25,
+      "gross_margin_change": 15,
+      "fcf_cagr": 10,
+      "eps_cagr": 10,
+      "rnd_intensity": 10,
+      "order_backlog_cagr": 5,
+      "analyst_revenue_growth": 5
+    },
+    "investment": {
+      "growth": 40,
+      "survival": 30,
+      "valuation": 30
+    }
+  },
+  "assumptions": [
+    "Risk-free rate is the German 10-year Bund yield from data/metrics.tsv.",
+    "Equity risk premium is 5.5%; beta is the DAX beta from data/metrics.tsv where available (otherwise 1.0), clamped to 0.4-1.8.",
+    "Ohlson uses operating cash flow as the FFO proxy and a constant GNP index of 100.",
+    "Scores are relative scorecards, not calibrated probabilities or forecasts.",
+    "Valuation percentiles compare the current multiple with the company's FY2021-FY2025 history.",
+    "Banks, insurers, holdings, real estate, utilities, telecoms, asset-light companies and financial infrastructure use sector scorecards; Altman/Ohlson are used only where meaningful.",
+    "External credit ratings are not used as a scoring input; the model uses a synthetic credit score from coverage and leverage. BMW's A stable rating (Morningstar DBRS, October 2026) is a cross-check; Siemens' rating is unverified.",
+    "Auto scores use industrial debt/EBITDA where the captive-finance split is identifiable; total leverage is reported separately.",
+    "Scenario exit multiples are bounded to 0.75-1.25x the current multiple in the base case, 0.5-1.0x in the bear case and 1.0-1.75x in the bull case.",
+    "Cyclical troughs with spot PE above 1.8x the historical median use average positive annual EPS as the starting basis.",
+    "Scores are not validated against a historical default/growth label panel because no consistent DAX/MDAX/SDAX panel was available.",
+    "Scenario returns are illustrations, not forecasts."
+  ],
+  "coverage": [
+    {
+      "ticker": "1AST.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 56.16831864260084,
+      "growth_score": 79.11999713552075,
+      "valuation_score": null,
+      "investment_score": 69.28356349569793
+    },
+    {
+      "ticker": "1SXP.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 76.357187196773,
+      "growth_score": 59.85946597671949,
+      "valuation_score": 63.33333333333333,
+      "investment_score": 65.85094254971969
+    },
+    {
+      "ticker": "1U1.DE",
+      "index_name": "SDAX",
+      "model_type": "telecom",
+      "survival_score": 53.70098537020827,
+      "growth_score": 25.87164389572859,
+      "valuation_score": 28.542169999999995,
+      "investment_score": 35.021604169353914
+    },
+    {
+      "ticker": "8TRA.DE",
+      "index_name": "MDAX",
+      "model_type": "auto",
+      "survival_score": 29.306562987981575,
+      "growth_score": 61.94053834848545,
+      "valuation_score": 48.0,
+      "investment_score": 47.96818423578865
+    },
+    {
+      "ticker": "ACT0.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 75.37329393251517,
+      "growth_score": 87.87576154778328,
+      "valuation_score": 25.0,
+      "investment_score": 65.26229279886786
+    },
+    {
+      "ticker": "ADS.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 78.4497147976833,
+      "growth_score": 68.26024425725343,
+      "valuation_score": 100.0,
+      "investment_score": 80.83901214220636
+    },
+    {
+      "ticker": "ADV.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 72.26873293403104,
+      "growth_score": 29.957723315414423,
+      "valuation_score": 22.0,
+      "investment_score": 40.263709206375076
+    },
+    {
+      "ticker": "AFX.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 62.8904346050114,
+      "growth_score": 42.25707455022198,
+      "valuation_score": 100.0,
+      "investment_score": 65.76996020159221
+    },
+    {
+      "ticker": "AG1.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 36.30399219590698,
+      "growth_score": 73.50067139132173,
+      "valuation_score": 27.223351562500007,
+      "investment_score": 48.458471684050785
+    },
+    {
+      "ticker": "AIR.PA",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 71.59336962597314,
+      "growth_score": 69.25272862807046,
+      "valuation_score": 36.0,
+      "investment_score": 59.97910233902013
+    },
+    {
+      "ticker": "AIXA.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 88.36592688197335,
+      "growth_score": 72.31226868850582,
+      "valuation_score": 52.0,
+      "investment_score": 71.03468553999433
+    },
+    {
+      "ticker": "ALV.DE",
+      "index_name": "DAX 40",
+      "model_type": "insurer",
+      "survival_score": 71.49313971976612,
+      "growth_score": 73.76825367740462,
+      "valuation_score": 0.0,
+      "investment_score": 50.95524338689169
+    },
+    {
+      "ticker": "AMV0.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 50.48335646261917,
+      "growth_score": 36.28132425410785,
+      "valuation_score": 50.1412,
+      "investment_score": 44.69989664042889
+    },
+    {
+      "ticker": "AOF.DE",
+      "index_name": "SDAX",
+      "model_type": "asset_light",
+      "survival_score": 96.27284737573707,
+      "growth_score": 97.111,
+      "valuation_score": 100.0,
+      "investment_score": 97.72625421272113
+    },
+    {
+      "ticker": "AT1.DE",
+      "index_name": "MDAX",
+      "model_type": "real_estate",
+      "survival_score": 51.71001624811397,
+      "growth_score": 26.600541493473788,
+      "valuation_score": 74.20916666666668,
+      "investment_score": 48.4159714718237
+    },
+    {
+      "ticker": "BAS.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 67.41628727461382,
+      "growth_score": 34.61208178138853,
+      "valuation_score": 56.0,
+      "investment_score": 50.86971889493956
+    },
+    {
+      "ticker": "BAYN.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 60.01937788056663,
+      "growth_score": 55.799666979120936,
+      "valuation_score": 56.775,
+      "investment_score": 57.35818015581836
+    },
+    {
+      "ticker": "BC8.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 77.75392603421926,
+      "growth_score": 54.0490307864303,
+      "valuation_score": 52.0,
+      "investment_score": 60.54579012483789
+    },
+    {
+      "ticker": "BEI.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 95.20259959447846,
+      "growth_score": 65.41033934469507,
+      "valuation_score": 100.0,
+      "investment_score": 84.72491561622157
+    },
+    {
+      "ticker": "BFSA.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 56.48111935520511,
+      "growth_score": 62.39840496968095,
+      "valuation_score": 54.0,
+      "investment_score": 58.10369779443391
+    },
+    {
+      "ticker": "BMW.DE",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "survival_score": 52.69509539179565,
+      "growth_score": 37.5430061665966,
+      "valuation_score": 15.333333333333332,
+      "investment_score": 35.42573108417733
+    },
+    {
+      "ticker": "BNR.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 67.24054824378594,
+      "growth_score": 57.8785348131678,
+      "valuation_score": 32.0,
+      "investment_score": 52.923578398402896
+    },
+    {
+      "ticker": "BOSS.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 73.09149277187156,
+      "growth_score": 62.937832404908036,
+      "valuation_score": 94.0,
+      "investment_score": 75.30258079352468
+    },
+    {
+      "ticker": "BSL.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 93.38027172539404,
+      "growth_score": 81.80895204358413,
+      "valuation_score": 85.10291,
+      "investment_score": 86.26853533505185
+    },
+    {
+      "ticker": "CBK.DE",
+      "index_name": "DAX 40",
+      "model_type": "bank",
+      "survival_score": 69.25672135800166,
+      "growth_score": 70.81349286230787,
+      "valuation_score": 23.5,
+      "investment_score": 56.152413552323644
+    },
+    {
+      "ticker": "COK.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 33.6462619012424,
+      "growth_score": 42.35850917225092,
+      "valuation_score": 67.0,
+      "investment_score": 47.13728223927309
+    },
+    {
+      "ticker": "CON.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 71.23260630576468,
+      "growth_score": 45.693394461359766,
+      "valuation_score": 43.0,
+      "investment_score": 52.54713967627331
+    },
+    {
+      "ticker": "CWC.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 92.06567894145732,
+      "growth_score": 65.34691496302877,
+      "valuation_score": 28.0,
+      "investment_score": 62.1584696676487
+    },
+    {
+      "ticker": "DB1.DE",
+      "index_name": "DAX 40",
+      "model_type": "financial_infrastructure",
+      "survival_score": 90.13449361543084,
+      "growth_score": 84.38028054385926,
+      "valuation_score": 8.0,
+      "investment_score": 63.19246030217296
+    },
+    {
+      "ticker": "DBAN.DE",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "survival_score": 61.3933957651383,
+      "growth_score": 36.34461348091309,
+      "valuation_score": 75.0,
+      "investment_score": 55.45586412190673
+    },
+    {
+      "ticker": "DBK.DE",
+      "index_name": "DAX 40",
+      "model_type": "bank",
+      "survival_score": 59.52532658327492,
+      "growth_score": 70.31993833915445,
+      "valuation_score": 40.0,
+      "investment_score": 57.98557331064425
+    },
+    {
+      "ticker": "DEQ.DE",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "survival_score": 60.158023732640004,
+      "growth_score": 55.16426989362612,
+      "valuation_score": 70.0,
+      "investment_score": 61.113115077242455
+    },
+    {
+      "ticker": "DEZ.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 50.12732288897532,
+      "growth_score": 54.718172907877566,
+      "valuation_score": 28.0,
+      "investment_score": 45.325466029843625
+    },
+    {
+      "ticker": "DHER.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 18.038811394181035,
+      "growth_score": 83.28987500000001,
+      "valuation_score": 22.857142857142858,
+      "investment_score": 45.58473627539717
+    },
+    {
+      "ticker": "DHL.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 62.871423885041885,
+      "growth_score": 51.06521188442702,
+      "valuation_score": 26.0,
+      "investment_score": 47.08751191928337
+    },
+    {
+      "ticker": "DMP.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 61.545400583741156,
+      "growth_score": 61.59339623365636,
+      "valuation_score": 86.0,
+      "investment_score": 68.90097866858488
+    },
+    {
+      "ticker": "DOU.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 20.18931193044894,
+      "growth_score": 58.04527028756107,
+      "valuation_score": 81.972165625,
+      "investment_score": 53.86655138165911
+    },
+    {
+      "ticker": "DRW3.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 88.89416973579509,
+      "growth_score": 55.082033751515205,
+      "valuation_score": 28.0,
+      "investment_score": 57.10106442134461
+    },
+    {
+      "ticker": "DTE.DE",
+      "index_name": "DAX 40",
+      "model_type": "telecom",
+      "survival_score": 67.22038514982019,
+      "growth_score": 74.47210258800082,
+      "valuation_score": 68.0,
+      "investment_score": 70.35495658014639
+    },
+    {
+      "ticker": "DTG.DE",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "survival_score": 80.75448628200236,
+      "growth_score": 51.72008072912914,
+      "valuation_score": 42.695769999999996,
+      "investment_score": 57.723109176252365
+    },
+    {
+      "ticker": "DUE.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 50.864429103418296,
+      "growth_score": 42.25190085925448,
+      "valuation_score": 100.0,
+      "investment_score": 62.160089074727274
+    },
+    {
+      "ticker": "DWS.DE",
+      "index_name": "MDAX",
+      "model_type": "bank",
+      "survival_score": 80.91282421887726,
+      "growth_score": 54.570284269946335,
+      "valuation_score": 0.0,
+      "investment_score": 46.10196097364171
+    },
+    {
+      "ticker": "EIN.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 87.9615942354843,
+      "growth_score": 72.9208376097608,
+      "valuation_score": 83.33333333333334,
+      "investment_score": 80.55681331454961
+    },
+    {
+      "ticker": "EKT.DE",
+      "index_name": "SDAX",
+      "model_type": "utility",
+      "survival_score": 37.35268477143063,
+      "growth_score": 33.30615342291727,
+      "valuation_score": 25.167999999999996,
+      "investment_score": 32.078666800596096
+    },
+    {
+      "ticker": "ELG.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 94.81091305550657,
+      "growth_score": 90.40660113245802,
+      "valuation_score": 41.33333333333333,
+      "investment_score": 77.00591436963518
+    },
+    {
+      "ticker": "ENR.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 69.30400669128815,
+      "growth_score": 84.32896463777705,
+      "valuation_score": 54.5,
+      "investment_score": 70.87278786249726
+    },
+    {
+      "ticker": "EOAN.DE",
+      "index_name": "DAX 40",
+      "model_type": "utility",
+      "survival_score": 46.53095486102582,
+      "growth_score": 38.65195772215419,
+      "valuation_score": 66.0,
+      "investment_score": 49.22006954716942
+    },
+    {
+      "ticker": "EUZ.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 89.66722848432069,
+      "growth_score": 82.43203401940997,
+      "valuation_score": 78.66666666666667,
+      "investment_score": 83.47298215306019
+    },
+    {
+      "ticker": "EVD.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 70.89748984585427,
+      "growth_score": 81.79593620405836,
+      "valuation_score": 68.0,
+      "investment_score": 74.38762143537963
+    },
+    {
+      "ticker": "EVK.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 61.458909923453355,
+      "growth_score": 33.614696578223395,
+      "valuation_score": 30.0,
+      "investment_score": 40.88355160832536
+    },
+    {
+      "ticker": "EVT.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 36.25744943977632,
+      "growth_score": 20.468771306617462,
+      "valuation_score": 7.308482142857144,
+      "investment_score": 21.257287997437025
+    },
+    {
+      "ticker": "F3C.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 89.27491113929327,
+      "growth_score": 72.14426651977816,
+      "valuation_score": 46.0,
+      "investment_score": 69.44017994969926
+    },
+    {
+      "ticker": "FIE.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 70.73118003408979,
+      "growth_score": 69.20422577197704,
+      "valuation_score": 78.0,
+      "investment_score": 72.30104431901775
+    },
+    {
+      "ticker": "FME.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 54.15740696533963,
+      "growth_score": 48.173748471089446,
+      "valuation_score": 80.0,
+      "investment_score": 59.516721478037674
+    },
+    {
+      "ticker": "FNTN.DE",
+      "index_name": "MDAX",
+      "model_type": "telecom",
+      "survival_score": 80.11466543979526,
+      "growth_score": 61.138854447373994,
+      "valuation_score": 92.0,
+      "investment_score": 76.08994141088817
+    },
+    {
+      "ticker": "FPE3.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 94.60132999523562,
+      "growth_score": 71.49440708087333,
+      "valuation_score": 70.0,
+      "investment_score": 77.97816183092002
+    },
+    {
+      "ticker": "FRA.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 33.99657728683065,
+      "growth_score": 77.75753239400868,
+      "valuation_score": 68.39474,
+      "investment_score": 61.820408143652664
+    },
+    {
+      "ticker": "FRE.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 69.48193754414311,
+      "growth_score": 34.08142892432666,
+      "valuation_score": 41.0,
+      "investment_score": 46.77715283297359
+    },
+    {
+      "ticker": "FTK.DE",
+      "index_name": "MDAX",
+      "model_type": "bank",
+      "survival_score": 81.77312824848619,
+      "growth_score": 92.65897498916766,
+      "valuation_score": 74.0,
+      "investment_score": 83.79552847021291
+    },
+    {
+      "ticker": "G1A.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 82.88766929419711,
+      "growth_score": 69.36634315549477,
+      "valuation_score": 28.0,
+      "investment_score": 61.01283805045704
+    },
+    {
+      "ticker": "G24.DE",
+      "index_name": "DAX 40",
+      "model_type": "asset_light",
+      "survival_score": 78.11769134678804,
+      "growth_score": 87.92248280183031,
+      "valuation_score": 78.0,
+      "investment_score": 82.00430052476854
+    },
+    {
+      "ticker": "GBF.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 68.24672164154026,
+      "growth_score": 76.93537120733785,
+      "valuation_score": 60.0,
+      "investment_score": 69.24816497539722
+    },
+    {
+      "ticker": "GFT.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 66.07837696167165,
+      "growth_score": 61.99102328102658,
+      "valuation_score": 42.0,
+      "investment_score": 57.219922400912125
+    },
+    {
+      "ticker": "GLJ.DE",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "survival_score": 89.89830948124742,
+      "growth_score": 34.35360814123714,
+      "valuation_score": 100.0,
+      "investment_score": 70.71093610086909
+    },
+    {
+      "ticker": "GYC.DE",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "survival_score": 60.134884232407494,
+      "growth_score": 38.05328897435435,
+      "valuation_score": 84.40375,
+      "investment_score": 58.58290585946399
+    },
+    {
+      "ticker": "HABA.DE",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "survival_score": 48.87076246770809,
+      "growth_score": 17.65759380349077,
+      "valuation_score": 79.0,
+      "investment_score": 45.42426626170874
+    },
+    {
+      "ticker": "HAG.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 52.753358887233006,
+      "growth_score": 70.38778597112142,
+      "valuation_score": 19.999999999999996,
+      "investment_score": 49.98112205461846
+    },
+    {
+      "ticker": "HBH.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 64.09164027573017,
+      "growth_score": 51.049352121410756,
+      "valuation_score": 54.0,
+      "investment_score": 55.84723293128335
+    },
+    {
+      "ticker": "HDD.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 41.408054893900506,
+      "growth_score": 32.961599996006775,
+      "valuation_score": 47.512,
+      "investment_score": 39.86065646657286
+    },
+    {
+      "ticker": "HEI.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 79.76964316261044,
+      "growth_score": 58.919266096261076,
+      "valuation_score": 19.999999999999996,
+      "investment_score": 53.498599387287555
+    },
+    {
+      "ticker": "HEN3.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 84.0706154199895,
+      "growth_score": 60.67746745054544,
+      "valuation_score": 46.0,
+      "investment_score": 63.29217160621502
+    },
+    {
+      "ticker": "HFG.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 37.93327646724211,
+      "growth_score": 20.46617785979058,
+      "valuation_score": 70.0,
+      "investment_score": 40.56645408408886
+    },
+    {
+      "ticker": "HLE.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 73.5510383947946,
+      "growth_score": 47.41133219630275,
+      "valuation_score": 52.0,
+      "investment_score": 56.62984439695948
+    },
+    {
+      "ticker": "HNR1.DE",
+      "index_name": "DAX 40",
+      "model_type": "insurer",
+      "survival_score": 68.39936681544286,
+      "growth_score": 76.85907668200666,
+      "valuation_score": 48.0,
+      "investment_score": 65.66344071743552
+    },
+    {
+      "ticker": "HYQ.DE",
+      "index_name": "SDAX",
+      "model_type": "asset_light",
+      "survival_score": 36.37899379566392,
+      "growth_score": 47.163036047946186,
+      "valuation_score": 91.10182,
+      "investment_score": 57.10945855787765
+    },
+    {
+      "ticker": "IFX.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 84.82546627217198,
+      "growth_score": 56.61917545335332,
+      "valuation_score": 9.999999999999998,
+      "investment_score": 51.09531006299292
+    },
+    {
+      "ticker": "ILM1.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 59.32101976671951,
+      "growth_score": 54.10021739113235,
+      "valuation_score": 55.5,
+      "investment_score": 56.08639288646879
+    },
+    {
+      "ticker": "INH.DE",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "survival_score": 55.332296574778994,
+      "growth_score": 72.56916998865162,
+      "valuation_score": 52.0,
+      "investment_score": 61.227356967894345
+    },
+    {
+      "ticker": "IOS.DE",
+      "index_name": "MDAX",
+      "model_type": "asset_light",
+      "survival_score": 77.29201637092791,
+      "growth_score": 73.80002508259142,
+      "valuation_score": 0.0,
+      "investment_score": 52.70761494431494
+    },
+    {
+      "ticker": "IXX.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 73.95585510905327,
+      "growth_score": 77.5175622116173,
+      "valuation_score": 86.0,
+      "investment_score": 78.9937814173629
+    },
+    {
+      "ticker": "JEN.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 80.55289026325472,
+      "growth_score": 60.161837762330194,
+      "valuation_score": 50.0,
+      "investment_score": 63.230602183908495
+    },
+    {
+      "ticker": "JST.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 68.27568913712999,
+      "growth_score": 64.33597961842611,
+      "valuation_score": 64.75,
+      "investment_score": 65.64209858850944
+    },
+    {
+      "ticker": "JUN3.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 52.4108205557385,
+      "growth_score": 47.06036806006408,
+      "valuation_score": 49.0,
+      "investment_score": 49.247393390747185
+    },
+    {
+      "ticker": "KBX.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 77.45468265650612,
+      "growth_score": 69.4742657901947,
+      "valuation_score": 48.0,
+      "investment_score": 65.42611111302972
+    },
+    {
+      "ticker": "KGX.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 29.217326718209154,
+      "growth_score": 39.77730606303621,
+      "valuation_score": 58.0,
+      "investment_score": 42.07612044067723
+    },
+    {
+      "ticker": "KRN.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 79.60319985838132,
+      "growth_score": 73.83380830733087,
+      "valuation_score": 64.0,
+      "investment_score": 72.61448328044675
+    },
+    {
+      "ticker": "KSB.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 84.86206153117868,
+      "growth_score": 61.8401982118891,
+      "valuation_score": 15.999999999999998,
+      "investment_score": 54.994697744109246
+    },
+    {
+      "ticker": "KTN.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 56.836296793371666,
+      "growth_score": 60.92361819121673,
+      "valuation_score": 49.0,
+      "investment_score": 56.120336314498196
+    },
+    {
+      "ticker": "KWS.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 88.02382272058713,
+      "growth_score": 65.38108810720946,
+      "valuation_score": 60.0,
+      "investment_score": 70.55958205905992
+    },
+    {
+      "ticker": "LEG.DE",
+      "index_name": "MDAX",
+      "model_type": "real_estate",
+      "survival_score": 53.62724933390305,
+      "growth_score": 53.19838776926757,
+      "valuation_score": 90.0,
+      "investment_score": 64.36752990787794
+    },
+    {
+      "ticker": "LHA.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 29.222967416928373,
+      "growth_score": 70.94912662416942,
+      "valuation_score": 41.75,
+      "investment_score": 49.67154087474628
+    },
+    {
+      "ticker": "LPK.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 60.6825965770778,
+      "growth_score": 29.490431096726432,
+      "valuation_score": 41.904761904761905,
+      "investment_score": 42.572379983242485
+    },
+    {
+      "ticker": "LXS.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 30.250898045103227,
+      "growth_score": 25.93791618042203,
+      "valuation_score": 61.0,
+      "investment_score": 37.75043588569978
+    },
+    {
+      "ticker": "MBB.DE",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "survival_score": 79.31282358511724,
+      "growth_score": 76.99204147218796,
+      "valuation_score": 48.0,
+      "investment_score": 68.99066366441036
+    },
+    {
+      "ticker": "MBG.DE",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "survival_score": 58.036795465437955,
+      "growth_score": 32.36096730981206,
+      "valuation_score": 24.0,
+      "investment_score": 37.55542556355621
+    },
+    {
+      "ticker": "MLP.DE",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "survival_score": 95.17547507531543,
+      "growth_score": 59.19099126224449,
+      "valuation_score": 0.0,
+      "investment_score": 52.22903902749242
+    },
+    {
+      "ticker": "MRK.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 85.31732170334382,
+      "growth_score": 48.394008498078676,
+      "valuation_score": 42.0,
+      "investment_score": 57.55279991023462
+    },
+    {
+      "ticker": "MTX.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 68.90324465466506,
+      "growth_score": 78.83612218081495,
+      "valuation_score": 76.5,
+      "investment_score": 75.1554222687255
+    },
+    {
+      "ticker": "MUV2.DE",
+      "index_name": "DAX 40",
+      "model_type": "insurer",
+      "survival_score": 78.28807511697718,
+      "growth_score": 81.04367518300897,
+      "valuation_score": 62.0,
+      "investment_score": 74.50389260829675
+    },
+    {
+      "ticker": "MUX.DE",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "survival_score": 0.7869617478611326,
+      "growth_score": 37.969195188783836,
+      "valuation_score": 70.0,
+      "investment_score": 36.423766599871875
+    },
+    {
+      "ticker": "NDA.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 85.5572910651319,
+      "growth_score": 72.58996192702908,
+      "valuation_score": 60.0,
+      "investment_score": 72.7031720903512
+    },
+    {
+      "ticker": "NDX1.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 78.5700489775725,
+      "growth_score": 87.44994662905039,
+      "valuation_score": 58.64301979166667,
+      "investment_score": 76.1438992823919
+    },
+    {
+      "ticker": "NEM.DE",
+      "index_name": "MDAX",
+      "model_type": "asset_light",
+      "survival_score": 76.18971452599396,
+      "growth_score": 81.54202067400598,
+      "valuation_score": 100.0,
+      "investment_score": 85.47372262740059
+    },
+    {
+      "ticker": "NOEJ.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 53.22697491842302,
+      "growth_score": 28.175903194305157,
+      "valuation_score": 70.0,
+      "investment_score": 48.23845375324897
+    },
+    {
+      "ticker": "OBCK.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 54.90305662056205,
+      "growth_score": 69.71649655922299,
+      "valuation_score": 65.285481875,
+      "investment_score": 63.943160172357814
+    },
+    {
+      "ticker": "OHB.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 58.11465158648337,
+      "growth_score": 61.337390526174666,
+      "valuation_score": 12.0,
+      "investment_score": 45.56935168641488
+    },
+    {
+      "ticker": "P911.DE",
+      "index_name": "MDAX",
+      "model_type": "auto",
+      "survival_score": 77.98989088580012,
+      "growth_score": 29.641775501263393,
+      "valuation_score": 40.0,
+      "investment_score": 47.25367746624539
+    },
+    {
+      "ticker": "PAH3.DE",
+      "index_name": "DAX 40",
+      "model_type": "holding",
+      "survival_score": 60.867962676183666,
+      "growth_score": 12.640817201895425,
+      "valuation_score": 60.0,
+      "investment_score": 41.316715683613275
+    },
+    {
+      "ticker": "PAT.DE",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "survival_score": 47.11956692810484,
+      "growth_score": 34.02057785447411,
+      "valuation_score": 100.0,
+      "investment_score": 57.74410122022109
+    },
+    {
+      "ticker": "PBB.DE",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "survival_score": 33.141299436473226,
+      "growth_score": 2.7552240168859514,
+      "valuation_score": 60.0,
+      "investment_score": 29.04447943769635
+    },
+    {
+      "ticker": "PCZ.DE",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "survival_score": 70.67743766625985,
+      "growth_score": 49.377460634074176,
+      "valuation_score": 32.0,
+      "investment_score": 50.55421555350762
+    },
+    {
+      "ticker": "PNE3.DE",
+      "index_name": "SDAX",
+      "model_type": "utility",
+      "survival_score": 23.57069320116138,
+      "growth_score": 73.21044694562698,
+      "valuation_score": 42.5,
+      "investment_score": 49.10538673859921
+    },
+    {
+      "ticker": "PUM.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 24.382016191866533,
+      "growth_score": 27.57179718991126,
+      "valuation_score": 57.25,
+      "investment_score": 35.51832373352446
+    },
+    {
+      "ticker": "QIA.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 89.83839356477202,
+      "growth_score": 57.41198728911066,
+      "valuation_score": 47.5,
+      "investment_score": 64.16631298507588
+    },
+    {
+      "ticker": "R3NK.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 62.5423260947635,
+      "growth_score": 80.80656735145624,
+      "valuation_score": 17.6726,
+      "investment_score": 56.38710476901155
+    },
+    {
+      "ticker": "RAA.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 99.76578223967208,
+      "growth_score": 84.26991040693774,
+      "valuation_score": 100.0,
+      "investment_score": 93.63769883467673
+    },
+    {
+      "ticker": "RDC.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 36.45726956166176,
+      "growth_score": 74.396875,
+      "valuation_score": 11.428571428571429,
+      "investment_score": 44.12450229706996
+    },
+    {
+      "ticker": "RHM.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 70.803898809964,
+      "growth_score": 80.82798817067405,
+      "valuation_score": 16.0,
+      "investment_score": 58.37236491125882
+    },
+    {
+      "ticker": "RRTL.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 56.21103615277299,
+      "growth_score": 28.628247567395718,
+      "valuation_score": 44.0,
+      "investment_score": 41.51460987279019
+    },
+    {
+      "ticker": "RWE.DE",
+      "index_name": "DAX 40",
+      "model_type": "utility",
+      "survival_score": 35.38757112134807,
+      "growth_score": 53.50198033839176,
+      "valuation_score": 47.5,
+      "investment_score": 46.26706347176112
+    },
+    {
+      "ticker": "S92.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 64.67748445861608,
+      "growth_score": 44.498007552456286,
+      "valuation_score": 83.00744047619048,
+      "investment_score": 62.10468050142448
+    },
+    {
+      "ticker": "SAP.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 91.78698848169515,
+      "growth_score": 79.87252535312531,
+      "valuation_score": 60.0,
+      "investment_score": 77.48510668575868
+    },
+    {
+      "ticker": "SAX.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 23.535541501585154,
+      "growth_score": 59.92803460571214,
+      "valuation_score": 80.0,
+      "investment_score": 55.0318762927604
+    },
+    {
+      "ticker": "SDF.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 90.08998221150483,
+      "growth_score": 73.9822797233334,
+      "valuation_score": 61.16666666666667,
+      "investment_score": 74.96990655278482
+    },
+    {
+      "ticker": "SFQ.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 67.6231947681186,
+      "growth_score": 72.37329975891694,
+      "valuation_score": 22.0,
+      "investment_score": 55.83627833400235
+    },
+    {
+      "ticker": "SGL.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 40.187762228400715,
+      "growth_score": 27.6045302890615,
+      "valuation_score": 64.0,
+      "investment_score": 42.29814078414481
+    },
+    {
+      "ticker": "SHA0.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 35.168209657466846,
+      "growth_score": 36.96931570218468,
+      "valuation_score": 18.999999999999996,
+      "investment_score": 31.038189178113925
+    },
+    {
+      "ticker": "SHL.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 67.85025514637564,
+      "growth_score": 59.38656265327626,
+      "valuation_score": 90.0,
+      "investment_score": 71.1097016052232
+    },
+    {
+      "ticker": "SIE.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 72.20252891977027,
+      "growth_score": 58.08315053483172,
+      "valuation_score": 12.0,
+      "investment_score": 48.49401888986377
+    },
+    {
+      "ticker": "SIX2.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 32.89154189837149,
+      "growth_score": 60.94795698458766,
+      "valuation_score": 64.0,
+      "investment_score": 53.44664536334651
+    },
+    {
+      "ticker": "SLYG.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 97.13903862721516,
+      "growth_score": 95.30411764705883,
+      "valuation_score": 28.0,
+      "investment_score": 75.66335864698809
+    },
+    {
+      "ticker": "SMHN.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 85.0319316210987,
+      "growth_score": 66.0113121374231,
+      "valuation_score": 8.0,
+      "investment_score": 54.31410434129885
+    },
+    {
+      "ticker": "SPG.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 56.8676984543231,
+      "growth_score": 59.18755192903376,
+      "valuation_score": 90.119849375,
+      "investment_score": 67.77128512041043
+    },
+    {
+      "ticker": "SRT3.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 47.25643212797077,
+      "growth_score": 37.723736666654474,
+      "valuation_score": 75.0,
+      "investment_score": 51.76642430505302
+    },
+    {
+      "ticker": "STM.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 57.10983008305916,
+      "growth_score": 46.37198362217483,
+      "valuation_score": 100.0,
+      "investment_score": 65.68174247378768
+    },
+    {
+      "ticker": "STO3.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 89.07540200933205,
+      "growth_score": 39.042940264086965,
+      "valuation_score": 58.0,
+      "investment_score": 59.739796708434405
+    },
+    {
+      "ticker": "SY1.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 79.11065117792026,
+      "growth_score": 57.29840977014944,
+      "valuation_score": 37.0,
+      "investment_score": 57.752559261435856
+    },
+    {
+      "ticker": "SZG.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 48.55110730192357,
+      "growth_score": 26.264703400765516,
+      "valuation_score": 34.698,
+      "investment_score": 35.480613550883284
+    },
+    {
+      "ticker": "SZU.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 61.260610858298996,
+      "growth_score": 50.56957187460396,
+      "valuation_score": 61.66666666666667,
+      "investment_score": 57.10601200733128
+    },
+    {
+      "ticker": "TEG.DE",
+      "index_name": "MDAX",
+      "model_type": "real_estate",
+      "survival_score": 55.5195143577183,
+      "growth_score": 27.287958572227026,
+      "valuation_score": 44.0,
+      "investment_score": 40.771037736206296
+    },
+    {
+      "ticker": "TKA.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 54.70912669413055,
+      "growth_score": 28.73131271332868,
+      "valuation_score": 20.349078125000002,
+      "investment_score": 34.00998653107064
+    },
+    {
+      "ticker": "TKMS.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 47.340557484538714,
+      "growth_score": 38.756482200243106,
+      "valuation_score": null,
+      "investment_score": 42.435371607798366
+    },
+    {
+      "ticker": "TLX.DE",
+      "index_name": "MDAX",
+      "model_type": "insurer",
+      "survival_score": 72.09075767185531,
+      "growth_score": 80.43625785661797,
+      "valuation_score": 7.999999999999999,
+      "investment_score": 56.20173044420378
+    },
+    {
+      "ticker": "TMV.DE",
+      "index_name": "SDAX",
+      "model_type": "asset_light",
+      "survival_score": 64.32286128108855,
+      "growth_score": 77.85120385556878,
+      "valuation_score": 100.0,
+      "investment_score": 80.43733992655407
+    },
+    {
+      "ticker": "TNIE.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 62.99610829055242,
+      "growth_score": 74.61889476876512,
+      "valuation_score": 18.803,
+      "investment_score": 54.38729039467177
+    },
+    {
+      "ticker": "TPE.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 37.76965400326702,
+      "growth_score": 50.88305713871912,
+      "valuation_score": 38.397,
+      "investment_score": 43.20321905646775
+    },
+    {
+      "ticker": "TUI1.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 21.087016850350402,
+      "growth_score": 83.38947218068013,
+      "valuation_score": 44.0,
+      "investment_score": 52.88189392737717
+    },
+    {
+      "ticker": "UTDI.DE",
+      "index_name": "MDAX",
+      "model_type": "telecom",
+      "survival_score": 54.23816661468166,
+      "growth_score": 44.85927566334671,
+      "valuation_score": 74.5,
+      "investment_score": 56.56516024974319
+    },
+    {
+      "ticker": "V1NC.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 55.63913780625125,
+      "growth_score": 79.6802492694448,
+      "valuation_score": null,
+      "investment_score": 69.37691578521898
+    },
+    {
+      "ticker": "VBK.DE",
+      "index_name": "SDAX",
+      "model_type": "utility",
+      "survival_score": 76.5590712887712,
+      "growth_score": 23.18277837829325,
+      "valuation_score": 42.271,
+      "investment_score": 44.92213273794866
+    },
+    {
+      "ticker": "VH2.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 95.30126749974406,
+      "growth_score": 86.04205882352942,
+      "valuation_score": 91.0,
+      "investment_score": 90.307203779335
+    },
+    {
+      "ticker": "VNA.DE",
+      "index_name": "DAX 40",
+      "model_type": "real_estate",
+      "survival_score": 46.031124005097254,
+      "growth_score": 30.279726758218846,
+      "valuation_score": 98.402,
+      "investment_score": 55.44182790481671
+    },
+    {
+      "ticker": "VOS.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 42.41884824509434,
+      "growth_score": 54.410538323474455,
+      "valuation_score": 12.0,
+      "investment_score": 38.08986980291808
+    },
+    {
+      "ticker": "VOW3.DE",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "survival_score": 32.594933785004535,
+      "growth_score": 34.31864501134274,
+      "valuation_score": 26.0,
+      "investment_score": 31.305938140038457
+    },
+    {
+      "ticker": "WAC.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 82.80067210264511,
+      "growth_score": 48.77958955788695,
+      "valuation_score": 48.66666666666667,
+      "investment_score": 58.952037453948314
+    },
+    {
+      "ticker": "WAF.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 43.200041129942456,
+      "growth_score": 19.46810636608622,
+      "valuation_score": 31.75,
+      "investment_score": 30.272254885417222
+    },
+    {
+      "ticker": "WCH.DE",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "survival_score": 76.46770794082437,
+      "growth_score": 31.09781921582807,
+      "valuation_score": 52.58333333333334,
+      "investment_score": 51.154440068578545
+    },
+    {
+      "ticker": "YSN.DE",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "survival_score": 75.40843814879338,
+      "growth_score": 61.66728069395982,
+      "valuation_score": 29.5,
+      "investment_score": 56.13944372222195
+    },
+    {
+      "ticker": "ZAL.DE",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "survival_score": 50.14228541433288,
+      "growth_score": 53.05929937092001,
+      "valuation_score": 54.0,
+      "investment_score": 52.46640537266787
+    }
+  ]
+}

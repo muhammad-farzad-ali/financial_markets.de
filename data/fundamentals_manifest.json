@@ -1,0 +1,3042 @@
+{
+  "generated_at": "2026-11-10T00:15:38Z",
+  "model_version": "1.0",
+  "source": "stockanalysis.com, data by S&P Global Market Intelligence",
+  "n_companies": 159,
+  "n_rows": 952,
+  "n_quarterly_rows": 2992,
+  "coverage": [
+    {
+      "ticker": "ADS.DE",
+      "company": "Adidas",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "AIR.PA",
+      "company": "Airbus",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-28",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "ALV.DE",
+      "company": "Allianz",
+      "index_name": "DAX 40",
+      "model_type": "insurer",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BAS.DE",
+      "company": "BASF",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-28",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BAYN.DE",
+      "company": "Bayer",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BEI.DE",
+      "company": "Beiersdorf",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-05",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "BMW.DE",
+      "company": "BMW",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BNR.DE",
+      "company": "Brenntag",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "CBK.DE",
+      "company": "Commerzbank",
+      "index_name": "DAX 40",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-09-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "CON.DE",
+      "company": "Continental",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DTG.DE",
+      "company": "Daimler Truck",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DBK.DE",
+      "company": "Deutsche Bank",
+      "index_name": "DAX 40",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-09-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DB1.DE",
+      "company": "Deutsche Börse",
+      "index_name": "DAX 40",
+      "model_type": "financial_infrastructure",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-22",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DHL.DE",
+      "company": "Deutsche Post",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DTE.DE",
+      "company": "Deutsche Telekom",
+      "index_name": "DAX 40",
+      "model_type": "telecom",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "EOAN.DE",
+      "company": "E.ON",
+      "index_name": "DAX 40",
+      "model_type": "utility",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "FRE.DE",
+      "company": "Fresenius",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "FME.DE",
+      "company": "Fresenius Medical Care",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "G1A.DE",
+      "company": "GEA Group",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HNR1.DE",
+      "company": "Hannover Re",
+      "index_name": "DAX 40",
+      "model_type": "insurer",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-09-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HEI.DE",
+      "company": "Heidelberg Materials",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-07-29",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "HEN3.DE",
+      "company": "Henkel",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "IFX.DE",
+      "company": "Infineon Technologies",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "MBG.DE",
+      "company": "Mercedes-Benz Group",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-27",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "MRK.DE",
+      "company": "Merck",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "MTX.DE",
+      "company": "MTU Aero Engines",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "MUV2.DE",
+      "company": "Munich Re",
+      "index_name": "DAX 40",
+      "model_type": "insurer",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "PAH3.DE",
+      "company": "Porsche SE",
+      "index_name": "DAX 40",
+      "model_type": "holding",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-07",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "QIA.DE",
+      "company": "Qiagen",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "USD",
+      "source_date": "2026-11-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "RHM.DE",
+      "company": "Rheinmetall",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "RWE.DE",
+      "company": "RWE",
+      "index_name": "DAX 40",
+      "model_type": "utility",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SAP.DE",
+      "company": "SAP",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-21",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "G24.DE",
+      "company": "Scout24",
+      "index_name": "DAX 40",
+      "model_type": "asset_light",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SIE.DE",
+      "company": "Siemens",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "ENR.DE",
+      "company": "Siemens Energy",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SHL.DE",
+      "company": "Siemens Healthineers",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SY1.DE",
+      "company": "Symrise",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-07-30",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "VOW3.DE",
+      "company": "Volkswagen Group",
+      "index_name": "DAX 40",
+      "model_type": "auto",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "VNA.DE",
+      "company": "Vonovia",
+      "index_name": "DAX 40",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-09-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "ZAL.DE",
+      "company": "Zalando",
+      "index_name": "DAX 40",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-26",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "AIXA.DE",
+      "company": "Aixtron",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "AT1.DE",
+      "company": "Aroundtown",
+      "index_name": "MDAX",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "AMV0.DE",
+      "company": "Aumovio",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 5,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 11
+    },
+    {
+      "ticker": "NDA.DE",
+      "company": "Aurubis",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "AG1.DE",
+      "company": "Auto1 Group",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BC8.DE",
+      "company": "Bechtle",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "GBF.DE",
+      "company": "Bilfinger",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "EVD.DE",
+      "company": "CTS Eventim",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-20",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DHER.DE",
+      "company": "Delivery Hero",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-27",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "LHA.DE",
+      "company": "Deutsche Lufthansa",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DEZ.DE",
+      "company": "Deutz",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DWS.DE",
+      "company": "DWS Group",
+      "index_name": "MDAX",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-28",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "ELG.DE",
+      "company": "Elmos Semiconductor",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "EVK.DE",
+      "company": "Evonik Industries",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "FTK.DE",
+      "company": "Flatexdegiro",
+      "index_name": "MDAX",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-21",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "FRA.DE",
+      "company": "Fraport",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "FNTN.DE",
+      "company": "Freenet",
+      "index_name": "MDAX",
+      "model_type": "telecom",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "FPE3.DE",
+      "company": "Fuchs",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HLE.DE",
+      "company": "Hella",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HAG.DE",
+      "company": "Hensoldt",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-28",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "IOS.DE",
+      "company": "Ionos Group",
+      "index_name": "MDAX",
+      "model_type": "asset_light",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 19
+    },
+    {
+      "ticker": "JEN.DE",
+      "company": "Jenoptik",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SDF.DE",
+      "company": "K+S",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-10",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "KGX.DE",
+      "company": "Kion Group",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "KBX.DE",
+      "company": "Knorr-Bremse",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "KRN.DE",
+      "company": "Krones",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "LXS.DE",
+      "company": "Lanxess",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "LEG.DE",
+      "company": "LEG Immobilien",
+      "index_name": "MDAX",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "NEM.DE",
+      "company": "Nemetschek",
+      "index_name": "MDAX",
+      "model_type": "asset_light",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "NDX1.DE",
+      "company": "Nordex",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "P911.DE",
+      "company": "Porsche",
+      "index_name": "MDAX",
+      "model_type": "auto",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-27",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "PUM.DE",
+      "company": "Puma",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "RAA.DE",
+      "company": "Rational",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "R3NK.DE",
+      "company": "Renk Group",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 15
+    },
+    {
+      "ticker": "RRTL.DE",
+      "company": "RTL Group",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-11",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "SZG.DE",
+      "company": "Salzgitter",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-11",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SRT3.DE",
+      "company": "Sartorius",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-22",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SHA0.DE",
+      "company": "Schaeffler",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "WAF.DE",
+      "company": "Siltronic",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SAX.DE",
+      "company": "Ströer",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SMHN.DE",
+      "company": "Suss Microtec",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TEG.DE",
+      "company": "TAG Immobilien",
+      "index_name": "MDAX",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TLX.DE",
+      "company": "Talanx",
+      "index_name": "MDAX",
+      "model_type": "insurer",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TKA.DE",
+      "company": "Thyssenkrupp",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TKMS.DE",
+      "company": "TKMS",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2003"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 8
+    },
+    {
+      "ticker": "8TRA.DE",
+      "company": "Traton",
+      "index_name": "MDAX",
+      "model_type": "auto",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-28",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TUI1.DE",
+      "company": "TUI",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "UTDI.DE",
+      "company": "United Internet",
+      "index_name": "MDAX",
+      "model_type": "telecom",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "WCH.DE",
+      "company": "Wacker Chemie",
+      "index_name": "MDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "1U1.DE",
+      "company": "1&1",
+      "index_name": "SDAX",
+      "model_type": "telecom",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "ADV.DE",
+      "company": "Adtran Networks",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [
+        "forecast: HTTP 404 for https://stockanalysis.com/quote/etr/ADV/forecast/"
+      ],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "ACT0.DE",
+      "company": "AlzChem Group",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-02",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "1AST.DE",
+      "company": "Asta Energy Solutions",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-27",
+      "fetch_errors": [],
+      "quarterly_periods": 4
+    },
+    {
+      "ticker": "AOF.DE",
+      "company": "Atoss Software",
+      "index_name": "SDAX",
+      "model_type": "asset_light",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-23",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BSL.DE",
+      "company": "Basler",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BFSA.DE",
+      "company": "Befesa",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "COK.DE",
+      "company": "Cancom",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-11",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "AFX.DE",
+      "company": "Carl Zeiss Meditec",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "CWC.DE",
+      "company": "Cewe",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DMP.DE",
+      "company": "Dermapharm Holding",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-25",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DBAN.DE",
+      "company": "Deutsche Beteiligungs",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DEQ.DE",
+      "company": "Deutsche EuroShop",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "PBB.DE",
+      "company": "Deutsche Pfandbriefbank",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DOU.DE",
+      "company": "Douglas Group",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DRW3.DE",
+      "company": "Drägerwerk",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "DUE.DE",
+      "company": "Dürr",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "EUZ.DE",
+      "company": "Eckert & Ziegler Strahlen- und Medizintechnik",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-10",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "EIN.DE",
+      "company": "Einhell Germany",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-18",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "EKT.DE",
+      "company": "Energiekontor",
+      "index_name": "SDAX",
+      "model_type": "utility",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "EVT.DE",
+      "company": "Evotec",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "FIE.DE",
+      "company": "Fielmann Group",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "VH2.DE",
+      "company": "Friedrich Vorwerk",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "GFT.DE",
+      "company": "GFT Technologies",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "GYC.DE",
+      "company": "Grand City Properties",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "GLJ.DE",
+      "company": "Grenke",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HABA.DE",
+      "company": "Hamborner Reit",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HDD.DE",
+      "company": "Heidelberger Druckmaschinen",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-19",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HFG.DE",
+      "company": "HelloFresh",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HBH.DE",
+      "company": "Hornbach Holding",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-09-28",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "BOSS.DE",
+      "company": "Hugo Boss",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "HYQ.DE",
+      "company": "Hypoport",
+      "index_name": "SDAX",
+      "model_type": "asset_light",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-09",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "INH.DE",
+      "company": "Indus Holding",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "IXX.DE",
+      "company": "INIT Innovation in Traffic Systems",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "JST.DE",
+      "company": "Jost Werke",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "JUN3.DE",
+      "company": "Jungheinrich",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-11",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "KTN.DE",
+      "company": "Kontron",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "KSB.DE",
+      "company": "KSB",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [
+        "forecast: HTTP 404 for https://stockanalysis.com/quote/etr/KSB/forecast/"
+      ],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "KWS.DE",
+      "company": "KWS Saat",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-09-23",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "LPK.DE",
+      "company": "LPKF Laser & Electronics",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-28",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "MBB.DE",
+      "company": "MBB",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "ILM1.DE",
+      "company": "Medios",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "MLP.DE",
+      "company": "MLP",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "MUX.DE",
+      "company": "Mutares",
+      "index_name": "SDAX",
+      "model_type": "holding",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-04",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "NOEJ.DE",
+      "company": "Norma Group",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "OHB.DE",
+      "company": "OHB",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-06",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "OBCK.DE",
+      "company": "Ottobock",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "PAT.DE",
+      "company": "Patrizia",
+      "index_name": "SDAX",
+      "model_type": "real_estate",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-10",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "PNE3.DE",
+      "company": "PNE",
+      "index_name": "SDAX",
+      "model_type": "utility",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "PCZ.DE",
+      "company": "ProCredit Holding",
+      "index_name": "SDAX",
+      "model_type": "bank",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-06-30",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TPE.DE",
+      "company": "PVA TePla",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "RDC.DE",
+      "company": "Redcare Pharmacy",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-29",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SFQ.DE",
+      "company": "SAF-Holland",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "1SXP.DE",
+      "company": "Schott Pharma",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 16
+    },
+    {
+      "ticker": "YSN.DE",
+      "company": "Secunet Security Networks",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "F3C.DE",
+      "company": "SFC Energy",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-14",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SGL.DE",
+      "company": "SGL Carbon",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-05",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SLYG.DE",
+      "company": "Shelly Group",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-12",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SIX2.DE",
+      "company": "Sixt",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "S92.DE",
+      "company": "SMA Solar Technology",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "SPG.DE",
+      "company": "Springer Nature",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-05",
+      "fetch_errors": [],
+      "quarterly_periods": 5
+    },
+    {
+      "ticker": "STM.DE",
+      "company": "Stabilus",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "STO3.DE",
+      "company": "Sto",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-24",
+      "fetch_errors": [
+        "forecast: HTTP 404 for https://stockanalysis.com/quote/etr/STO3/forecast/"
+      ],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "SZU.DE",
+      "company": "Südzucker",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2027",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-08",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TMV.DE",
+      "company": "TeamViewer",
+      "index_name": "SDAX",
+      "model_type": "asset_light",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-11-03",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "TNIE.DE",
+      "company": "Tonies",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-20",
+      "fetch_errors": [],
+      "quarterly_periods": 10
+    },
+    {
+      "ticker": "VBK.DE",
+      "company": "Verbio",
+      "index_name": "SDAX",
+      "model_type": "utility",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-09-24",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "V1NC.DE",
+      "company": "Vincorion",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 5,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 4
+    },
+    {
+      "ticker": "VOS.DE",
+      "company": "Vossloh",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-10-22",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    },
+    {
+      "ticker": "WAC.DE",
+      "company": "Wacker Neuson",
+      "index_name": "SDAX",
+      "model_type": "non_financial",
+      "periods": 6,
+      "years": [
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "currency": "EUR",
+      "source_date": "2026-08-13",
+      "fetch_errors": [],
+      "quarterly_periods": 20
+    }
+  ],
+  "notes": [
+    "Financial statement values are normalised to millions of the reported currency.",
+    "TTM is the first period; FY2021-FY2025 follow.",
+    "Quarterly income, balance-sheet and cash-flow statements are stored separately in data/fundamentals_quarterly.tsv.",
+    "Banks, insurers, real estate and holdings use sector-specific scorecards.",
+    "Qiagen reports in USD because its primary listing is NYSE."
+  ]
+}

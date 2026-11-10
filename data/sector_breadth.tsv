@@ -1,0 +1,64 @@
+group_id	name	level	n_constituents	above_sma50_pct	above_sma200_pct	positive_ytd_pct	median_ret_1y
+SECTOR:Communication Services	Communication Services	sector	1	0.000000	0.000000	0.000000	-0.019858
+SECTOR:Consumer Discretionary	Consumer Discretionary	sector	9	0.555556	0.444444	0.555556	-0.045161
+SECTOR:Consumer Staples	Consumer Staples	sector	2	1.000000	1.000000	0.500000	0.029299
+SECTOR:Financials	Financials	sector	6	0.833333	1.000000	0.833333	0.146756
+SECTOR:Health Care	Health Care	sector	6	1.000000	1.000000	0.833333	0.121069
+SECTOR:Industrials	Industrials	sector	8	0.625000	0.750000	0.750000	0.134115
+SECTOR:Information Technology	Information Technology	sector	2	0.500000	0.500000	1.000000	0.218559
+SECTOR:Materials	Materials	sector	3	1.000000	1.000000	0.666667	0.251743
+SECTOR:Real Estate	Real Estate	sector	1	1.000000	0.000000	0.000000	-0.313546
+SECTOR:Utilities	Utilities	sector	2	1.000000	1.000000	1.000000	0.272591
+IND:Aerospace & Defence	Aerospace & Defence	industry	3	0.666667	0.666667	0.333333	-0.037398
+IND:Apparel	Apparel	industry	1	1.000000	1.000000	1.000000	0.131579
+IND:Automotive	Automotive	industry	6	0.333333	0.166667	0.333333	-0.268183
+IND:Biotech	Biotech	industry	1	1.000000	1.000000	1.000000	0.147169
+IND:Chemicals	Chemicals	industry	2	1.000000	1.000000	1.000000	0.285732
+IND:Construction Materials	Construction Materials	industry	1	1.000000	1.000000	0.000000	-0.105067
+IND:Consumer Goods	Consumer Goods	industry	1	1.000000	1.000000	1.000000	0.149410
+IND:Consumer goods	Consumer goods	industry	1	1.000000	1.000000	0.000000	-0.090811
+IND:Distribution	Distribution	industry	1	0.000000	1.000000	1.000000	0.317115
+IND:E-Commerce	E-Commerce	industry	2	1.000000	1.000000	1.000000	0.084372
+IND:Energy technology	Energy technology	industry	1	0.000000	0.000000	1.000000	0.165258
+IND:Financial Services	Financial Services	industry	5	0.800000	1.000000	0.800000	0.170746
+IND:Healthcare	Healthcare	industry	2	1.000000	1.000000	1.000000	0.045419
+IND:Industrials	Industrials	industry	1	1.000000	1.000000	1.000000	0.102971
+IND:Insurance	Insurance	industry	1	1.000000	1.000000	1.000000	0.122766
+IND:Logistics	Logistics	industry	1	1.000000	1.000000	1.000000	0.332727
+IND:Mechanical Engineering	Mechanical Engineering	industry	1	1.000000	1.000000	1.000000	0.184909
+IND:Medical Equipment	Medical Equipment	industry	1	1.000000	1.000000	0.000000	-0.004613
+IND:Pharmaceuticals	Pharmaceuticals	industry	2	1.000000	1.000000	1.000000	0.748338
+IND:Real Estate	Real Estate	industry	1	1.000000	0.000000	0.000000	-0.313546
+IND:Technology	Technology	industry	2	0.500000	0.500000	1.000000	0.218559
+IND:Telecommunication	Telecommunication	industry	1	0.000000	0.000000	0.000000	-0.019858
+IND:Utilities	Utilities	industry	2	1.000000	1.000000	1.000000	0.272591
+NACE:C	NACE C — Manufacturing	nace_section	22	0.727273	0.681818	0.636364	0.117275
+NACE:D	NACE D — Electricity, gas, steam and air conditioning supply	nace_section	2	1.000000	1.000000	1.000000	0.272591
+NACE:G	NACE G — Wholesale and retail trade; repair of motor vehicles and motorcycles	nace_section	2	0.500000	1.000000	1.000000	0.265511
+NACE:H	NACE H — Transportation and storage	nace_section	1	1.000000	1.000000	1.000000	0.332727
+NACE:J	NACE J — Information and communication	nace_section	3	0.666667	0.666667	0.666667	-0.021272
+NACE:K	NACE K — Financial and insurance activities	nace_section	7	0.714286	0.857143	0.714286	0.122766
+NACE:L	NACE L — Real estate activities	nace_section	1	1.000000	0.000000	0.000000	-0.313546
+NACE:Q	NACE Q — Human health and social work activities	nace_section	2	1.000000	1.000000	1.000000	0.045419
+NACE:14	NACE 14 — Manufacture of wearing apparel	nace_division	1	1.000000	1.000000	1.000000	0.131579
+NACE:20	NACE 20 — Manufacture of chemicals and chemical products	nace_division	4	1.000000	1.000000	0.750000	0.200576
+NACE:21	NACE 21 — Manufacture of basic pharmaceutical products and pharmaceutical preparations	nace_division	2	1.000000	1.000000	1.000000	0.748338
+NACE:23	NACE 23 — Manufacture of other non-metallic mineral products	nace_division	1	1.000000	1.000000	0.000000	-0.105067
+NACE:25	NACE 25 — Manufacture of fabricated metal products, except machinery and equipment	nace_division	1	0.000000	0.000000	0.000000	-0.526917
+NACE:26	NACE 26 — Manufacture of computer, electronic and optical products	nace_division	2	0.500000	0.500000	0.500000	0.226889
+NACE:28	NACE 28 — Manufacture of machinery and equipment n.e.c.	nace_division	3	0.666667	0.666667	1.000000	0.165258
+NACE:29	NACE 29 — Manufacture of motor vehicles, trailers and semi-trailers	nace_division	5	0.400000	0.200000	0.400000	-0.266458
+NACE:30	NACE 30 — Manufacture of other transport equipment	nace_division	2	1.000000	1.000000	0.500000	-0.030779
+NACE:32	NACE 32 — Other manufacturing	nace_division	1	1.000000	1.000000	1.000000	0.147169
+NACE:35	NACE 35 — Electricity, gas, steam and air conditioning supply	nace_division	2	1.000000	1.000000	1.000000	0.272591
+NACE:46	NACE 46 — Wholesale trade, except of motor vehicles and motorcycles	nace_division	1	0.000000	1.000000	1.000000	0.317115
+NACE:47	NACE 47 — Retail trade, except of motor vehicles and motorcycles	nace_division	1	1.000000	1.000000	1.000000	0.213906
+NACE:53	NACE 53 — Postal and courier activities	nace_division	1	1.000000	1.000000	1.000000	0.332727
+NACE:58	NACE 58 — Publishing activities	nace_division	1	1.000000	1.000000	1.000000	-0.021272
+NACE:61	NACE 61 — Telecommunications	nace_division	1	0.000000	0.000000	0.000000	-0.019858
+NACE:63	NACE 63 — Information service activities	nace_division	1	1.000000	1.000000	1.000000	-0.045161
+NACE:64	NACE 64 — Financial service activities, except insurance and pension funding	nace_division	3	0.333333	0.666667	0.333333	0.000616
+NACE:65	NACE 65 — Insurance, reinsurance and pension funding, except compulsory social security	nace_division	3	1.000000	1.000000	1.000000	0.122766
+NACE:66	NACE 66 — Activities auxiliary to financial services and insurance activities	nace_division	1	1.000000	1.000000	1.000000	0.510791
+NACE:68	NACE 68 — Real estate activities	nace_division	1	1.000000	0.000000	0.000000	-0.313546
+NACE:86	NACE 86 — Human health activities	nace_division	2	1.000000	1.000000	1.000000	0.045419

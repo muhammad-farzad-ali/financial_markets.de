@@ -1,0 +1,501 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="3451" viewBox="0 0 980 3451">
+<rect width="980" height="3451" fill="#ffffff"/>
+<text x="490.00" y="26.00" font-size="18" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="bold" text-anchor="middle">DAX · MDAX · SDAX survival scores</text>
+<text x="490.00" y="46.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">0–100; higher is safer. Sector-specific scorecards; not a default probability.</text>
+<line x1="250.00" y1="74.00" x2="250.00" y2="3421.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<text x="250.00" y="68.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">0</text>
+<line x1="412.50" y1="74.00" x2="412.50" y2="3421.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<text x="412.50" y="68.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">25</text>
+<line x1="575.00" y1="74.00" x2="575.00" y2="3421.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<text x="575.00" y="68.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">50</text>
+<line x1="737.50" y1="74.00" x2="737.50" y2="3421.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<text x="737.50" y="68.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">75</text>
+<line x1="900.00" y1="74.00" x2="900.00" y2="3421.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<text x="900.00" y="68.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">100</text>
+<text x="242.00" y="95.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">RAA.DE  Rational</text>
+<rect x="250.00" y="85.00" width="648.48" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="903.48" y="95.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">99.8</text>
+<text x="242.00" y="116.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SLYG.DE  Shelly Group</text>
+<rect x="250.00" y="106.00" width="631.40" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="886.40" y="116.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">97.1</text>
+<text x="242.00" y="137.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">AOF.DE  Atoss Software</text>
+<rect x="250.00" y="127.00" width="625.77" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="880.77" y="137.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">96.3</text>
+<text x="242.00" y="158.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">VH2.DE  Friedrich Vorwerk</text>
+<rect x="250.00" y="148.00" width="619.46" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="874.46" y="158.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">95.3</text>
+<text x="242.00" y="179.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BEI.DE  Beiersdorf</text>
+<rect x="250.00" y="169.00" width="618.82" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="873.82" y="179.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">95.2</text>
+<text x="242.00" y="200.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">MLP.DE  MLP</text>
+<rect x="250.00" y="190.00" width="618.64" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="873.64" y="200.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">95.2</text>
+<text x="242.00" y="221.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ELG.DE  Elmos Semiconductor</text>
+<rect x="250.00" y="211.00" width="616.27" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="871.27" y="221.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">94.8</text>
+<text x="242.00" y="242.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">FPE3.DE  Fuchs</text>
+<rect x="250.00" y="232.00" width="614.91" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="869.91" y="242.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">94.6</text>
+<text x="242.00" y="263.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BSL.DE  Basler</text>
+<rect x="250.00" y="253.00" width="606.97" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="861.97" y="263.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">93.4</text>
+<text x="242.00" y="284.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">CWC.DE  Cewe</text>
+<rect x="250.00" y="274.00" width="598.43" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="853.43" y="284.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">92.1</text>
+<text x="242.00" y="305.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SAP.DE  SAP</text>
+<rect x="250.00" y="295.00" width="596.62" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="851.62" y="305.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">91.8</text>
+<text x="242.00" y="326.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DB1.DE  Deutsche Börse</text>
+<rect x="250.00" y="316.00" width="585.87" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="840.87" y="326.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">90.1</text>
+<text x="242.00" y="347.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SDF.DE  K+S</text>
+<rect x="250.00" y="337.00" width="585.58" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="840.58" y="347.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">90.1</text>
+<text x="242.00" y="368.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">GLJ.DE  Grenke</text>
+<rect x="250.00" y="358.00" width="584.34" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="839.34" y="368.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">89.9</text>
+<text x="242.00" y="389.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">QIA.DE  Qiagen</text>
+<rect x="250.00" y="379.00" width="583.95" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="838.95" y="389.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">89.8</text>
+<text x="242.00" y="410.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">EUZ.DE  Eckert &amp; Ziegler St</text>
+<rect x="250.00" y="400.00" width="582.84" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="837.84" y="410.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">89.7</text>
+<text x="242.00" y="431.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">F3C.DE  SFC Energy</text>
+<rect x="250.00" y="421.00" width="580.29" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="835.29" y="431.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">89.3</text>
+<text x="242.00" y="452.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">STO3.DE  Sto</text>
+<rect x="250.00" y="442.00" width="578.99" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="833.99" y="452.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">89.1</text>
+<text x="242.00" y="473.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DRW3.DE  Drägerwerk</text>
+<rect x="250.00" y="463.00" width="577.81" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="832.81" y="473.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">88.9</text>
+<text x="242.00" y="494.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">AIXA.DE  Aixtron</text>
+<rect x="250.00" y="484.00" width="574.38" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="829.38" y="494.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">88.4</text>
+<text x="242.00" y="515.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">KWS.DE  KWS Saat</text>
+<rect x="250.00" y="505.00" width="572.15" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="827.15" y="515.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">88.0</text>
+<text x="242.00" y="536.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">EIN.DE  Einhell Germany</text>
+<rect x="250.00" y="526.00" width="571.75" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="826.75" y="536.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">88.0</text>
+<text x="242.00" y="557.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">NDA.DE  Aurubis</text>
+<rect x="250.00" y="547.00" width="556.12" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="811.12" y="557.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">85.6</text>
+<text x="242.00" y="578.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">MRK.DE  Merck</text>
+<rect x="250.00" y="568.00" width="554.56" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="809.56" y="578.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">85.3</text>
+<text x="242.00" y="599.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SMHN.DE  Suss Microtec</text>
+<rect x="250.00" y="589.00" width="552.71" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="807.71" y="599.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">85.0</text>
+<text x="242.00" y="620.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">KSB.DE  KSB</text>
+<rect x="250.00" y="610.00" width="551.60" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="806.60" y="620.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">84.9</text>
+<text x="242.00" y="641.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">IFX.DE  Infineon Technologi</text>
+<rect x="250.00" y="631.00" width="551.37" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="806.37" y="641.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">84.8</text>
+<text x="242.00" y="662.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HEN3.DE  Henkel</text>
+<rect x="250.00" y="652.00" width="546.46" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="801.46" y="662.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">84.1</text>
+<text x="242.00" y="683.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">G1A.DE  GEA Group</text>
+<rect x="250.00" y="673.00" width="538.77" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="793.77" y="683.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">82.9</text>
+<text x="242.00" y="704.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">WAC.DE  Wacker Neuson</text>
+<rect x="250.00" y="694.00" width="538.20" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="793.20" y="704.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">82.8</text>
+<text x="242.00" y="725.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">FTK.DE  Flatexdegiro</text>
+<rect x="250.00" y="715.00" width="531.53" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="786.53" y="725.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">81.8</text>
+<text x="242.00" y="746.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DWS.DE  DWS Group</text>
+<rect x="250.00" y="736.00" width="525.93" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="780.93" y="746.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">80.9</text>
+<text x="242.00" y="767.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DTG.DE  Daimler Truck</text>
+<rect x="250.00" y="757.00" width="524.90" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="779.90" y="767.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">80.8</text>
+<text x="242.00" y="788.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">JEN.DE  Jenoptik</text>
+<rect x="250.00" y="778.00" width="523.59" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="778.59" y="788.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">80.6</text>
+<text x="242.00" y="809.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">FNTN.DE  Freenet</text>
+<rect x="250.00" y="799.00" width="520.75" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="775.75" y="809.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">80.1</text>
+<text x="242.00" y="830.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HEI.DE  Heidelberg Material</text>
+<rect x="250.00" y="820.00" width="518.50" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="773.50" y="830.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">79.8</text>
+<text x="242.00" y="851.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">KRN.DE  Krones</text>
+<rect x="250.00" y="841.00" width="517.42" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="772.42" y="851.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">79.6</text>
+<text x="242.00" y="872.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">MBB.DE  MBB</text>
+<rect x="250.00" y="862.00" width="515.53" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="770.53" y="872.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">79.3</text>
+<text x="242.00" y="893.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SY1.DE  Symrise</text>
+<rect x="250.00" y="883.00" width="514.22" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="769.22" y="893.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">79.1</text>
+<text x="242.00" y="914.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">NDX1.DE  Nordex</text>
+<rect x="250.00" y="904.00" width="510.71" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="765.71" y="914.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">78.6</text>
+<text x="242.00" y="935.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ADS.DE  Adidas</text>
+<rect x="250.00" y="925.00" width="509.92" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="764.92" y="935.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">78.4</text>
+<text x="242.00" y="956.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">MUV2.DE  Munich Re</text>
+<rect x="250.00" y="946.00" width="508.87" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="763.87" y="956.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">78.3</text>
+<text x="242.00" y="977.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">G24.DE  Scout24</text>
+<rect x="250.00" y="967.00" width="507.76" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="762.76" y="977.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">78.1</text>
+<text x="242.00" y="998.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">P911.DE  Porsche</text>
+<rect x="250.00" y="988.00" width="506.93" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="761.93" y="998.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">78.0</text>
+<text x="242.00" y="1019.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BC8.DE  Bechtle</text>
+<rect x="250.00" y="1009.00" width="505.40" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="760.40" y="1019.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">77.8</text>
+<text x="242.00" y="1040.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">KBX.DE  Knorr-Bremse</text>
+<rect x="250.00" y="1030.00" width="503.46" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="758.46" y="1040.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">77.5</text>
+<text x="242.00" y="1061.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">IOS.DE  Ionos Group</text>
+<rect x="250.00" y="1051.00" width="502.40" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="757.40" y="1061.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">77.3</text>
+<text x="242.00" y="1082.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">VBK.DE  Verbio</text>
+<rect x="250.00" y="1072.00" width="497.63" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="752.63" y="1082.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">76.6</text>
+<text x="242.00" y="1103.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">WCH.DE  Wacker Chemie</text>
+<rect x="250.00" y="1093.00" width="497.04" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="752.04" y="1103.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">76.5</text>
+<text x="242.00" y="1124.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">1SXP.DE  Schott Pharma</text>
+<rect x="250.00" y="1114.00" width="496.32" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="751.32" y="1124.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">76.4</text>
+<text x="242.00" y="1145.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">NEM.DE  Nemetschek</text>
+<rect x="250.00" y="1135.00" width="495.23" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="750.23" y="1145.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">76.2</text>
+<text x="242.00" y="1166.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">YSN.DE  Secunet Security Ne</text>
+<rect x="250.00" y="1156.00" width="490.15" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="745.15" y="1166.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">75.4</text>
+<text x="242.00" y="1187.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ACT0.DE  AlzChem Group</text>
+<rect x="250.00" y="1177.00" width="489.93" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="744.93" y="1187.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">75.4</text>
+<text x="242.00" y="1208.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">IXX.DE  INIT Innovation in </text>
+<rect x="250.00" y="1198.00" width="480.71" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="735.71" y="1208.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">74.0</text>
+<text x="242.00" y="1229.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HLE.DE  Hella</text>
+<rect x="250.00" y="1219.00" width="478.08" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="733.08" y="1229.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">73.6</text>
+<text x="242.00" y="1250.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BOSS.DE  Hugo Boss</text>
+<rect x="250.00" y="1240.00" width="475.09" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="730.09" y="1250.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">73.1</text>
+<text x="242.00" y="1271.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ADV.DE  Adtran Networks</text>
+<rect x="250.00" y="1261.00" width="469.75" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="724.75" y="1271.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">72.3</text>
+<text x="242.00" y="1292.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SIE.DE  Siemens</text>
+<rect x="250.00" y="1282.00" width="469.32" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="724.32" y="1292.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">72.2</text>
+<text x="242.00" y="1313.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TLX.DE  Talanx</text>
+<rect x="250.00" y="1303.00" width="468.59" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="723.59" y="1313.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">72.1</text>
+<text x="242.00" y="1334.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">AIR.PA  Airbus</text>
+<rect x="250.00" y="1324.00" width="465.36" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="720.36" y="1334.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">71.6</text>
+<text x="242.00" y="1355.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ALV.DE  Allianz</text>
+<rect x="250.00" y="1345.00" width="464.71" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="719.71" y="1355.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">71.5</text>
+<text x="242.00" y="1376.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">CON.DE  Continental</text>
+<rect x="250.00" y="1366.00" width="463.01" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="718.01" y="1376.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">71.2</text>
+<text x="242.00" y="1397.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">EVD.DE  CTS Eventim</text>
+<rect x="250.00" y="1387.00" width="460.83" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="715.83" y="1397.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">70.9</text>
+<text x="242.00" y="1418.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">RHM.DE  Rheinmetall</text>
+<rect x="250.00" y="1408.00" width="460.23" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="715.23" y="1418.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">70.8</text>
+<text x="242.00" y="1439.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">FIE.DE  Fielmann Group</text>
+<rect x="250.00" y="1429.00" width="459.75" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="714.75" y="1439.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">70.7</text>
+<text x="242.00" y="1460.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">PCZ.DE  ProCredit Holding</text>
+<rect x="250.00" y="1450.00" width="459.40" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="714.40" y="1460.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">70.7</text>
+<text x="242.00" y="1481.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">FRE.DE  Fresenius</text>
+<rect x="250.00" y="1471.00" width="451.63" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="706.63" y="1481.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">69.5</text>
+<text x="242.00" y="1502.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ENR.DE  Siemens Energy</text>
+<rect x="250.00" y="1492.00" width="450.48" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="705.48" y="1502.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">69.3</text>
+<text x="242.00" y="1523.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">CBK.DE  Commerzbank</text>
+<rect x="250.00" y="1513.00" width="450.17" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="705.17" y="1523.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">69.3</text>
+<text x="242.00" y="1544.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">MTX.DE  MTU Aero Engines</text>
+<rect x="250.00" y="1534.00" width="447.87" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="702.87" y="1544.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">68.9</text>
+<text x="242.00" y="1565.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HNR1.DE  Hannover Re</text>
+<rect x="250.00" y="1555.00" width="444.60" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="699.60" y="1565.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">68.4</text>
+<text x="242.00" y="1586.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">JST.DE  Jost Werke</text>
+<rect x="250.00" y="1576.00" width="443.79" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="698.79" y="1586.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">68.3</text>
+<text x="242.00" y="1607.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">GBF.DE  Bilfinger</text>
+<rect x="250.00" y="1597.00" width="443.60" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="698.60" y="1607.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">68.2</text>
+<text x="242.00" y="1628.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SHL.DE  Siemens Healthineer</text>
+<rect x="250.00" y="1618.00" width="441.03" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="696.03" y="1628.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">67.9</text>
+<text x="242.00" y="1649.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SFQ.DE  SAF-Holland</text>
+<rect x="250.00" y="1639.00" width="439.55" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="694.55" y="1649.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">67.6</text>
+<text x="242.00" y="1670.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BAS.DE  BASF</text>
+<rect x="250.00" y="1660.00" width="438.21" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="693.21" y="1670.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">67.4</text>
+<text x="242.00" y="1691.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BNR.DE  Brenntag</text>
+<rect x="250.00" y="1681.00" width="437.06" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="692.06" y="1691.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">67.2</text>
+<text x="242.00" y="1712.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DTE.DE  Deutsche Telekom</text>
+<rect x="250.00" y="1702.00" width="436.93" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="691.93" y="1712.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">67.2</text>
+<text x="242.00" y="1733.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">GFT.DE  GFT Technologies</text>
+<rect x="250.00" y="1723.00" width="429.51" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="684.51" y="1733.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">66.1</text>
+<text x="242.00" y="1754.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">S92.DE  SMA Solar Technolog</text>
+<rect x="250.00" y="1744.00" width="420.40" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="675.40" y="1754.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">64.7</text>
+<text x="242.00" y="1775.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TMV.DE  TeamViewer</text>
+<rect x="250.00" y="1765.00" width="418.10" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="673.10" y="1775.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">64.3</text>
+<text x="242.00" y="1796.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HBH.DE  Hornbach Holding</text>
+<rect x="250.00" y="1786.00" width="416.60" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="671.60" y="1796.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">64.1</text>
+<text x="242.00" y="1817.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TNIE.DE  Tonies</text>
+<rect x="250.00" y="1807.00" width="409.47" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="664.47" y="1817.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">63.0</text>
+<text x="242.00" y="1838.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">AFX.DE  Carl Zeiss Meditec</text>
+<rect x="250.00" y="1828.00" width="408.79" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="663.79" y="1838.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">62.9</text>
+<text x="242.00" y="1859.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DHL.DE  Deutsche Post</text>
+<rect x="250.00" y="1849.00" width="408.66" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="663.66" y="1859.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">62.9</text>
+<text x="242.00" y="1880.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">R3NK.DE  Renk Group</text>
+<rect x="250.00" y="1870.00" width="406.53" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="661.53" y="1880.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">62.5</text>
+<text x="242.00" y="1901.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DMP.DE  Dermapharm Holding</text>
+<rect x="250.00" y="1891.00" width="400.05" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="655.05" y="1901.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">61.5</text>
+<text x="242.00" y="1922.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">EVK.DE  Evonik Industries</text>
+<rect x="250.00" y="1912.00" width="399.48" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="654.48" y="1922.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">61.5</text>
+<text x="242.00" y="1943.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DBAN.DE  Deutsche Beteiligun</text>
+<rect x="250.00" y="1933.00" width="399.06" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="654.06" y="1943.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">61.4</text>
+<text x="242.00" y="1964.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SZU.DE  Südzucker</text>
+<rect x="250.00" y="1954.00" width="398.19" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="653.19" y="1964.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">61.3</text>
+<text x="242.00" y="1985.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">PAH3.DE  Porsche SE</text>
+<rect x="250.00" y="1975.00" width="395.64" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="650.64" y="1985.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">60.9</text>
+<text x="242.00" y="2006.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">LPK.DE  LPKF Laser &amp; Electr</text>
+<rect x="250.00" y="1996.00" width="394.44" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="649.44" y="2006.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">60.7</text>
+<text x="242.00" y="2027.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DEQ.DE  Deutsche EuroShop</text>
+<rect x="250.00" y="2017.00" width="391.03" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="646.03" y="2027.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">60.2</text>
+<text x="242.00" y="2048.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">GYC.DE  Grand City Properti</text>
+<rect x="250.00" y="2038.00" width="390.88" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="645.88" y="2048.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">60.1</text>
+<text x="242.00" y="2069.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BAYN.DE  Bayer</text>
+<rect x="250.00" y="2059.00" width="390.13" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="645.13" y="2069.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">60.0</text>
+<text x="242.00" y="2090.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DBK.DE  Deutsche Bank</text>
+<rect x="250.00" y="2080.00" width="386.91" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="641.91" y="2090.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">59.5</text>
+<text x="242.00" y="2111.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ILM1.DE  Medios</text>
+<rect x="250.00" y="2101.00" width="385.59" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="640.59" y="2111.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">59.3</text>
+<text x="242.00" y="2132.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">OHB.DE  OHB</text>
+<rect x="250.00" y="2122.00" width="377.75" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="632.75" y="2132.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">58.1</text>
+<text x="242.00" y="2153.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">MBG.DE  Mercedes-Benz Group</text>
+<rect x="250.00" y="2143.00" width="377.24" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="632.24" y="2153.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">58.0</text>
+<text x="242.00" y="2174.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">STM.DE  Stabilus</text>
+<rect x="250.00" y="2164.00" width="371.21" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="626.21" y="2174.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">57.1</text>
+<text x="242.00" y="2195.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SPG.DE  Springer Nature</text>
+<rect x="250.00" y="2185.00" width="369.64" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="624.64" y="2195.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">56.9</text>
+<text x="242.00" y="2216.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">KTN.DE  Kontron</text>
+<rect x="250.00" y="2206.00" width="369.44" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="624.44" y="2216.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">56.8</text>
+<text x="242.00" y="2237.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BFSA.DE  Befesa</text>
+<rect x="250.00" y="2227.00" width="367.13" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="622.13" y="2237.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">56.5</text>
+<text x="242.00" y="2258.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">RRTL.DE  RTL Group</text>
+<rect x="250.00" y="2248.00" width="365.37" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="620.37" y="2258.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">56.2</text>
+<text x="242.00" y="2279.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">1AST.DE  Asta Energy Solutio</text>
+<rect x="250.00" y="2269.00" width="365.09" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="620.09" y="2279.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">56.2</text>
+<text x="242.00" y="2300.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">V1NC.DE  Vincorion</text>
+<rect x="250.00" y="2290.00" width="361.65" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="616.65" y="2300.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">55.6</text>
+<text x="242.00" y="2321.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TEG.DE  TAG Immobilien</text>
+<rect x="250.00" y="2311.00" width="360.88" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="615.88" y="2321.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">55.5</text>
+<text x="242.00" y="2342.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">INH.DE  Indus Holding</text>
+<rect x="250.00" y="2332.00" width="359.66" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="614.66" y="2342.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">55.3</text>
+<text x="242.00" y="2363.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">OBCK.DE  Ottobock</text>
+<rect x="250.00" y="2353.00" width="356.87" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="611.87" y="2363.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">54.9</text>
+<text x="242.00" y="2384.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TKA.DE  Thyssenkrupp</text>
+<rect x="250.00" y="2374.00" width="355.61" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="610.61" y="2384.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">54.7</text>
+<text x="242.00" y="2405.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">UTDI.DE  United Internet</text>
+<rect x="250.00" y="2395.00" width="352.55" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="607.55" y="2405.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">54.2</text>
+<text x="242.00" y="2426.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">FME.DE  Fresenius Medical C</text>
+<rect x="250.00" y="2416.00" width="352.02" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="607.02" y="2426.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">54.2</text>
+<text x="242.00" y="2447.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">1U1.DE  1&amp;1</text>
+<rect x="250.00" y="2437.00" width="349.06" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="604.06" y="2447.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">53.7</text>
+<text x="242.00" y="2468.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">LEG.DE  LEG Immobilien</text>
+<rect x="250.00" y="2458.00" width="348.58" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="603.58" y="2468.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">53.6</text>
+<text x="242.00" y="2489.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">NOEJ.DE  Norma Group</text>
+<rect x="250.00" y="2479.00" width="345.98" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="600.98" y="2489.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">53.2</text>
+<text x="242.00" y="2510.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HAG.DE  Hensoldt</text>
+<rect x="250.00" y="2500.00" width="342.90" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="597.90" y="2510.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">52.8</text>
+<text x="242.00" y="2531.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">BMW.DE  BMW</text>
+<rect x="250.00" y="2521.00" width="342.52" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="597.52" y="2531.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">52.7</text>
+<text x="242.00" y="2552.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">JUN3.DE  Jungheinrich</text>
+<rect x="250.00" y="2542.00" width="340.67" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="595.67" y="2552.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">52.4</text>
+<text x="242.00" y="2573.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">AT1.DE  Aroundtown</text>
+<rect x="250.00" y="2563.00" width="336.12" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="591.12" y="2573.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">51.7</text>
+<text x="242.00" y="2594.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DUE.DE  Dürr</text>
+<rect x="250.00" y="2584.00" width="330.62" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="585.62" y="2594.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">50.9</text>
+<text x="242.00" y="2615.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">AMV0.DE  Aumovio</text>
+<rect x="250.00" y="2605.00" width="328.14" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="583.14" y="2615.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">50.5</text>
+<text x="242.00" y="2636.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">ZAL.DE  Zalando</text>
+<rect x="250.00" y="2626.00" width="325.92" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="580.92" y="2636.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">50.1</text>
+<text x="242.00" y="2657.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DEZ.DE  Deutz</text>
+<rect x="250.00" y="2647.00" width="325.83" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="580.83" y="2657.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">50.1</text>
+<text x="242.00" y="2678.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HABA.DE  Hamborner Reit</text>
+<rect x="250.00" y="2668.00" width="317.66" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="572.66" y="2678.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">48.9</text>
+<text x="242.00" y="2699.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SZG.DE  Salzgitter</text>
+<rect x="250.00" y="2689.00" width="315.58" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="570.58" y="2699.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">48.6</text>
+<text x="242.00" y="2720.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TKMS.DE  TKMS</text>
+<rect x="250.00" y="2710.00" width="307.71" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="562.71" y="2720.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">47.3</text>
+<text x="242.00" y="2741.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SRT3.DE  Sartorius</text>
+<rect x="250.00" y="2731.00" width="307.17" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="562.17" y="2741.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">47.3</text>
+<text x="242.00" y="2762.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">PAT.DE  Patrizia</text>
+<rect x="250.00" y="2752.00" width="306.28" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="561.28" y="2762.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">47.1</text>
+<text x="242.00" y="2783.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">EOAN.DE  E.ON</text>
+<rect x="250.00" y="2773.00" width="302.45" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="557.45" y="2783.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">46.5</text>
+<text x="242.00" y="2804.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">VNA.DE  Vonovia</text>
+<rect x="250.00" y="2794.00" width="299.20" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="554.20" y="2804.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">46.0</text>
+<text x="242.00" y="2825.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">WAF.DE  Siltronic</text>
+<rect x="250.00" y="2815.00" width="280.80" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="535.80" y="2825.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">43.2</text>
+<text x="242.00" y="2846.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">VOS.DE  Vossloh</text>
+<rect x="250.00" y="2836.00" width="275.72" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="530.72" y="2846.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">42.4</text>
+<text x="242.00" y="2867.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HDD.DE  Heidelberger Druckm</text>
+<rect x="250.00" y="2857.00" width="269.15" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="524.15" y="2867.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">41.4</text>
+<text x="242.00" y="2888.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SGL.DE  SGL Carbon</text>
+<rect x="250.00" y="2878.00" width="261.22" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="516.22" y="2888.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">40.2</text>
+<text x="242.00" y="2909.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HFG.DE  HelloFresh</text>
+<rect x="250.00" y="2899.00" width="246.57" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="501.57" y="2909.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">37.9</text>
+<text x="242.00" y="2930.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TPE.DE  PVA TePla</text>
+<rect x="250.00" y="2920.00" width="245.50" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="500.50" y="2930.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">37.8</text>
+<text x="242.00" y="2951.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">EKT.DE  Energiekontor</text>
+<rect x="250.00" y="2941.00" width="242.79" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="497.79" y="2951.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">37.4</text>
+<text x="242.00" y="2972.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">RDC.DE  Redcare Pharmacy</text>
+<rect x="250.00" y="2962.00" width="236.97" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="491.97" y="2972.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">36.5</text>
+<text x="242.00" y="2993.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">HYQ.DE  Hypoport</text>
+<rect x="250.00" y="2983.00" width="236.46" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="491.46" y="2993.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">36.4</text>
+<text x="242.00" y="3014.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">AG1.DE  Auto1 Group</text>
+<rect x="250.00" y="3004.00" width="235.98" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="490.98" y="3014.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">36.3</text>
+<text x="242.00" y="3035.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">EVT.DE  Evotec</text>
+<rect x="250.00" y="3025.00" width="235.67" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="490.67" y="3035.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">36.3</text>
+<text x="242.00" y="3056.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">RWE.DE  RWE</text>
+<rect x="250.00" y="3046.00" width="230.02" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="485.02" y="3056.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">35.4</text>
+<text x="242.00" y="3077.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SHA0.DE  Schaeffler</text>
+<rect x="250.00" y="3067.00" width="228.59" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="483.59" y="3077.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">35.2</text>
+<text x="242.00" y="3098.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">FRA.DE  Fraport</text>
+<rect x="250.00" y="3088.00" width="220.98" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="475.98" y="3098.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">34.0</text>
+<text x="242.00" y="3119.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">COK.DE  Cancom</text>
+<rect x="250.00" y="3109.00" width="218.70" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="473.70" y="3119.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">33.6</text>
+<text x="242.00" y="3140.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">PBB.DE  Deutsche Pfandbrief</text>
+<rect x="250.00" y="3130.00" width="215.42" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="470.42" y="3140.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">33.1</text>
+<text x="242.00" y="3161.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SIX2.DE  Sixt</text>
+<rect x="250.00" y="3151.00" width="213.80" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="468.80" y="3161.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">32.9</text>
+<text x="242.00" y="3182.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">VOW3.DE  Volkswagen Group</text>
+<rect x="250.00" y="3172.00" width="211.87" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="466.87" y="3182.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">32.6</text>
+<text x="242.00" y="3203.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">LXS.DE  Lanxess</text>
+<rect x="250.00" y="3193.00" width="196.63" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="451.63" y="3203.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">30.3</text>
+<text x="242.00" y="3224.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">8TRA.DE  Traton</text>
+<rect x="250.00" y="3214.00" width="190.49" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="445.49" y="3224.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">29.3</text>
+<text x="242.00" y="3245.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">LHA.DE  Deutsche Lufthansa</text>
+<rect x="250.00" y="3235.00" width="189.95" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="444.95" y="3245.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">29.2</text>
+<text x="242.00" y="3266.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">KGX.DE  Kion Group</text>
+<rect x="250.00" y="3256.00" width="189.91" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="444.91" y="3266.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">29.2</text>
+<text x="242.00" y="3287.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">PUM.DE  Puma</text>
+<rect x="250.00" y="3277.00" width="158.48" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="413.48" y="3287.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">24.4</text>
+<text x="242.00" y="3308.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">PNE3.DE  PNE</text>
+<rect x="250.00" y="3298.00" width="153.21" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="408.21" y="3308.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">23.6</text>
+<text x="242.00" y="3329.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">SAX.DE  Ströer</text>
+<rect x="250.00" y="3319.00" width="152.98" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="407.98" y="3329.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">23.5</text>
+<text x="242.00" y="3350.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">TUI1.DE  TUI</text>
+<rect x="250.00" y="3340.00" width="137.07" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="392.07" y="3350.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">21.1</text>
+<text x="242.00" y="3371.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DOU.DE  Douglas Group</text>
+<rect x="250.00" y="3361.00" width="131.23" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="386.23" y="3371.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">20.2</text>
+<text x="242.00" y="3392.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">DHER.DE  Delivery Hero</text>
+<rect x="250.00" y="3382.00" width="117.25" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="372.25" y="3392.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">18.0</text>
+<text x="242.00" y="3413.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="end">MUX.DE  Mutares</text>
+<rect x="250.00" y="3403.00" width="5.12" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="1.0"/>
+<text x="260.12" y="3413.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">0.8</text>
+<line x1="250.00" y1="3421.00" x2="900.00" y2="3421.00" stroke="#999999" stroke-width="1" opacity="1.0"/>
+<line x1="250.00" y1="3435.00" x2="268.00" y2="3435.00" stroke="#2ca02c" stroke-width="2.5" opacity="1.0"/>
+<text x="274.00" y="3439.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Low</text>
+<line x1="460.00" y1="3435.00" x2="478.00" y2="3435.00" stroke="#1f77b4" stroke-width="2.5" opacity="1.0"/>
+<text x="484.00" y="3439.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Moderate</text>
+<line x1="670.00" y1="3435.00" x2="688.00" y2="3435.00" stroke="#ff7f0e" stroke-width="2.5" opacity="1.0"/>
+<text x="694.00" y="3439.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Elevated</text>
+<line x1="880.00" y1="3435.00" x2="898.00" y2="3435.00" stroke="#d62728" stroke-width="2.5" opacity="1.0"/>
+<text x="904.00" y="3439.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">High</text>
+</svg>

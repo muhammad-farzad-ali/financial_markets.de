@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-11-09",
+  "calendar": "DAX trading dates",
+  "window_start": "2025-11-11",
+  "window_end": "2026-11-09",
+  "window_days": 252,
+  "series_count": 47,
+  "equity_count": 40,
+  "group_count": 63,
+  "metric_rows": 110,
+  "correlation_rows": 2278,
+  "forward_rows": 1275,
+  "risk_free_rate": 0.02
+}

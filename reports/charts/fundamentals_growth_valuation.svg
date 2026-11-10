@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760">
+<rect width="1120" height="760" fill="#ffffff"/>
+<text x="560.00" y="26.00" font-size="18" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="bold" text-anchor="middle">DAX · MDAX · SDAX: growth vs valuation</text>
+<text x="560.00" y="46.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">Bubble size = market cap; colour = investment score.</text>
+<rect x="85.00" y="75.00" width="930.00" height="590.00" fill="#fbfbfb" stroke="#dddddd" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="665.00" x2="1015.00" y2="665.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="547.00" x2="1015.00" y2="547.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="429.00" x2="1015.00" y2="429.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="311.00" x2="1015.00" y2="311.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="193.00" x2="1015.00" y2="193.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="75.00" x2="1015.00" y2="75.00" stroke="#e8e8e8" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="75.00" x2="85.00" y2="665.00" stroke="#f0f0f0" stroke-width="1" opacity="1.0"/>
+<line x1="271.00" y1="75.00" x2="271.00" y2="665.00" stroke="#f0f0f0" stroke-width="1" opacity="1.0"/>
+<line x1="457.00" y1="75.00" x2="457.00" y2="665.00" stroke="#f0f0f0" stroke-width="1" opacity="1.0"/>
+<line x1="643.00" y1="75.00" x2="643.00" y2="665.00" stroke="#f0f0f0" stroke-width="1" opacity="1.0"/>
+<line x1="829.00" y1="75.00" x2="829.00" y2="665.00" stroke="#f0f0f0" stroke-width="1" opacity="1.0"/>
+<line x1="1015.00" y1="75.00" x2="1015.00" y2="665.00" stroke="#f0f0f0" stroke-width="1" opacity="1.0"/>
+<text x="77.00" y="669.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="end">0</text>
+<text x="77.00" y="551.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="end">20</text>
+<text x="77.00" y="433.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="end">40</text>
+<text x="77.00" y="315.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="end">60</text>
+<text x="77.00" y="197.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="end">80</text>
+<text x="77.00" y="79.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="end">100</text>
+<text x="85.00" y="683.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">0</text>
+<text x="271.00" y="683.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">20</text>
+<text x="457.00" y="683.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">40</text>
+<text x="643.00" y="683.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">60</text>
+<text x="829.00" y="683.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">80</text>
+<text x="1015.00" y="683.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">100</text>
+<line x1="85.00" y1="665.00" x2="1015.00" y2="665.00" stroke="#999999" stroke-width="1" opacity="1.0"/>
+<line x1="85.00" y1="75.00" x2="85.00" y2="665.00" stroke="#999999" stroke-width="1" opacity="1.0"/>
+<text x="550.00" y="705.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#444444" font-weight="normal" text-anchor="middle">Growth Score</text>
+<text x="30.00" y="370.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#444444" font-weight="normal" text-anchor="middle" transform="rotate(-90 30.00 370.00)">Valuation Score</text>
+<circle cx="641.69" cy="291.33" r="5.03" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="325.61" cy="496.60" r="5.19" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="661.05" cy="381.80" r="6.39" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="902.24" cy="517.50" r="4.69" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="719.82" cy="75.00" r="7.19" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="363.61" cy="535.20" r="4.60" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="477.99" cy="75.00" r="4.99" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="768.56" cy="504.38" r="5.12" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="729.05" cy="452.60" r="11.34" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="743.39" y="455.60" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">AIR.PA</text>
+<circle cx="757.50" cy="358.20" r="5.09" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="771.04" cy="665.00" r="11.53" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="785.57" y="668.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">ALV.DE</text>
+<circle cx="422.42" cy="369.17" r="5.02" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="988.13" cy="75.00" r="4.68" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="995.81" y="78.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">AOF.DE</text>
+<circle cx="332.39" cy="227.17" r="4.80" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="406.89" cy="334.60" r="7.92" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="603.94" cy="330.03" r="8.29" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="587.66" cy="358.20" r="5.18" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="693.32" cy="75.00" r="6.47" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="702.79" y="78.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">BEI.DE</text>
+<circle cx="665.31" cy="346.40" r="4.71" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="434.15" cy="574.53" r="7.40" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="623.27" cy="476.20" r="5.71" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="670.32" cy="110.40" r="4.94" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="845.82" cy="162.89" r="4.50" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="853.33" y="165.89" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">BSL.DE</text>
+<circle cx="743.57" cy="526.35" r="7.77" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="478.93" cy="269.70" r="4.44" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="509.95" cy="411.30" r="6.19" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="692.73" cy="499.80" r="4.51" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="869.74" cy="617.80" r="8.34" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="423.00" cy="222.50" r="4.34" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="738.98" cy="429.00" r="8.47" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="598.03" cy="252.00" r="4.64" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="593.88" cy="499.80" r="4.71" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="859.60" cy="530.14" r="5.93" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="559.91" cy="511.60" r="8.64" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="571.55" y="514.60" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">DHL.DE</text>
+<circle cx="657.82" cy="157.60" r="4.79" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="624.82" cy="181.36" r="4.53" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="597.26" cy="499.80" r="4.74" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="777.59" cy="263.80" r="10.45" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="791.04" y="266.80" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">DTE.DE</text>
+<circle cx="566.00" cy="413.09" r="7.24" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="477.94" cy="75.00" r="4.61" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="592.50" cy="665.00" r="6.11" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="763.16" cy="173.33" r="4.49" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="394.75" cy="516.51" r="4.34" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="925.78" cy="421.13" r="4.83" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="869.26" cy="343.45" r="9.93" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="882.19" y="346.45" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">ENR.DE</text>
+<circle cx="444.46" cy="275.60" r="8.07" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="851.62" cy="200.87" r="4.54" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="859.15" y="203.87" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">EUZ.DE</text>
+<circle cx="845.70" cy="263.80" r="5.41" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="397.62" cy="488.00" r="5.80" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="275.36" cy="621.88" r="4.43" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="282.79" y="624.88" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">EVT.DE</text>
+<circle cx="755.94" cy="393.60" r="4.32" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="728.60" cy="204.80" r="5.10" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="533.02" cy="193.00" r="5.88" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="653.59" cy="122.20" r="4.95" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="749.90" cy="252.00" r="5.32" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="808.15" cy="261.47" r="5.47" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="401.96" cy="423.10" r="7.13" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="946.73" cy="228.40" r="4.90" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="954.63" y="231.40" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">FTK.DE</text>
+<circle cx="730.11" cy="499.80" r="5.96" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="902.68" cy="204.80" r="5.41" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="800.50" cy="311.00" r="4.88" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="661.52" cy="417.20" r="4.48" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="404.49" cy="75.00" r="4.39" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="438.90" cy="167.02" r="4.68" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="249.22" cy="198.90" r="4.33" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="739.61" cy="547.00" r="5.78" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="559.76" cy="346.40" r="4.70" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="391.54" cy="384.68" r="4.33" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="632.95" cy="547.00" r="7.24" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="649.30" cy="393.60" r="7.25" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="275.34" cy="252.00" r="4.38" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="525.93" cy="358.20" r="5.56" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="799.79" cy="381.80" r="7.40" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="523.62" cy="127.50" r="4.43" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="611.56" cy="606.00" r="8.57" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="623.13" y="609.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">IFX.DE</text>
+<circle cx="588.13" cy="337.55" r="4.30" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="759.89" cy="358.20" r="4.54" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="771.34" cy="665.00" r="5.25" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="805.91" cy="157.60" r="4.35" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="644.51" cy="370.00" r="4.84" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="683.32" cy="282.98" r="4.58" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="522.66" cy="375.90" r="4.89" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="731.11" cy="381.80" r="6.26" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="454.93" cy="322.80" r="5.24" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="771.65" cy="287.40" r="5.07" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="660.11" cy="570.60" r="4.69" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="651.59" cy="375.90" r="4.62" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="693.04" cy="311.00" r="4.86" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="579.75" cy="134.00" r="5.13" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="744.83" cy="418.68" r="5.86" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="359.26" cy="417.76" r="4.27" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="326.22" cy="305.10" r="4.61" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="801.03" cy="381.80" r="4.58" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="385.96" cy="523.40" r="7.57" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="635.48" cy="665.00" r="4.64" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="535.06" cy="417.20" r="8.64" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="546.70" y="420.20" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">MRK.DE</text>
+<circle cx="818.18" cy="213.65" r="6.52" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="838.71" cy="299.20" r="8.82" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="850.53" y="302.20" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">MUV2.DE</text>
+<circle cx="438.11" cy="252.00" r="4.48" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="760.09" cy="311.00" r="5.43" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="898.28" cy="319.01" r="5.84" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="843.34" cy="75.00" r="5.58" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="851.93" y="78.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">NEM.DE</text>
+<circle cx="347.04" cy="252.00" r="4.25" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="733.36" cy="279.82" r="5.00" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="655.44" cy="594.20" r="5.18" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="360.67" cy="429.00" r="7.74" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="202.56" cy="311.00" r="5.63" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="401.39" cy="75.00" r="4.44" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="110.62" cy="311.00" r="4.37" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="117.99" y="314.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">PBB.DE</text>
+<circle cx="544.21" cy="476.20" r="4.42" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="765.86" cy="414.25" r="4.36" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="341.42" cy="327.23" r="5.15" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="618.93" cy="384.75" r="5.86" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="836.50" cy="560.73" r="5.09" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="868.71" cy="75.00" r="5.54" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="877.25" y="58.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">RAA.DE</text>
+<circle cx="776.89" cy="597.57" r="4.70" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="836.70" cy="570.60" r="7.62" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="351.24" cy="405.40" r="5.28" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="582.57" cy="384.75" r="7.72" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="498.83" cy="175.26" r="4.75" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="827.81" cy="311.00" r="13.00" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="843.81" y="314.00" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">SAP.DE</text>
+<circle cx="642.33" cy="193.00" r="4.85" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="773.04" cy="304.12" r="4.89" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="758.07" cy="535.20" r="4.58" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="341.72" cy="287.40" r="4.44" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="428.81" cy="552.90" r="5.32" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="437.13" y="555.90" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">SHA0.DE</text>
+<circle cx="637.30" cy="134.00" r="7.74" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="625.17" cy="594.20" r="12.31" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="640.48" y="597.20" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">SIE.DE</text>
+<circle cx="651.82" cy="287.40" r="5.04" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="971.33" cy="499.80" r="4.62" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="698.91" cy="617.80" r="4.54" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="635.44" cy="133.29" r="5.20" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="435.83" cy="222.50" r="6.45" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="516.26" cy="75.00" r="4.35" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="448.10" cy="322.80" r="4.47" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="617.88" cy="446.70" r="6.07" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="329.26" cy="460.28" r="4.97" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="555.30" cy="301.17" r="4.87" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="338.78" cy="405.40" r="4.87" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="352.20" cy="544.94" r="5.60" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="833.06" cy="617.80" r="7.33" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="809.02" cy="75.00" r="4.50" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="778.96" cy="554.06" r="4.73" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="558.21" cy="438.46" r="4.44" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="860.52" cy="405.40" r="5.14" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="502.19" cy="225.45" r="5.19" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="300.60" cy="415.60" r="4.79" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="885.19" cy="128.10" r="4.69" fill="#2ca02c" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="892.88" y="131.10" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">VH2.DE</text>
+<circle cx="366.60" cy="84.43" r="6.20" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="591.02" cy="594.20" r="4.57" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="404.16" cy="511.60" r="7.41" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="538.65" cy="377.87" r="4.72" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="266.05" cy="477.68" r="4.72" fill="#d62728" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<text x="273.78" y="480.68" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">WAF.DE</text>
+<circle cx="374.21" cy="354.76" r="5.15" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="658.51" cy="490.95" r="4.70" fill="#1f77b4" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<circle cx="578.45" cy="346.40" r="5.48" fill="#ff7f0e" stroke="#ffffff" stroke-width="1.0" opacity="0.82"/>
+<line x1="85.00" y1="706.00" x2="103.00" y2="706.00" stroke="#2ca02c" stroke-width="2.5" opacity="1.0"/>
+<text x="109.00" y="710.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Investment ≥70</text>
+<line x1="295.00" y1="706.00" x2="313.00" y2="706.00" stroke="#1f77b4" stroke-width="2.5" opacity="1.0"/>
+<text x="319.00" y="710.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">55–70</text>
+<line x1="505.00" y1="706.00" x2="523.00" y2="706.00" stroke="#ff7f0e" stroke-width="2.5" opacity="1.0"/>
+<text x="529.00" y="710.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">40–55</text>
+<line x1="715.00" y1="706.00" x2="733.00" y2="706.00" stroke="#d62728" stroke-width="2.5" opacity="1.0"/>
+<text x="739.00" y="710.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">&lt;40</text>
+</svg>

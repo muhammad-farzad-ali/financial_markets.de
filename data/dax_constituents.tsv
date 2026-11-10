@@ -1,0 +1,41 @@
+ticker	company	industry	sector	nace_code	nace_label	nace_section	nace_section_label	nace_division	nace_division_label	weight_pct	series_id	source
+ADS.DE	Adidas	Apparel	Consumer Discretionary	14.14	Manufacture of wearing apparel	C	Manufacturing	14	Manufacture of wearing apparel	2.5000	ADS.DE	Wikipedia
+AIR.PA	Airbus	Aerospace & Defence	Industrials	30.30	Manufacture of air and spacecraft and related machinery	C	Manufacturing	30	Manufacture of other transport equipment	6.1000	AIR.PA	Wikipedia
+ALV.DE	Allianz	Financial Services	Financials	65.12	Other non-life insurance	K	Financial and insurance activities	65	Insurance, reinsurance and pension funding, except compulsory social security	8.4000	ALV.DE	Wikipedia
+BAS.DE	BASF	Chemicals	Materials	20.14	Manufacture of other organic basic chemicals	C	Manufacturing	20	Manufacture of chemicals and chemical products	2.8000	BAS.DE	Wikipedia
+BAYN.DE	Bayer	Pharmaceuticals	Health Care	21.20	Manufacture of pharmaceutical preparations	C	Manufacturing	21	Manufacture of basic pharmaceutical products and pharmaceutical preparations	1.5000	BAYN.DE	Wikipedia
+BEI.DE	Beiersdorf	Consumer goods	Consumer Staples	20.42	Manufacture of perfumes and toilet preparations	C	Manufacturing	20	Manufacture of chemicals and chemical products	0.7000	BEI.DE	Wikipedia
+BMW.DE	BMW	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	C	Manufacturing	29	Manufacture of motor vehicles, trailers and semi-trailers	1.5000	BMW.DE	Wikipedia
+BNR.DE	Brenntag	Distribution	Industrials	46.75	Wholesale of chemical products	G	Wholesale and retail trade; repair of motor vehicles and motorcycles	46	Wholesale trade, except of motor vehicles and motorcycles	0.5000	BNR.DE	Wikipedia
+CBK.DE	Commerzbank	Financial Services	Financials	64.19	Other monetary intermediation	K	Financial and insurance activities	64	Financial service activities, except insurance and pension funding	1.5000	CBK.DE	Wikipedia
+CON.DE	Continental	Automotive	Consumer Discretionary	29.31	Manufacture of electrical and electronic equipment for motor vehicles	C	Manufacturing	29	Manufacture of motor vehicles, trailers and semi-trailers	0.5000	CON.DE	Wikipedia
+DTG.DE	Daimler Truck	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	C	Manufacturing	29	Manufacture of motor vehicles, trailers and semi-trailers	1.3000	DTG.DE	Wikipedia
+DBK.DE	Deutsche Bank	Financial Services	Financials	64.19	Other monetary intermediation	K	Financial and insurance activities	64	Financial service activities, except insurance and pension funding	2.8000	DBK.DE	Wikipedia
+DB1.DE	Deutsche Börse	Financial Services	Financials	66.11	Administration of financial markets	K	Financial and insurance activities	66	Activities auxiliary to financial services and insurance activities	3.1000	DB1.DE	Wikipedia
+DHL.DE	Deutsche Post	Logistics	Industrials	53.20	Other postal and courier activities	H	Transportation and storage	53	Postal and courier activities	2.5000	DHL.DE	Wikipedia
+DTE.DE	Deutsche Telekom	Telecommunication	Communication Services	61.10	Wired telecommunications activities	J	Information and communication	61	Telecommunications	7.5000	DTE.DE	Wikipedia
+EOAN.DE	E.ON	Utilities	Utilities	35.14	Trade of electricity	D	Electricity, gas, steam and air conditioning supply	35	Electricity, gas, steam and air conditioning supply	1.8000	EOAN.DE	Wikipedia
+FRE.DE	Fresenius	Healthcare	Health Care	86.10	Hospital activities	Q	Human health and social work activities	86	Human health activities	1.0000	FRE.DE	Wikipedia
+FME.DE	Fresenius Medical Care	Healthcare	Health Care	86.90	Other human health activities	Q	Human health and social work activities	86	Human health activities	0.6000	FME.DE	Wikipedia
+G1A.DE	GEA Group	Mechanical Engineering	Industrials	28.29	Manufacture of other general-purpose machinery n.e.c.	C	Manufacturing	28	Manufacture of machinery and equipment n.e.c.		G1A.DE	Wikipedia
+HNR1.DE	Hannover Re	Insurance	Financials	65.12	Other non-life insurance	K	Financial and insurance activities	65	Insurance, reinsurance and pension funding, except compulsory social security	1.0000	HNR1.DE	Wikipedia
+HEI.DE	Heidelberg Materials	Construction Materials	Materials	23.51	Manufacture of cement	C	Manufacturing	23	Manufacture of other non-metallic mineral products	1.5000	HEI.DE	Wikipedia
+HEN3.DE	Henkel	Consumer Goods	Consumer Staples	20.52	Manufacture of glues	C	Manufacturing	20	Manufacture of chemicals and chemical products	0.8000	HEN3.DE	Wikipedia
+IFX.DE	Infineon Technologies	Technology	Information Technology	26.11	Manufacture of electronic components	C	Manufacturing	26	Manufacture of computer, electronic and optical products	2.7000	IFX.DE	Wikipedia
+MBG.DE	Mercedes-Benz Group	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	C	Manufacturing	29	Manufacture of motor vehicles, trailers and semi-trailers	2.5000	MBG.DE	Wikipedia
+MRK.DE	Merck	Pharmaceuticals	Health Care	21.20	Manufacture of pharmaceutical preparations	C	Manufacturing	21	Manufacture of basic pharmaceutical products and pharmaceutical preparations	1.1000	MRK.DE	Wikipedia
+MTX.DE	MTU Aero Engines	Aerospace & Defence	Industrials	30.30	Manufacture of air and spacecraft and related machinery	C	Manufacturing	30	Manufacture of other transport equipment	1.1000	MTX.DE	Wikipedia
+MUV2.DE	Munich Re	Financial Services	Financials	65.12	Other non-life insurance	K	Financial and insurance activities	65	Insurance, reinsurance and pension funding, except compulsory social security	4.8000	MUV2.DE	Wikipedia
+PAH3.DE	Porsche SE	Automotive	Consumer Discretionary	64.20	Activities of holding companies	K	Financial and insurance activities	64	Financial service activities, except insurance and pension funding	0.4000	PAH3.DE	Wikipedia
+QIA.DE	Qiagen	Biotech	Health Care	32.50	Manufacture of medical and dental instruments and supplies	C	Manufacturing	32	Other manufacturing	0.5000	QIA.DE	Wikipedia
+RHM.DE	Rheinmetall	Aerospace & Defence	Industrials	25.40	Manufacture of weapons and ammunition	C	Manufacturing	25	Manufacture of fabricated metal products, except machinery and equipment	3.5000	RHM.DE	Wikipedia
+RWE.DE	RWE	Utilities	Utilities	35.11	Production of electricity	D	Electricity, gas, steam and air conditioning supply	35	Electricity, gas, steam and air conditioning supply	1.3000	RWE.DE	Wikipedia
+SAP.DE	SAP	Technology	Information Technology	58.29	Other software publishing	J	Information and communication	58	Publishing activities	14.0000	SAP.DE	Wikipedia
+G24.DE	Scout24	E-Commerce	Consumer Discretionary	63.12	Web portals	J	Information and communication	63	Information service activities		G24.DE	Wikipedia
+SIE.DE	Siemens	Industrials	Industrials	28.29	Manufacture of other general-purpose machinery n.e.c.	C	Manufacturing	28	Manufacture of machinery and equipment n.e.c.	10.7000	SIE.DE	Wikipedia
+ENR.DE	Siemens Energy	Energy technology	Industrials	28.11	Manufacture of engines and turbines, except aircraft, vehicle and cycle engines	C	Manufacturing	28	Manufacture of machinery and equipment n.e.c.	2.5000	ENR.DE	Wikipedia
+SHL.DE	Siemens Healthineers	Medical Equipment	Health Care	26.60	Manufacture of irradiation, electromedical and electrotherapeutic equipment	C	Manufacturing	26	Manufacture of computer, electronic and optical products	0.9000	SHL.DE	Wikipedia
+SY1.DE	Symrise	Chemicals	Materials	20.53	Manufacture of essential oils	C	Manufacturing	20	Manufacture of chemicals and chemical products	0.7000	SY1.DE	Wikipedia
+VOW3.DE	Volkswagen Group	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	C	Manufacturing	29	Manufacture of motor vehicles, trailers and semi-trailers	1.3000	VOW3.DE	Wikipedia
+VNA.DE	Vonovia	Real Estate	Real Estate	68.20	Renting and operating of own or leased real estate	L	Real estate activities	68	Real estate activities	1.1000	VNA.DE	Wikipedia
+ZAL.DE	Zalando	E-Commerce	Consumer Discretionary	47.91	Retail sale via mail order houses or via Internet	G	Wholesale and retail trade; repair of motor vehicles and motorcycles	47	Retail trade, except of motor vehicles and motorcycles	0.5000	ZAL.DE	Wikipedia

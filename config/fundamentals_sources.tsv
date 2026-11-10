@@ -1,0 +1,160 @@
+ticker	company	industry	sector	nace_code	nace_label	source_exchange	source_symbol	source_route	model_type	notes	index_name
+ADS.DE	Adidas	Apparel	Consumer Discretionary	14.14	Manufacture of wearing apparel	etr	ADS	quote	non_financial		DAX 40
+AIR.PA	Airbus	Aerospace & Defence	Industrials	30.30	Manufacture of air and spacecraft and related machinery	epa	AIR	quote	non_financial	Primary listing Euronext Paris	DAX 40
+ALV.DE	Allianz	Financial Services	Financials	65.12	Other non-life insurance	etr	ALV	quote	insurer	Insurer; sector scorecard used	DAX 40
+BAS.DE	BASF	Chemicals	Materials	20.14	Manufacture of other organic basic chemicals	etr	BAS	quote	non_financial		DAX 40
+BAYN.DE	Bayer	Pharmaceuticals	Health Care	21.20	Manufacture of pharmaceutical preparations	etr	BAYN	quote	non_financial		DAX 40
+BEI.DE	Beiersdorf	Consumer goods	Consumer Staples	20.42	Manufacture of perfumes and toilet preparations	etr	BEI	quote	non_financial		DAX 40
+BMW.DE	BMW	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	etr	BMW	quote	auto	Captive financial services distort leverage	DAX 40
+BNR.DE	Brenntag	Distribution	Industrials	46.75	Wholesale of chemical products	etr	BNR	quote	non_financial		DAX 40
+CBK.DE	Commerzbank	Financial Services	Financials	64.19	Other monetary intermediation	etr	CBK	quote	bank	Commercial bank; Altman/Ohlson not applicable	DAX 40
+CON.DE	Continental	Automotive	Consumer Discretionary	29.31	Manufacture of electrical and electronic equipment for motor vehicles	etr	CON	quote	non_financial		DAX 40
+DTG.DE	Daimler Truck	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	etr	DTG	quote	auto	Captive financial services distort leverage	DAX 40
+DBK.DE	Deutsche Bank	Financial Services	Financials	64.19	Other monetary intermediation	etr	DBK	quote	bank	Commercial/investment bank; Altman/Ohlson not applicable	DAX 40
+DB1.DE	Deutsche Börse	Financial Services	Financials	66.11	Administration of financial markets	etr	DB1	quote	financial_infrastructure	Exchange/clearing balance sheet; Altman/Ohlson not comparable	DAX 40
+DHL.DE	Deutsche Post	Logistics	Industrials	53.20	Other postal and courier activities	etr	DHL	quote	non_financial		DAX 40
+DTE.DE	Deutsche Telekom	Telecommunication	Communication Services	61.10	Wired telecommunications activities	etr	DTE	quote	telecom	Capital-intensive telecom; sector scorecard used	DAX 40
+EOAN.DE	E.ON	Utilities	Utilities	35.14	Trade of electricity	etr	EOAN	quote	utility	Regulated utility; Altman distortion avoided	DAX 40
+FRE.DE	Fresenius	Healthcare	Health Care	86.10	Hospital activities	etr	FRE	quote	non_financial		DAX 40
+FME.DE	Fresenius Medical Care	Healthcare	Health Care	86.90	Other human health activities	etr	FME	quote	non_financial		DAX 40
+G1A.DE	GEA Group	Mechanical Engineering	Industrials	28.29	Manufacture of other general-purpose machinery n.e.c.	etr	G1A	quote	non_financial		DAX 40
+HNR1.DE	Hannover Re	Insurance	Financials	65.12	Other non-life insurance	etr	HNR1	quote	insurer	Reinsurer; sector scorecard used	DAX 40
+HEI.DE	Heidelberg Materials	Construction Materials	Materials	23.51	Manufacture of cement	etr	HEI	quote	non_financial		DAX 40
+HEN3.DE	Henkel	Consumer Goods	Consumer Staples	20.52	Manufacture of glues	etr	HEN3	quote	non_financial		DAX 40
+IFX.DE	Infineon Technologies	Technology	Information Technology	26.11	Manufacture of electronic components	etr	IFX	quote	non_financial		DAX 40
+MBG.DE	Mercedes-Benz Group	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	etr	MBG	quote	auto	Captive financial services distort leverage	DAX 40
+MRK.DE	Merck	Pharmaceuticals	Health Care	21.20	Manufacture of pharmaceutical preparations	etr	MRK	quote	non_financial		DAX 40
+MTX.DE	MTU Aero Engines	Aerospace & Defence	Industrials	30.30	Manufacture of air and spacecraft and related machinery	etr	MTX	quote	non_financial		DAX 40
+MUV2.DE	Munich Re	Financial Services	Financials	65.12	Other non-life insurance	etr	MUV2	quote	insurer	Reinsurer; sector scorecard used	DAX 40
+PAH3.DE	Porsche SE	Automotive	Consumer Discretionary	64.20	Activities of holding companies	etr	PAH3	quote	holding	Investment holding; holding-company scorecard	DAX 40
+QIA.DE	Qiagen	Biotech	Health Care	32.50	Manufacture of medical and dental instruments and supplies	nasdaq	QGEN	stocks	non_financial	Primary listing NYSE; financials reported in USD	DAX 40
+RHM.DE	Rheinmetall	Aerospace & Defence	Industrials	25.40	Manufacture of weapons and ammunition	etr	RHM	quote	non_financial		DAX 40
+RWE.DE	RWE	Utilities	Utilities	35.11	Production of electricity	etr	RWE	quote	utility	Capital-intensive utility; Altman distortion avoided	DAX 40
+SAP.DE	SAP	Technology	Information Technology	58.29	Other software publishing	etr	SAP	quote	non_financial		DAX 40
+G24.DE	Scout24	E-Commerce	Consumer Discretionary	63.12	Web portals	etr	G24	quote	asset_light	Negative working capital; asset-light scorecard used	DAX 40
+SIE.DE	Siemens	Industrials	Industrials	28.29	Manufacture of other general-purpose machinery n.e.c.	etr	SIE	quote	non_financial		DAX 40
+ENR.DE	Siemens Energy	Energy technology	Industrials	28.11	Manufacture of engines and turbines, except aircraft, vehicle and cycle engines	etr	ENR	quote	non_financial		DAX 40
+SHL.DE	Siemens Healthineers	Medical Equipment	Health Care	26.60	Manufacture of irradiation, electromedical and electrotherapeutic equipment	etr	SHL	quote	non_financial		DAX 40
+SY1.DE	Symrise	Chemicals	Materials	20.53	Manufacture of essential oils	etr	SY1	quote	non_financial		DAX 40
+VOW3.DE	Volkswagen Group	Automotive	Consumer Discretionary	29.10	Manufacture of motor vehicles	etr	VOW3	quote	auto	Captive financial services distort leverage	DAX 40
+VNA.DE	Vonovia	Real Estate	Real Estate	68.20	Renting and operating of own or leased real estate	etr	VNA	quote	real_estate	Residential real estate; NAV/FFO focus	DAX 40
+ZAL.DE	Zalando	E-Commerce	Consumer Discretionary	47.91	Retail sale via mail order houses or via Internet	etr	ZAL	quote	non_financial		DAX 40
+AIXA.DE	Aixtron	Maschinenbau, Halbleitertechnik	Information Technology	26	Manufacture of computer, electronic and optical products	etr	AIXA	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+AT1.DE	Aroundtown	Immobilien	Real Estate	68	Real estate activities	etr	AT1	quote	real_estate	MDAX addition; industry label from German Wikipedia; real_estate scorecard	MDAX
+AMV0.DE	Aumovio	Automobilzulieferer	Consumer Discretionary	29	Manufacture of motor vehicles, trailers and semi-trailers	etr	AMV0	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+NDA.DE	Aurubis	Rohstoffe	Materials	24	Manufacture of basic metals	etr	NDA	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+AG1.DE	Auto1 Group	Elektronischer Handel	Consumer Discretionary	47.91	Retail sale via mail order houses or via Internet	etr	AG1	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+BC8.DE	Bechtle	IT-Dienstleistung	Information Technology	62	Computer programming, consultancy and related activities	etr	BC8	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+GBF.DE	Bilfinger	Industriedienstleistungen	Industrials	33	Repair and installation of machinery and equipment	etr	GBF	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+EVD.DE	CTS Eventim	Ticketvertrieb	Communication Services	79	Travel agency, tour operator and other reservation service and related activities	etr	EVD	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+DHER.DE	Delivery Hero	Onlinedienste, Lieferdienst	Consumer Discretionary	47.91	Retail sale via mail order houses or via Internet	etr	DHER	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+LHA.DE	Deutsche Lufthansa	Fluggesellschaft	Industrials	51	Air transport	etr	LHA	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+DEZ.DE	Deutz	Motorenhersteller	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	DEZ	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+DWS.DE	DWS Group	Banken und Versicherungen	Financials	64	Financial service activities, except insurance and pension funding	etr	DWS	quote	bank	MDAX addition; industry label from German Wikipedia; bank scorecard	MDAX
+ELG.DE	Elmos Semiconductor	Halbleiterhersteller	Information Technology	26	Manufacture of computer, electronic and optical products	etr	ELG	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+EVK.DE	Evonik Industries	Spezial-Chemieprodukte	Materials	20	Manufacture of chemicals and chemical products	etr	EVK	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+FTK.DE	Flatexdegiro	Finanztechnologie	Financials	64	Financial service activities, except insurance and pension funding	etr	FTK	quote	bank	MDAX addition; industry label from German Wikipedia; bank scorecard	MDAX
+FRA.DE	Fraport	Flughafenbetreiber	Industrials	52	Warehousing and support activities for transportation	etr	FRA	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+FNTN.DE	Freenet	Telekommunikation	Communication Services	61	Telecommunications	etr	FNTN	quote	telecom	MDAX addition; industry label from German Wikipedia; telecom scorecard	MDAX
+FPE3.DE	Fuchs	Chemie	Materials	20	Manufacture of chemicals and chemical products	etr	FPE3	quote	non_financial	MDAX addition; industry label from German Wikipedia; preference share	MDAX
+HLE.DE	Hella	Automobilzulieferer	Consumer Discretionary	29	Manufacture of motor vehicles, trailers and semi-trailers	etr	HLE	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+HAG.DE	Hensoldt	Luft- und Raumfahrttechnik, Rüstungsindustrie	Industrials	30.30	Manufacture of air and spacecraft and related machinery	etr	HAG	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+IOS.DE	Ionos Group	Internetdienstanbieter	Communication Services	63	Information service activities	etr	IOS	quote	asset_light	MDAX addition; industry label from German Wikipedia; asset_light scorecard	MDAX
+JEN.DE	Jenoptik	Photonik	Information Technology	26	Manufacture of computer, electronic and optical products	etr	JEN	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+SDF.DE	K+S	Düngemittel, Salze	Materials	08.91	Mining of chemical and fertiliser minerals	etr	SDF	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+KGX.DE	Kion Group	Flurfördergeräte	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	KGX	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+KBX.DE	Knorr-Bremse	Bremssysteme, Schienenfahrzeug-Komponenten	Industrials	30.20	Manufacture of railway locomotives and rolling stock	etr	KBX	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+KRN.DE	Krones	Maschinenbau	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	KRN	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+LXS.DE	Lanxess	Chemie	Materials	20	Manufacture of chemicals and chemical products	etr	LXS	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+LEG.DE	LEG Immobilien	Immobilien	Real Estate	68	Real estate activities	etr	LEG	quote	real_estate	MDAX addition; industry label from German Wikipedia; real_estate scorecard	MDAX
+NEM.DE	Nemetschek	Software (Bauindustrie)	Information Technology	62	Computer programming, consultancy and related activities	etr	NEM	quote	asset_light	MDAX addition; industry label from German Wikipedia; asset_light scorecard	MDAX
+NDX1.DE	Nordex	Anlagenbau	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	NDX1	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+P911.DE	Porsche	Automobilhersteller	Consumer Discretionary	29	Manufacture of motor vehicles, trailers and semi-trailers	etr	P911	quote	auto	MDAX addition; industry label from German Wikipedia; auto scorecard	MDAX
+PUM.DE	Puma	Sportartikel	Consumer Discretionary	32.30	Manufacture of sports goods	etr	PUM	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+RAA.DE	Rational	Industrie	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	RAA	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+R3NK.DE	Renk Group	Maschinenbau, Rüstungsindustrie	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	R3NK	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+RRTL.DE	RTL Group	Medien	Communication Services	59	Motion picture, video and television programme production, sound recording and music publishing activities	etr	RRTL	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+SZG.DE	Salzgitter	Stahlindustrie	Materials	24	Manufacture of basic metals	etr	SZG	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+SRT3.DE	Sartorius	Labortechnologie	Health Care	32.50	Manufacture of medical and dental instruments and supplies	etr	SRT3	quote	non_financial	MDAX addition; industry label from German Wikipedia; preference share	MDAX
+SHA0.DE	Schaeffler	Automobil- und Maschinenbauzulieferer	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	SHA0	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+WAF.DE	Siltronic	Halbleiterindustrie	Information Technology	26	Manufacture of computer, electronic and optical products	etr	WAF	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+SAX.DE	Ströer	Medien	Communication Services	59	Motion picture, video and television programme production, sound recording and music publishing activities	etr	SAX	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+SMHN.DE	Suss Microtec	Halbleiter	Information Technology	26	Manufacture of computer, electronic and optical products	etr	SMHN	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+TEG.DE	TAG Immobilien	Immobilien	Real Estate	68	Real estate activities	etr	TEG	quote	real_estate	MDAX addition; industry label from German Wikipedia; real_estate scorecard	MDAX
+TLX.DE	Talanx	Versicherungen	Financials	65	Insurance, reinsurance and pension funding, except compulsory social security	etr	TLX	quote	insurer	MDAX addition; industry label from German Wikipedia; insurer scorecard	MDAX
+TKA.DE	Thyssenkrupp	Mischkonzern	Industrials	70.10	Activities of head offices	etr	TKA	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+TKMS.DE	TKMS	Werft	Industrials	30.11	Building of ships and floating structures	etr	TKMS	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+8TRA.DE	Traton	Nutzfahrzeuge	Consumer Discretionary	29	Manufacture of motor vehicles, trailers and semi-trailers	etr	8TRA	quote	auto	MDAX addition; industry label from German Wikipedia; auto scorecard	MDAX
+TUI1.DE	TUI	Touristik	Consumer Discretionary	79	Travel agency, tour operator and other reservation service and related activities	etr	TUI1	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+UTDI.DE	United Internet	Internet-Provider, Dienstleistungen	Communication Services	61	Telecommunications	etr	UTDI	quote	telecom	MDAX addition; industry label from German Wikipedia; telecom scorecard	MDAX
+WCH.DE	Wacker Chemie	Chemie	Materials	20	Manufacture of chemicals and chemical products	etr	WCH	quote	non_financial	MDAX addition; industry label from German Wikipedia	MDAX
+1U1.DE	1&1	Telekommunikation	Communication Services	61	Telecommunications	etr	1U1	quote	telecom	SDAX addition; industry label from German Wikipedia; telecom scorecard	SDAX
+ADV.DE	Adtran Networks	Kommunikationstechnik	Information Technology	26	Manufacture of computer, electronic and optical products	etr	ADV	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+ACT0.DE	AlzChem Group	Chemische Industrie	Materials	20	Manufacture of chemicals and chemical products	etr	ACT0	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+1AST.DE	Asta Energy Solutions	Energietechnik	Industrials	27	Manufacture of electrical equipment	etr	1AST	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+AOF.DE	Atoss Software	Software	Information Technology	62	Computer programming, consultancy and related activities	etr	AOF	quote	asset_light	SDAX addition; industry label from German Wikipedia; asset_light scorecard	SDAX
+BSL.DE	Basler	Bildverarbeitung	Information Technology	26	Manufacture of computer, electronic and optical products	etr	BSL	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+BFSA.DE	Befesa	industrielle Entsorgung	Industrials	38	Waste collection, treatment and disposal activities; materials recovery	etr	BFSA	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+COK.DE	Cancom	IT-Dienstleistungen	Information Technology	62	Computer programming, consultancy and related activities	etr	COK	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+AFX.DE	Carl Zeiss Meditec	Medizintechnik	Health Care	32.50	Manufacture of medical and dental instruments and supplies	etr	AFX	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+CWC.DE	Cewe	Fototechnik, Druckerei	Communication Services	18	Printing and reproduction of recorded media	etr	CWC	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+DMP.DE	Dermapharm Holding	Pharmaindustrie	Health Care	21	Manufacture of basic pharmaceutical products and pharmaceutical preparations	etr	DMP	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+DBAN.DE	Deutsche Beteiligungs	Private Equity	Financials	64.30	Trusts, funds and similar financial entities	etr	DBAN	quote	holding	SDAX addition; industry label from German Wikipedia; holding scorecard	SDAX
+DEQ.DE	Deutsche EuroShop	Immobilien	Real Estate	68	Real estate activities	etr	DEQ	quote	real_estate	SDAX addition; industry label from German Wikipedia; real_estate scorecard	SDAX
+PBB.DE	Deutsche Pfandbriefbank	Spezialbank	Financials	64.19	Other monetary intermediation	etr	PBB	quote	bank	SDAX addition; industry label from German Wikipedia; bank scorecard	SDAX
+DOU.DE	Douglas Group	Einzelhandel	Consumer Discretionary	47	Retail trade, except of motor vehicles and motorcycles	etr	DOU	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+DRW3.DE	Drägerwerk	Medizintechnik	Health Care	32.50	Manufacture of medical and dental instruments and supplies	etr	DRW3	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+DUE.DE	Dürr	Automobilzulieferer	Consumer Discretionary	29	Manufacture of motor vehicles, trailers and semi-trailers	etr	DUE	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+EUZ.DE	Eckert & Ziegler Strahlen- und Medizintechnik	Medizintechnik und Pharmazie	Health Care	32.50	Manufacture of medical and dental instruments and supplies	etr	EUZ	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+EIN.DE	Einhell Germany	Werkzeughersteller	Industrials	25	Manufacture of fabricated metal products, except machinery and equipment	etr	EIN	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+EKT.DE	Energiekontor	Erneuerbare Energien	Utilities	35	Electricity, gas, steam and air conditioning supply	etr	EKT	quote	utility	SDAX addition; industry label from German Wikipedia; utility scorecard	SDAX
+EVT.DE	Evotec	Biotechnologie	Health Care	72	Scientific research and development	etr	EVT	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+FIE.DE	Fielmann Group	Optiker	Consumer Discretionary	47.78	Other retail sale of new goods in specialised stores	etr	FIE	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+VH2.DE	Friedrich Vorwerk	Energieinfrastruktur	Industrials	42	Civil engineering	etr	VH2	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+GFT.DE	GFT Technologies	Finanztechnologie, Versicherung, Industrie	Information Technology	62	Computer programming, consultancy and related activities	etr	GFT	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+GYC.DE	Grand City Properties	Immobilien, Wohnen	Real Estate	68	Real estate activities	etr	GYC	quote	real_estate	SDAX addition; industry label from German Wikipedia; real_estate scorecard	SDAX
+GLJ.DE	Grenke	Finanzdienstleistungen	Financials	64	Financial service activities, except insurance and pension funding	etr	GLJ	quote	bank	SDAX addition; industry label from German Wikipedia; bank scorecard	SDAX
+HABA.DE	Hamborner Reit	Immobilien	Real Estate	68	Real estate activities	etr	HABA	quote	real_estate	SDAX addition; industry label from German Wikipedia; real_estate scorecard	SDAX
+HDD.DE	Heidelberger Druckmaschinen	Maschinenbau	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	HDD	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+HFG.DE	HelloFresh	Lebensmittel	Consumer Staples	10	Manufacture of food products	etr	HFG	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+HBH.DE	Hornbach Holding	Holding	Consumer Discretionary	47.52	Retail sale of hardware, building materials and DIY goods	etr	HBH	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+BOSS.DE	Hugo Boss	Luxus	Consumer Discretionary	14.14	Manufacture of wearing apparel	etr	BOSS	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+HYQ.DE	Hypoport	Technologie	Information Technology	62	Computer programming, consultancy and related activities	etr	HYQ	quote	asset_light	SDAX addition; industry label from German Wikipedia; asset_light scorecard	SDAX
+INH.DE	Indus Holding	Beteiligungen	Financials	64.20	Activities of holding companies	etr	INH	quote	holding	SDAX addition; industry label from German Wikipedia; holding scorecard	SDAX
+IXX.DE	INIT Innovation in Traffic Systems	Verkehrstelematik	Information Technology	62	Computer programming, consultancy and related activities	etr	IXX	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+JST.DE	Jost Werke	Nutzfahrzeugzulieferer	Consumer Discretionary	29	Manufacture of motor vehicles, trailers and semi-trailers	etr	JST	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+JUN3.DE	Jungheinrich	Intralogistik, Maschinenbau	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	JUN3	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+KTN.DE	Kontron	eingebettete Rechnertechnologie	Information Technology	26	Manufacture of computer, electronic and optical products	etr	KTN	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+KSB.DE	KSB	Herstellung von Pumpen/Armaturen	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	KSB	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+KWS.DE	KWS Saat	Saatzucht, Biotechnologie	Consumer Staples	01	Crop and animal production, hunting and related service activities	etr	KWS	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+LPK.DE	LPKF Laser & Electronics	Maschinenbau	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	LPK	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+MBB.DE	MBB	Beteiligungen	Financials	64.20	Activities of holding companies	etr	MBB	quote	holding	SDAX addition; industry label from German Wikipedia; holding scorecard	SDAX
+ILM1.DE	Medios	Pharmaindustrie	Health Care	21	Manufacture of basic pharmaceutical products and pharmaceutical preparations	etr	ILM1	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+MLP.DE	MLP	Allfinanz	Financials	66	Activities auxiliary to financial services and insurance activities	etr	MLP	quote	bank	SDAX addition; industry label from German Wikipedia; bank scorecard	SDAX
+MUX.DE	Mutares	Beteiligungen	Financials	64.20	Activities of holding companies	etr	MUX	quote	holding	SDAX addition; industry label from German Wikipedia; holding scorecard	SDAX
+NOEJ.DE	Norma Group	Industrie	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	NOEJ	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+OHB.DE	OHB	Raumfahrt- und Technologiekonzern	Industrials	30.30	Manufacture of air and spacecraft and related machinery	etr	OHB	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+OBCK.DE	Ottobock	Orthopäde	Health Care	32.50	Manufacture of medical and dental instruments and supplies	etr	OBCK	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+PAT.DE	Patrizia	Immobilien	Real Estate	68	Real estate activities	etr	PAT	quote	real_estate	SDAX addition; industry label from German Wikipedia; real_estate scorecard	SDAX
+PNE3.DE	PNE	Windenergie	Utilities	35	Electricity, gas, steam and air conditioning supply	etr	PNE3	quote	utility	SDAX addition; industry label from German Wikipedia; utility scorecard	SDAX
+PCZ.DE	ProCredit Holding	Finanzdienstleistungen	Financials	64	Financial service activities, except insurance and pension funding	etr	PCZ	quote	bank	SDAX addition; industry label from German Wikipedia; bank scorecard	SDAX
+TPE.DE	PVA TePla	Maschinenbau	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	TPE	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+RDC.DE	Redcare Pharmacy	Apotheke	Health Care	47.73	Dispensing chemist in specialised stores	etr	RDC	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+SFQ.DE	SAF-Holland	Industrie	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	SFQ	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+1SXP.DE	Schott Pharma	Pharmaindustrie	Health Care	21	Manufacture of basic pharmaceutical products and pharmaceutical preparations	etr	1SXP	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+YSN.DE	Secunet Security Networks	IT-Dienstleistungen	Information Technology	62	Computer programming, consultancy and related activities	etr	YSN	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+F3C.DE	SFC Energy	Energietechnik	Industrials	27	Manufacture of electrical equipment	etr	F3C	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+SGL.DE	SGL Carbon	Spezialchemie	Materials	20	Manufacture of chemicals and chemical products	etr	SGL	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+SLYG.DE	Shelly Group	Energietechnik	Industrials	27	Manufacture of electrical equipment	bul	SLYG	quote	non_financial	SDAX addition; industry label from German Wikipedia; source uses Bulgarian listing	SDAX
+SIX2.DE	Sixt	Mobilität	Consumer Discretionary	77.11	Renting and leasing of cars and light motor vehicles	etr	SIX2	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+S92.DE	SMA Solar Technology	Solartechnik	Industrials	27	Manufacture of electrical equipment	etr	S92	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+SPG.DE	Springer Nature	Verlag	Communication Services	58	Publishing activities	etr	SPG	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+STM.DE	Stabilus	Automobilzulieferer	Consumer Discretionary	29	Manufacture of motor vehicles, trailers and semi-trailers	etr	STM	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+STO3.DE	Sto	Baustoffe, Bauchemie	Materials	23	Manufacture of other non-metallic mineral products	etr	STO3	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+SZU.DE	Südzucker	Nahrungsmittel	Consumer Staples	10	Manufacture of food products	etr	SZU	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+TMV.DE	TeamViewer	Software	Information Technology	62	Computer programming, consultancy and related activities	etr	TMV	quote	asset_light	SDAX addition; industry label from German Wikipedia; asset_light scorecard	SDAX
+TNIE.DE	Tonies	Spielwaren	Consumer Discretionary	32.40	Manufacture of games and toys	fra	TNIE	quote	non_financial	SDAX addition; industry label from German Wikipedia; source uses Frankfurt listing	SDAX
+VBK.DE	Verbio	Biokraftstoffe	Utilities	35	Electricity, gas, steam and air conditioning supply	etr	VBK	quote	utility	SDAX addition; industry label from German Wikipedia; utility scorecard	SDAX
+V1NC.DE	Vincorion	Rüstung, Luftfahrt	Industrials	30.30	Manufacture of air and spacecraft and related machinery	etr	V1NC	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+VOS.DE	Vossloh	Bahntechnik	Industrials	30.20	Manufacture of railway locomotives and rolling stock	etr	VOS	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX
+WAC.DE	Wacker Neuson	Maschinenbau	Industrials	28	Manufacture of machinery and equipment n.e.c.	etr	WAC	quote	non_financial	SDAX addition; industry label from German Wikipedia	SDAX

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="964" height="290" viewBox="0 0 964 290">
+<rect width="964" height="290" fill="#ffffff"/>
+<text x="482.00" y="26.00" font-size="18" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="bold" text-anchor="middle">DAX monthly returns</text>
+<text x="482.00" y="46.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">Month-end close versus previous month-end</text>
+<text x="106.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">01</text>
+<text x="178.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">02</text>
+<text x="250.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">03</text>
+<text x="322.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">04</text>
+<text x="394.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">05</text>
+<text x="466.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">06</text>
+<text x="538.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">07</text>
+<text x="610.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">08</text>
+<text x="682.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">09</text>
+<text x="754.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">10</text>
+<text x="826.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">11</text>
+<text x="898.00" y="80.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">12</text>
+<text x="60.00" y="114.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">2024</text>
+<rect x="70.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="142.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="214.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="286.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="358.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="430.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="502.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="574.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="646.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="718.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="790.00" y="90.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<rect x="862.00" y="90.00" width="72.00" height="40.00" fill="rgb(219,237,219)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="898.00" y="114.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+1.4%</text>
+<text x="60.00" y="154.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">2025</text>
+<rect x="70.00" y="130.00" width="72.00" height="40.00" fill="rgb(28,142,28)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="106.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+9.2%</text>
+<rect x="142.00" y="130.00" width="72.00" height="40.00" fill="rgb(161,208,161)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="178.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+3.8%</text>
+<rect x="214.00" y="130.00" width="72.00" height="40.00" fill="rgb(245,212,212)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="250.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-1.7%</text>
+<rect x="286.00" y="130.00" width="72.00" height="40.00" fill="rgb(217,236,217)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="322.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+1.5%</text>
+<rect x="358.00" y="130.00" width="72.00" height="40.00" fill="rgb(89,172,89)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="394.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+6.7%</text>
+<rect x="430.00" y="130.00" width="72.00" height="40.00" fill="rgb(253,245,245)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="466.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-0.4%</text>
+<rect x="502.00" y="130.00" width="72.00" height="40.00" fill="rgb(238,246,238)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="538.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+0.7%</text>
+<rect x="574.00" y="130.00" width="72.00" height="40.00" fill="rgb(251,238,238)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="610.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-0.7%</text>
+<rect x="646.00" y="130.00" width="72.00" height="40.00" fill="rgb(254,252,252)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="682.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-0.1%</text>
+<rect x="718.00" y="130.00" width="72.00" height="40.00" fill="rgb(246,250,246)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="754.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+0.3%</text>
+<rect x="790.00" y="130.00" width="72.00" height="40.00" fill="rgb(252,242,242)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="826.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-0.5%</text>
+<rect x="862.00" y="130.00" width="72.00" height="40.00" fill="rgb(187,221,187)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="898.00" y="154.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+2.7%</text>
+<text x="60.00" y="194.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">2026</text>
+<rect x="70.00" y="170.00" width="72.00" height="40.00" fill="rgb(250,252,250)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="106.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+0.2%</text>
+<rect x="142.00" y="170.00" width="72.00" height="40.00" fill="rgb(179,217,179)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="178.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+3.0%</text>
+<rect x="214.00" y="170.00" width="72.00" height="40.00" fill="rgb(200,0,0)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="250.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-10.3%</text>
+<rect x="286.00" y="170.00" width="72.00" height="40.00" fill="rgb(78,167,78)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="322.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+7.1%</text>
+<rect x="358.00" y="170.00" width="72.00" height="40.00" fill="rgb(172,213,172)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="394.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+3.3%</text>
+<rect x="430.00" y="170.00" width="72.00" height="40.00" fill="rgb(252,244,244)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="466.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-0.4%</text>
+<rect x="502.00" y="170.00" width="72.00" height="40.00" fill="rgb(192,223,192)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="538.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+2.5%</text>
+<rect x="574.00" y="170.00" width="72.00" height="40.00" fill="rgb(194,224,194)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="610.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+2.5%</text>
+<rect x="646.00" y="170.00" width="72.00" height="40.00" fill="rgb(233,155,155)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="682.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">-4.0%</text>
+<rect x="718.00" y="170.00" width="72.00" height="40.00" fill="rgb(194,224,194)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="754.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+2.5%</text>
+<rect x="790.00" y="170.00" width="72.00" height="40.00" fill="rgb(211,233,211)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="826.00" y="194.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="middle">+1.7%</text>
+<rect x="862.00" y="170.00" width="72.00" height="40.00" fill="rgb(255,255,255)" stroke="#ffffff" stroke-width="1" opacity="1.0"/>
+<text x="70.00" y="270.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="start">Green = positive month, red = negative month</text>
+</svg>

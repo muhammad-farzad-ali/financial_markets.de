@@ -1,0 +1,8 @@
+series_id	name	asset_class	group	unit	currency	symbol
+DAX	DAX	index	Indices	points	EUR	.GDAXI
+MDAX	MDAX	index	Indices	points	EUR	.MDAXI
+SDAX	SDAX	index	Indices	points	EUR	.SDAXI
+TECDAX	TecDAX	index	Indices	points	EUR	.TECDAX
+SX5E	Euro Stoxx 50	index	Indices	points	EUR	.STOXX50E
+EURUSD	EUR/USD	fx	FX	ratio	USD	EUR=
+DE10Y	German 10Y Bund Yield	rate	Rates	percent	EUR	DE10Y-DE

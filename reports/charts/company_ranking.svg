@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="910" viewBox="0 0 1120 910">
+<rect width="1120" height="910" fill="#ffffff"/>
+<text x="560.00" y="26.00" font-size="18" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="bold" text-anchor="middle">DAX 40 — one-year total price return</text>
+<text x="560.00" y="46.00" font-size="11" font-family="Helvetica, Arial, sans-serif" fill="#666666" font-weight="normal" text-anchor="middle">Sorted from weakest to strongest; colour = broad sector</text>
+<line x1="506.78" y1="80.00" x2="506.78" y2="840.00" stroke="#888888" stroke-width="1" opacity="1.0"/>
+<rect x="293.79" y="82.00" width="212.99" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="93.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Rheinmetall</text>
+<text x="288.79" y="93.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-52.7%</text>
+<rect x="376.29" y="101.00" width="130.49" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="112.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">BMW</text>
+<text x="371.29" y="112.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-32.3%</text>
+<rect x="380.04" y="120.00" width="126.74" height="14.00" fill="#bcbd22" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="131.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Vonovia</text>
+<text x="375.04" y="131.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-31.4%</text>
+<rect x="392.05" y="139.00" width="114.73" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="150.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Mercedes-Benz Group</text>
+<text x="387.05" y="150.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-28.4%</text>
+<rect x="397.68" y="158.00" width="109.10" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="169.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Porsche SE</text>
+<text x="392.68" y="169.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-27.0%</text>
+<rect x="399.07" y="177.00" width="107.71" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="188.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Volkswagen Group</text>
+<text x="394.07" y="188.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-26.6%</text>
+<rect x="464.31" y="196.00" width="42.47" height="14.00" fill="#7f7f7f" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="207.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Heidelberg Materials</text>
+<text x="459.31" y="207.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-10.5%</text>
+<rect x="470.07" y="215.00" width="36.71" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="226.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Beiersdorf</text>
+<text x="465.07" y="226.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-9.1%</text>
+<rect x="488.52" y="234.00" width="18.25" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="245.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Scout24</text>
+<text x="483.52" y="245.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-4.5%</text>
+<rect x="491.66" y="253.00" width="15.12" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="264.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">MTU Aero Engines</text>
+<text x="486.66" y="264.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-3.7%</text>
+<rect x="497.01" y="272.00" width="9.77" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="283.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Airbus</text>
+<text x="492.01" y="283.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-2.4%</text>
+<rect x="498.18" y="291.00" width="8.60" height="14.00" fill="#e377c2" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="302.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">SAP</text>
+<text x="493.18" y="302.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-2.1%</text>
+<rect x="498.75" y="310.00" width="8.03" height="14.00" fill="#1f77b4" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="321.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Deutsche Telekom</text>
+<text x="493.75" y="321.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-2.0%</text>
+<rect x="504.91" y="329.00" width="1.86" height="14.00" fill="#9467bd" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="340.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Siemens Healthineers</text>
+<text x="499.91" y="340.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-0.5%</text>
+<rect x="505.11" y="348.00" width="1.67" height="14.00" fill="#9467bd" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="359.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Fresenius Medical Care</text>
+<text x="500.11" y="359.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">-0.4%</text>
+<rect x="506.78" y="367.00" width="0.25" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="378.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Deutsche Bank</text>
+<text x="512.03" y="378.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+0.1%</text>
+<rect x="506.78" y="386.00" width="16.04" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="397.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Munich Re</text>
+<text x="527.82" y="397.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+4.0%</text>
+<rect x="506.78" y="405.00" width="38.39" height="14.00" fill="#9467bd" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="416.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Fresenius</text>
+<text x="550.17" y="416.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+9.5%</text>
+<rect x="506.78" y="424.00" width="39.27" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="435.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Continental</text>
+<text x="551.05" y="435.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+9.7%</text>
+<rect x="506.78" y="443.00" width="41.62" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="454.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Siemens</text>
+<text x="553.40" y="454.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+10.3%</text>
+<rect x="506.78" y="462.00" width="49.62" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="473.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Hannover Re</text>
+<text x="561.40" y="473.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+12.3%</text>
+<rect x="506.78" y="481.00" width="53.19" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="492.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Adidas</text>
+<text x="564.96" y="492.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+13.2%</text>
+<rect x="506.78" y="500.00" width="59.49" height="14.00" fill="#9467bd" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="511.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Qiagen</text>
+<text x="571.27" y="511.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+14.7%</text>
+<rect x="506.78" y="519.00" width="60.39" height="14.00" fill="#2ca02c" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="530.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Henkel</text>
+<text x="572.17" y="530.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+14.9%</text>
+<rect x="506.78" y="538.00" width="66.80" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="549.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Siemens Energy</text>
+<text x="578.58" y="549.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+16.5%</text>
+<rect x="506.78" y="557.00" width="69.02" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="568.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Commerzbank</text>
+<text x="580.80" y="568.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+17.1%</text>
+<rect x="506.78" y="576.00" width="70.86" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="587.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Daimler Truck</text>
+<text x="582.64" y="587.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+17.5%</text>
+<rect x="506.78" y="595.00" width="74.74" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="606.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">GEA Group</text>
+<text x="586.52" y="606.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+18.5%</text>
+<rect x="506.78" y="614.00" width="79.68" height="14.00" fill="#17becf" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="625.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">E.ON</text>
+<text x="591.46" y="625.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+19.7%</text>
+<rect x="506.78" y="633.00" width="86.46" height="14.00" fill="#d62728" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="644.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Zalando</text>
+<text x="598.24" y="644.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+21.4%</text>
+<rect x="506.78" y="652.00" width="101.76" height="14.00" fill="#7f7f7f" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="663.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">BASF</text>
+<text x="613.54" y="663.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+25.2%</text>
+<rect x="506.78" y="671.00" width="113.51" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="682.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Allianz</text>
+<text x="625.29" y="682.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+28.1%</text>
+<rect x="506.78" y="690.00" width="128.18" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="701.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Brenntag</text>
+<text x="639.96" y="701.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+31.7%</text>
+<rect x="506.78" y="709.00" width="129.23" height="14.00" fill="#7f7f7f" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="720.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Symrise</text>
+<text x="641.01" y="720.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+32.0%</text>
+<rect x="506.78" y="728.00" width="134.49" height="14.00" fill="#8c564b" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="739.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Deutsche Post</text>
+<text x="646.27" y="739.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+33.3%</text>
+<rect x="506.78" y="747.00" width="140.69" height="14.00" fill="#17becf" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="758.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">RWE</text>
+<text x="652.47" y="758.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+34.8%</text>
+<rect x="506.78" y="766.00" width="145.55" height="14.00" fill="#9467bd" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="777.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Merck</text>
+<text x="657.32" y="777.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+36.0%</text>
+<rect x="506.78" y="785.00" width="185.29" height="14.00" fill="#e377c2" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="796.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Infineon Technologies</text>
+<text x="697.07" y="796.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+45.8%</text>
+<rect x="506.78" y="804.00" width="206.47" height="14.00" fill="#ff7f0e" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="815.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Deutsche Börse</text>
+<text x="718.25" y="815.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+51.1%</text>
+<rect x="506.78" y="823.00" width="459.43" height="14.00" fill="#9467bd" stroke="none" stroke-width="1.0" opacity="0.9"/>
+<text x="232.00" y="834.50" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="end">Bayer</text>
+<text x="971.21" y="834.50" font-size="8" font-family="Helvetica, Arial, sans-serif" fill="#222222" font-weight="normal" text-anchor="start">+113.7%</text>
+<line x1="304.67" y1="80.00" x2="304.67" y2="840.00" stroke="#eeeeee" stroke-width="1" opacity="1.0"/>
+<text x="304.67" y="72.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">-50%</text>
+<line x1="506.78" y1="80.00" x2="506.78" y2="840.00" stroke="#eeeeee" stroke-width="1" opacity="1.0"/>
+<text x="506.78" y="72.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">0%</text>
+<line x1="708.88" y1="80.00" x2="708.88" y2="840.00" stroke="#eeeeee" stroke-width="1" opacity="1.0"/>
+<text x="708.88" y="72.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">50%</text>
+<line x1="910.99" y1="80.00" x2="910.99" y2="840.00" stroke="#eeeeee" stroke-width="1" opacity="1.0"/>
+<text x="910.99" y="72.00" font-size="9" font-family="Helvetica, Arial, sans-serif" fill="#555555" font-weight="normal" text-anchor="middle">100%</text>
+<line x1="240.00" y1="866.00" x2="258.00" y2="866.00" stroke="#1f77b4" stroke-width="2.5" opacity="1.0"/>
+<text x="264.00" y="870.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Communication Services</text>
+<line x1="450.00" y1="866.00" x2="468.00" y2="866.00" stroke="#d62728" stroke-width="2.5" opacity="1.0"/>
+<text x="474.00" y="870.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Consumer Discretionary</text>
+<line x1="660.00" y1="866.00" x2="678.00" y2="866.00" stroke="#2ca02c" stroke-width="2.5" opacity="1.0"/>
+<text x="684.00" y="870.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Consumer Staples</text>
+<line x1="870.00" y1="866.00" x2="888.00" y2="866.00" stroke="#ff7f0e" stroke-width="2.5" opacity="1.0"/>
+<text x="894.00" y="870.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Financials</text>
+<line x1="1080.00" y1="866.00" x2="1098.00" y2="866.00" stroke="#9467bd" stroke-width="2.5" opacity="1.0"/>
+<text x="1104.00" y="870.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Health Care</text>
+<line x1="240.00" y1="884.00" x2="258.00" y2="884.00" stroke="#8c564b" stroke-width="2.5" opacity="1.0"/>
+<text x="264.00" y="888.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Industrials</text>
+<line x1="450.00" y1="884.00" x2="468.00" y2="884.00" stroke="#e377c2" stroke-width="2.5" opacity="1.0"/>
+<text x="474.00" y="888.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Information Technology</text>
+<line x1="660.00" y1="884.00" x2="678.00" y2="884.00" stroke="#7f7f7f" stroke-width="2.5" opacity="1.0"/>
+<text x="684.00" y="888.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Materials</text>
+<line x1="870.00" y1="884.00" x2="888.00" y2="884.00" stroke="#bcbd22" stroke-width="2.5" opacity="1.0"/>
+<text x="894.00" y="888.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Real Estate</text>
+<line x1="1080.00" y1="884.00" x2="1098.00" y2="884.00" stroke="#17becf" stroke-width="2.5" opacity="1.0"/>
+<text x="1104.00" y="888.00" font-size="10" font-family="Helvetica, Arial, sans-serif" fill="#333333" font-weight="normal" text-anchor="start">Utilities</text>
+</svg>

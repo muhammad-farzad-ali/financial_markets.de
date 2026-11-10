@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Cached HTTP responses and generated chart exports
+data/raw/
+reports/charts/*.png
